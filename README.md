@@ -2,7 +2,7 @@
 
 
 <img src="img/ex_in_style-COLOR2.png" width="600">
-<small>Stefan Themerson's cover for the 1958 edition of Raymond Queneau's "Exercises in Style", vectorized and colorized by Wouter Haverals.</small>
+<p style="font-size: 12px;">Stefan Themerson's cover for the 1958 edition of Raymond Queneau's "Exercises in Style", vectorized and colorized by Wouter Haverals.</p>
 
 
 **Note:** This notebook is a work in progress and serves as a first viable proof of concept. There might be bugs! 🐞
