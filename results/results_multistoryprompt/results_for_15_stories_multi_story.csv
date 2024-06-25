@@ -1,0 +1,244 @@
+Experiment,Story Index,True Label,Predicted Label,Correct,Label Space Size
+1,17,negativities,polyptotes,False,15
+1,45,parechesis,gallicisms,False,15
+1,51,biased,surprises,False,15
+1,53,olfactory,olfactory,True,15
+1,75,back slang,haiku,False,15
+1,36,syncope,back slang,False,15
+1,27,ignorance,ignorance,True,15
+1,66,gallicisms,feminine,False,15
+1,62,reactionary,reactionary,True,15
+1,49,awkward,parechesis,False,15
+1,63,haiku,haiku,True,15
+1,33,polyptotes,biased,False,15
+1,5,surprises,13:,False,15
+2,12,precision,mathematical,False,15
+2,42,cross-examination,cross-examination,True,15
+2,69,paragoge,for ze Frrensh,False,15
+2,72,consequences,more or less,False,15
+2,94,precious,modern style,False,15
+2,32,alexandrines,alexandrines,True,15
+2,17,negativities,preciseness,False,15
+2,91,mathematical,negativities,False,15
+2,78,more or less,paragoge,False,15
+2,61,hellenisms,the rainbow,False,15
+2,80,for ze Frrensh,you,False,15
+3,7,prognostication,noble,False,15
+3,40,noble,precision,False,15
+3,55,tactile,tactile,True,15
+3,56,visual,botanical,False,15
+3,82,botanical,parechesis,False,15
+3,26,insistence,opera English,False,15
+3,11,hesitation,hesitation,True,15
+3,79,opera English,metathesis,False,15
+3,62,reactionary,reactionary,True,15
+3,45,parechesis,double entry,False,15
+3,67,prosthesis,polyptotes,False,15
+3,12,precision,prosthesis,False,15
+3,1,double entry,13:,False,15
+4,8,synchysis,free verse,False,15
+4,51,biased,proper names,False,15
+4,73,proper names,zoological,False,15
+4,79,opera English,opera English,True,15
+4,94,precious,precious,True,15
+4,41,cockney,cockney,True,15
+4,24,onomatopoeia,onomatopoeia,True,15
+4,93,interjections,interjections,True,15
+4,81,spoonerisms,synchysis,False,15
+4,64,free verse,mathematical,False,15
+4,86,zoological,spoonerisms,False,15
+4,31,passive,12:,False,15
+5,11,hesitation,the subjective side,False,15
+5,37,speaking personally,gallicisms,False,15
+5,40,noble,noble,True,15
+5,57,auditory,auditory,True,15
+5,91,mathematical,haiku,False,15
+5,28,past,past,True,15
+5,13,the subjective side,reported speech,False,15
+5,71,metathesis,metathesis,True,15
+5,63,haiku,haiku,True,15
+5,38,exclamations,exclamations,True,15
+5,66,gallicisms,gallicisms,True,15
+5,18,minimism,parts,False,15
+6,15,narrative,narrative,True,15
+6,42,cross-examination,cross-examination,True,15
+6,56,visual,more or less,False,15
+6,70,parts of speech,parts of speech,True,15
+6,78,more or less,syncope,False,15
+6,36,syncope,dog latin,False,15
+6,26,insistence,insistence,True,15
+6,77,dog latin,noble,False,15
+6,71,metathesis,awkward,False,15
+6,49,awkward,hesitation,False,15
+6,74,rhyming slang,rhyming slang,True,15
+6,30,reported speech,reported speech,True,15
+7,8,synchysis,retrograde,False,15
+7,23,blurb,blurb,True,15
+7,33,polyptotes,polyptotes,True,15
+7,37,speaking personally,speaking personally,True,15
+7,90,portrait,gastronomical,False,15
+7,16,word-composition,hesitations,False,15
+7,10,word game,anagrams,False,15
+7,87,futile,portrait,False,15
+7,61,hellenisms,hellenisms,True,15
+7,24,onomatopoeia,onomatopoeia,True,15
+7,79,opera English,opera English,True,15
+8,30,reported speech,reported speech,True,15
+8,64,free verse,free verse,True,15
+8,68,epenthesis,back slang,False,15
+8,70,parts of speech,parts of speech,True,15
+8,91,mathematical,mathematical,True,15
+8,53,olfactory,olfactory,True,15
+8,35,apocope,epenthesis,False,15
+8,88,modern style,casual,False,15
+8,75,back slang,prosthesis,False,15
+8,67,prosthesis,ignorance,False,15
+8,76,antiphrasis,futile,False,15
+8,50,casual,antiphrasis,False,15
+9,10,word game,portrait,False,15
+9,42,cross-examination,cross-examination,True,15
+9,63,haiku,haiku,True,15
+9,76,antiphrasis,another subjectivity,False,15
+9,90,portrait,gastronomical,False,15
+9,31,passive,passive,True,15
+9,14,another subjectivity,cockney,False,15
+9,85,gastronomical,onomatopoeia,False,15
+9,79,opera English,opera English,True,15
+9,45,parechesis,parechesis,True,15
+9,81,spoonerisms,spoonerisms,True,15
+10,7,prognostication,portrait,False,15
+10,28,past,surprises,False,15
+10,42,cross-examination,cross-examination,True,15
+10,47,philosophic,philosophic,True,15
+10,94,precious,gustatory,False,15
+10,18,minimism,apheresis,False,15
+10,12,precision,precision,True,15
+10,91,mathematical,mathematical,True,15
+10,54,gustatory,omeoptotes,False,15
+10,34,apheresis,rhyming slang,False,15
+10,74,rhyming slang,another subjectivity,False,15
+10,14,another subjectivity,12:,False,15
+11,3,metaphorically,botanical,False,15
+11,15,narrative,more or less,False,15
+11,47,philosophic,philosophic,True,15
+11,50,casual,hesitation,False,15
+11,88,modern style,casual,False,15
+11,11,hesitation,another subjectivity,False,15
+11,4,retrograde,narrative,False,15
+11,82,botanical,onomatopoeia,False,15
+11,69,paragoge,retrograde,False,15
+11,24,onomatopoeia,rhyming slang,False,15
+11,74,rhyming slang,litotes,False,15
+11,9,the rainbow,12:,False,15
+12,7,prognostication,narrative,False,15
+12,26,insistence,litotes,False,15
+12,54,gustatory,gustatory,True,15
+12,62,reactionary,reactionary,True,15
+12,94,precious,precision,False,15
+12,23,blurb,blurb,True,15
+12,12,precision,parts of speech,False,15
+12,92,west indian,west indian,True,15
+12,70,parts of speech,futile,False,15
+12,33,polyptotes,insistence,False,15
+12,80,for ze Frrensh,for ze French,False,15
+12,15,narrative,prognostication,False,15
+12,2,litotes,13:,False,15
+13,7,prognostication,portrait,False,15
+13,28,past,precision,False,15
+13,44,asides,synchysis,False,15
+13,55,tactile,tactile,True,15
+13,90,portrait,dog latin,False,15
+13,12,precision,medical,False,15
+13,8,synchysis,asides,False,15
+13,83,medical,feminine,False,15
+13,60,O,O,True,15
+13,38,exclamations,exclamations,True,15
+13,65,feminine,surprises,False,15
+13,9,the rainbow,past,False,15
+13,5,surprises,blurb,False,15
+13,23,blurb,UNASSIGNED,False,15
+14,20,distinguo,parechesis,False,15
+14,43,comedy,comedy,True,15
+14,50,casual,casual,True,15
+14,61,hellenisms,futile,False,15
+14,94,precious,precious,True,15
+14,26,insistence,insistence,True,15
+14,21,omeoptotes,epenthesis,False,15
+14,90,portrait,portrait,True,15
+14,68,epenthesis,omeoptotes,False,15
+14,45,parechesis,proper names,False,15
+14,73,proper names,distinguo,False,15
+14,25,logical analysis,logical analysis,True,15
+14,7,prognostication,UNASSIGNED,False,15
+15,15,narrative,narrative,True,15
+15,52,sonnet,alexandrines,False,15
+15,61,hellenisms,dog latin,False,15
+15,66,gallicisms,gallicisms,True,15
+15,88,modern style,abusive,False,15
+15,39,you know,you know,True,15
+15,22,official letter,official letter,True,15
+15,86,zoological,zoological,True,15
+15,73,proper names,proper names,True,15
+15,56,visual,visual,True,15
+15,77,dog latin,parechesis,False,15
+15,32,alexandrines,sonnet,False,15
+16,5,surprises,surprises,True,15
+16,35,apocope,telegraphic,False,15
+16,49,awkward,double entry,False,15
+16,58,telegraphic,anagrams,False,15
+16,95,unexpected,word game,False,15
+16,19,anagrams,apocope,False,15
+16,10,word game,parts of speech,False,15
+16,89,probabilist,probabilist,True,15
+16,70,parts of speech,cross-examination,False,15
+16,42,cross-examination,gastronomical,False,15
+16,72,consequences,awkward,False,15
+16,17,negativities,alex,False,15
+17,30,reported speech,reported speech,True,15
+17,53,olfactory,olfactory,True,15
+17,76,antiphrasis,west indian,False,15
+17,79,opera English,opera English,True,15
+17,92,west indian,for ze Frrensh,False,15
+17,45,parechesis,parechesis,True,15
+17,36,syncope,syncope,True,15
+17,87,futile,futile,True,15
+17,80,for ze Frrensh,botanica,False,15
+17,62,reactionary,abusive,False,15
+17,82,botanical,word-composition,False,15
+17,39,you know,UNASSIGNED,False,15
+18,10,word game,reported speech,False,15
+18,42,cross-examination,cross-examination,True,15
+18,57,auditory,onomatopoeia,False,15
+18,73,proper names,proper names,True,15
+18,91,mathematical,auditory,False,15
+18,28,past,portrait,False,15
+18,20,distinguo,dog latin,False,15
+18,90,portrait,botanical,False,15
+18,77,dog latin,futile,False,15
+18,48,apostrophe,apostrophe,True,15
+18,82,botanical,distinguo,False,15
+18,24,onomatopoeia,word game,False,15
+19,5,surprises,portrait,False,15
+19,51,biased,portrait,False,15
+19,57,auditory,auditory,True,15
+19,63,haiku,haiku,True,15
+19,91,mathematical,mathematical,True,15
+19,21,omeoptotes,epenthesis,False,15
+19,8,synchysis,distinguo,False,15
+19,90,portrait,olfactory,False,15
+19,68,epenthesis,retrograde,False,15
+19,53,olfactory,gastronomical,False,15
+19,73,proper names,polyptotes,False,15
+19,20,distinguo,synchysis,False,15
+20,4,retrograde,consequences,False,15
+20,41,cockney,cockney,True,15
+20,60,O,notation,False,15
+20,64,free verse,botanical,False,15
+20,93,interjections,interjections,True,15
+20,24,onomatopoeia,onomatopoeia,True,15
+20,6,dream,dream,True,15
+20,82,botanical,olfactory,False,15
+20,71,metathesis,metathesis,True,15
+20,53,olfactory,more or less,False,15
+20,72,consequences,retrograde,False,15
+20,10,word game,word game,True,15

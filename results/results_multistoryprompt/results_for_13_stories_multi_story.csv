@@ -1,0 +1,241 @@
+Experiment,Story Index,True Label,Predicted Label,Correct,Label Space Size
+1,51,biased,surprises,False,13
+1,66,gallicisms,gallicisms,True,13
+1,45,parechesis,parechesis,True,13
+1,65,feminine,feminine,True,13
+1,33,polyptotes,biased,False,13
+1,62,reactionary,reactionary,True,13
+1,27,ignorance,ignorance,True,13
+1,53,olfactory,olfactory,True,13
+1,63,haiku,haiku,True,13
+1,38,exclamations,exclamations,True,13
+1,5,surprises,awkward,False,13
+1,49,awkward,polyptotes,False,13
+1,75,back slang,13:,False,13
+2,39,you know,for ze Frrensh,False,13
+2,91,mathematical,mathematical,True,13
+2,32,alexandrines,alexandrines,True,13
+2,88,modern style,negativities,False,13
+2,17,negativities,precision,False,13
+2,78,more or less,paragoge,False,13
+2,12,precision,modern style,False,13
+2,69,paragoge,more or less,False,13
+2,80,for ze Frrensh,syncope,False,13
+2,18,minimism,minimism,True,13
+2,9,the rainbow,the rainbow,True,13
+3,56,visual,botanical,False,13
+3,79,opera English,opera English,True,13
+3,45,parechesis,metathesis,False,13
+3,72,consequences,consequences,True,13
+3,40,noble,precision,False,13
+3,62,reactionary,reactionary,True,13
+3,26,insistence,tactile,False,13
+3,61,hellenisms,hellenisms,True,13
+3,71,metathesis,parechesis,False,13
+3,42,cross-examination,cross-examination,True,13
+3,12,precision,noble,False,13
+3,55,tactile,visual,False,13
+3,82,botanical,insistence,False,13
+4,67,prosthesis,biased,False,13
+4,91,mathematical,mathematical,True,13
+4,33,polyptotes,zoological,False,13
+4,86,zoological,spoonerisms,False,13
+4,7,prognostication,prosthesis,False,13
+4,79,opera English,opera English,True,13
+4,1,double entry,polyptotes,False,13
+4,71,metathesis,metathesis,True,13
+4,81,spoonerisms,hesitation,False,13
+4,11,hesitation,prognostication,False,13
+4,0,notation,double entry,False,13
+4,51,biased,notation,False,13
+5,41,cockney,cockney,True,13
+5,91,mathematical,mathematical,True,13
+5,30,reported speech,reported speech,True,13
+5,73,proper names,proper names,True,13
+5,24,onomatopoeia,onomatopoeia,True,13
+5,64,free verse,minimism,False,13
+5,18,minimism,passive,False,13
+5,42,cross-examination,cross-examination,True,13
+5,70,parts of speech,parts of speech,True,13
+5,28,past,precious,False,13
+5,8,synchysis,synchysis,True,13
+5,31,passive,12:,False,13
+6,40,noble,noble,True,13
+6,71,metathesis,metathesis,True,13
+6,37,speaking personally,speaking personally,True,13
+6,66,gallicisms,gallicisms,True,13
+6,13,the subjective side,narrative,False,13
+6,57,auditory,auditory,True,13
+6,11,hesitation,the subjective side,False,13
+6,42,cross-examination,cross-examination,True,13
+6,63,haiku,haiku,True,13
+6,15,narrative,hesitation,False,13
+6,10,word game,word game,True,13
+6,38,exclamations,exclamations,True,13
+7,56,visual,visual,True,13
+7,77,dog latin,dog latin,True,13
+7,40,noble,noble,True,13
+7,76,antiphrasis,more or less,False,13
+7,30,reported speech,reported speech,True,13
+7,71,metathesis,metathesis,True,13
+7,26,insistence,insistence,True,13
+7,70,parts of speech,parts of speech,True,13
+7,74,rhyming slang,rhyming slang,True,13
+7,36,syncope,awkward,False,13
+7,11,hesitation,hesitation,True,13
+7,49,awkward,antiphr,False,13
+8,24,onomatopoeia,onomatopoeia,True,13
+8,85,gastronomical,gastronomical,True,13
+8,19,anagrams,hesitation,False,13
+8,79,opera English,opera English,True,13
+8,11,hesitation,futile,False,13
+8,37,speaking personally,speaking personally,True,13
+8,8,synchysis,retrograde,False,13
+8,33,polyptotes,polyptotes,True,13
+8,61,hellenisms,hellenisms,True,13
+8,16,word-composition,word-composition,True,13
+8,4,retrograde,blurb,False,13
+9,67,prosthesis,retrograde,False,13
+9,90,portrait,portrait,True,13
+9,35,apocope,parts of speech,False,13
+9,88,modern style,casual,False,13
+9,27,ignorance,reported speech,False,13
+9,70,parts of speech,epenthesis,False,13
+9,10,word game,futile,False,13
+9,68,epenthesis,apocope,False,13
+9,87,futile,modern style,False,13
+9,30,reported speech,ignorance,False,13
+9,4,retrograde,word game,False,13
+9,50,casual,mathematical,False,13
+9,91,mathematical,13:,False,13
+10,64,free verse,portrait,False,13
+10,85,gastronomical,gastronomical,True,13
+10,53,olfactory,olfactory,True,13
+10,83,medical,medical,True,13
+10,41,cockney,cockney,True,13
+10,76,antiphrasis,auditory,False,13
+10,35,apocope,back slang,False,13
+10,75,back slang,apocope,False,13
+10,79,opera English,opera English,True,13
+10,45,parechesis,parechesis,True,13
+10,10,word game,word game,True,13
+10,57,auditory,free verse,False,13
+11,42,cross-examination,cross-examination,True,13
+11,91,mathematical,mathematical,True,13
+11,31,passive,passive,True,13
+11,81,spoonerisms,spoonerisms,True,13
+11,24,onomatopoeia,onomatopoeia,True,13
+11,63,haiku,haiku,True,13
+11,14,another subjectivity,litotes,False,13
+11,47,philosophic,philosophic,True,13
+11,76,antiphrasis,precious,False,13
+11,28,past,another subjectivity,False,13
+12,42,cross-examination,cross-examination,True,13
+12,82,botanical,botanical,True,13
+12,21,omeoptotes,rhyming slang,False,13
+12,78,more or less,paragoge,False,13
+12,12,precision,precision,True,13
+12,69,paragoge,more or less,False,13
+12,7,prognostication,portrait,False,13
+12,54,gustatory,gustatory,True,13
+12,74,rhyming slang,omeoptotes,False,13
+12,18,minimism,minimism,True,13
+12,5,surprises,surprises,True,13
+12,28,past,12:,False,13
+13,24,onomatopoeia,onomatopoeia,True,13
+13,82,botanical,botanical,True,13
+13,14,another subjectivity,casual,False,13
+13,78,more or less,retrograde,False,13
+13,9,the rainbow,narrative,False,13
+13,50,casual,hesitation,False,13
+13,4,retrograde,another subjectivity,False,13
+13,47,philosophic,philosophic,True,13
+13,74,rhyming slang,rhyming slang,True,13
+13,11,hesitation,more or less,False,13
+13,3,metaphorically,metaphorically,True,13
+13,15,narrative,12:,False,13
+14,54,gustatory,gustatory,True,13
+14,92,west indian,west indian,True,13
+14,24,onomatopoeia,onomatopoeia,True,13
+14,87,futile,narrative,False,13
+14,15,narrative,blurb,False,13
+14,70,parts of speech,parts of speech,True,13
+14,7,prognostication,litotes,False,13
+14,62,reactionary,reactionary,True,13
+14,78,more or less,futile,False,13
+14,23,blurb,prognostication,False,13
+14,2,litotes,precious,False,13
+14,26,insistence,insistence,True,13
+15,33,polyptotes,synchysis,False,13
+15,80,for ze Frrensh,for ze Frrensh,True,13
+15,23,blurb,blurb,True,13
+15,65,feminine,feminine,True,13
+15,9,the rainbow,the rainbow,True,13
+15,44,asides,precision,False,13
+15,8,synchysis,polyptotes,False,13
+15,38,exclamations,exclamations,True,13
+15,55,tactile,tactile,True,13
+15,12,precision,medical,False,13
+15,7,prognostication,past,False,13
+15,28,past,asides,False,13
+16,50,casual,casual,True,13
+16,90,portrait,portrait,True,13
+16,33,polyptotes,dog latin,False,13
+16,77,dog latin,hellenisms,False,13
+16,21,omeoptotes,parechesis,False,13
+16,61,hellenisms,polyptotes,False,13
+16,12,precision,precision,True,13
+16,60,O,omeoptotes,False,13
+16,73,proper names,proper names,True,13
+16,25,logical analysis,logical analysis,True,13
+16,5,surprises,surprises,True,13
+16,45,parechesis,precious,False,13
+17,43,comedy,comedy,True,13
+17,87,futile,narrative,False,13
+17,26,insistence,narrative,False,13
+17,86,zoological,zoological,True,13
+17,20,distinguo,distinguo,True,13
+17,68,epenthesis,epenthesis,True,13
+17,15,narrative,narrative,True,13
+17,56,visual,visual,True,13
+17,77,dog latin,dog latin,True,13
+17,22,official letter,official letter,True,13
+17,7,prognostication,insistence,False,13
+17,32,alexandrines,alexandrines,True,13
+17,90,portrait,zo,False,13
+18,52,sonnet,alexandrines,False,13
+18,85,gastronomical,gastronomical,True,13
+18,45,parechesis,gallicisms,False,13
+18,84,abusive,abusive,True,13
+18,32,alexandrines,double entry,False,13
+18,66,gallicisms,awkward,False,13
+18,19,anagrams,parechesis,False,13
+18,61,hellenisms,hellenisms,True,13
+18,73,proper names,proper names,True,13
+18,39,you know,you know,True,13
+18,1,double entry,sonnet,False,13
+18,49,awkward,12:,False,13
+19,42,cross-examination,cross-examination,True,13
+19,89,probabilist,probabilist,True,13
+19,30,reported speech,reported speech,True,13
+19,72,consequences,unexpected,False,13
+19,10,word game,parts of speech,False,13
+19,62,reactionary,negativities,False,13
+19,5,surprises,surprises,True,13
+19,58,telegraphic,telegraphic,True,13
+19,70,parts of speech,word game,False,13
+19,17,negativities,apocope,False,13
+19,1,double entry,double entry,True,13
+19,35,apocope,reactionary,False,13
+20,76,antiphrasis,futile,False,13
+20,87,futile,antiphrasis,False,13
+20,49,awkward,parechesis,False,13
+20,84,abusive,abusive,True,13
+20,39,you know,west indian,False,13
+20,80,for ze Frrensh,for ze French,False,13
+20,36,syncope,syncope,True,13
+20,79,opera English,opera English,True,13
+20,82,botanical,botanical,True,13
+20,45,parechesis,word-composition,False,13
+20,16,word-composition,awkward,False,13
+20,53,olfactory,olfactory,True,13

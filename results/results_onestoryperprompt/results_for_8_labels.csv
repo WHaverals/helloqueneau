@@ -1,0 +1,401 @@
+Experiment,Story Index,True Label,Predicted Label,Correct,Label Space Size
+1,73,proper names,synchysis,False,8
+1,17,negativities,synchysis,False,8
+1,15,narrative,narrative,True,8
+1,64,free verse,free verse,True,8
+1,8,synchysis,narrative,False,8
+1,57,auditory,synchysis,False,8
+1,32,alexandrines,narrative,False,8
+1,61,hellenisms,hellenisms,True,8
+2,84,abusive,metaphorically,False,8
+2,26,insistence,precision,False,8
+2,12,precision,precision,True,8
+2,63,haiku,haiku,True,8
+2,3,metaphorically,metaphorically,True,8
+2,49,awkward,awkward,True,8
+2,48,apostrophe,apostrophe,True,8
+2,55,tactile,tactile,True,8
+3,93,interjections,interjections,True,8
+3,34,apheresis,apheresis,True,8
+3,29,present,portrait,False,8
+3,90,portrait,portrait,True,8
+3,0,notation,portrait,False,8
+3,76,antiphrasis,portrait,False,8
+3,57,auditory,auditory,True,8
+3,78,more or less,apheresis,False,8
+4,84,abusive,abusive,True,8
+4,3,metaphorically,metaphorically,True,8
+4,2,litotes,double entry,False,8
+4,70,parts of speech,parts of speech,True,8
+4,1,double entry,parts of speech,False,8
+4,40,noble,metaphorically,False,8
+4,13,the subjective side,litotes,False,8
+4,48,apostrophe,apostrophe,True,8
+5,93,interjections,interjections,True,8
+5,28,past,past,True,8
+5,27,ignorance,past,False,8
+5,88,modern style,past,False,8
+5,3,metaphorically,metaphorically,True,8
+5,56,visual,visual,True,8
+5,54,gustatory,gustatory,True,8
+5,68,epenthesis,epenthesis,True,8
+6,87,futile,asides,False,8
+6,37,speaking personally,speaking personally,True,8
+6,29,present,present,True,8
+6,71,metathesis,telegraphic,False,8
+6,28,past,past,True,8
+6,58,telegraphic,telegraphic,True,8
+6,44,asides,asides,True,8
+6,64,free verse,free verse,True,8
+7,93,interjections,interjections,True,8
+7,23,blurb,precision,False,8
+7,12,precision,precision,True,8
+7,83,medical,medical,True,8
+7,2,litotes,precision,False,8
+7,72,consequences,precision,False,8
+7,53,olfactory,olfactory,True,8
+7,81,spoonerisms,precision,False,8
+8,93,interjections,interjections,True,8
+8,42,cross-examination,cross-examination,True,8
+8,37,speaking personally,speaking personally,True,8
+8,92,west indian,west indian,True,8
+8,15,narrative,narrative,True,8
+8,65,feminine,narrative,False,8
+8,54,gustatory,gustatory,True,8
+8,86,zoological,zoological,True,8
+9,76,antiphrasis,casual,False,8
+9,36,syncope,syncope,True,8
+9,24,onomatopoeia,free verse,False,8
+9,65,feminine,casual,False,8
+9,4,retrograde,retrograde,True,8
+9,50,casual,casual,True,8
+9,38,exclamations,exclamations,True,8
+9,64,free verse,free verse,True,8
+10,86,zoological,zoological,True,8
+10,46,spectral,spectral,True,8
+10,31,passive,passive,True,8
+10,71,metathesis,metathesis,True,8
+10,22,official letter,official letter,True,8
+10,53,olfactory,olfactory,True,8
+10,51,biased,reactionary,False,8
+10,62,reactionary,reactionary,True,8
+11,95,unexpected,gallicisms,False,8
+11,56,visual,visual,True,8
+11,47,philosophic,philosophic,True,8
+11,90,portrait,gallicisms,False,8
+11,11,hesitation,hesitation,True,8
+11,85,gastronomical,gallicisms,False,8
+11,66,gallicisms,gallicisms,True,8
+11,87,futile,portrait,False,8
+12,94,precious,distinguo,False,8
+12,20,distinguo,distinguo,True,8
+12,13,the subjective side,distinguo,False,8
+12,67,prosthesis,distinguo,False,8
+12,3,metaphorically,metaphorically,True,8
+12,50,casual,casual,True,8
+12,47,philosophic,philosophic,True,8
+12,63,haiku,haiku,True,8
+13,91,mathematical,mathematical,True,8
+13,50,casual,casual,True,8
+13,39,you know,you know,True,8
+13,79,opera English,opera English,True,8
+13,5,surprises,hellenisms,False,8
+13,75,back slang,back slang,True,8
+13,61,hellenisms,hellenisms,True,8
+13,76,antiphrasis,hellenisms,False,8
+14,83,medical,metathesis,False,8
+14,25,logical analysis,double entry,False,8
+14,21,omeoptotes,metathesis,False,8
+14,71,metathesis,metathesis,True,8
+14,1,double entry,metathesis,False,8
+14,65,feminine,feminine,True,8
+14,29,present,feminine,False,8
+14,70,parts of speech,parts of speech,True,8
+15,74,rhyming slang,rhyming slang,True,8
+15,44,asides,asides,True,8
+15,34,apheresis,telegraphic,False,8
+15,66,gallicisms,gallicisms,True,8
+15,29,present,asides,False,8
+15,51,biased,gallicisms,False,8
+15,45,parechesis,gallicisms,False,8
+15,58,telegraphic,telegraphic,True,8
+16,95,unexpected,gallicisms,False,8
+16,66,gallicisms,gallicisms,True,8
+16,49,awkward,metathesis,False,8
+16,94,precious,gallicisms,False,8
+16,0,notation,gallicisms,False,8
+16,78,more or less,metathesis,False,8
+16,71,metathesis,metathesis,True,8
+16,85,gastronomical,gallicisms,False,8
+17,72,consequences,consequences,True,8
+17,26,insistence,word-composition,False,8
+17,16,word-composition,word-composition,True,8
+17,67,prosthesis,word-composition,False,8
+17,7,prognostication,prognostication,True,8
+17,54,gustatory,gustatory,True,8
+17,46,spectral,spectral,True,8
+17,62,reactionary,reactionary,True,8
+18,73,proper names,proper names,True,8
+18,52,sonnet,logical analysis,False,8
+18,45,parechesis,metathesis,False,8
+18,71,metathesis,parechesis,False,8
+18,25,logical analysis,logical analysis,True,8
+18,63,haiku,haiku,True,8
+18,53,olfactory,olfactory,True,8
+18,65,feminine,logical analysis,False,8
+19,80,for ze Frrensh,for ze Frrensh,True,8
+19,44,asides,asides,True,8
+19,42,cross-examination,asides,False,8
+19,79,opera English,opera English,True,8
+19,0,notation,asides,False,8
+19,69,paragoge,telegraphic,False,8
+19,58,telegraphic,telegraphic,True,8
+19,70,parts of speech,parts of speech,True,8
+20,82,botanical,botanical,True,8
+20,23,blurb,blurb,True,8
+20,22,official letter,official letter,True,8
+20,77,dog latin,metaphorically,False,8
+20,3,metaphorically,metaphorically,True,8
+20,71,metathesis,metathesis,True,8
+20,29,present,metaphorically,False,8
+20,75,back slang,metathesis,False,8
+21,87,futile,litotes,False,8
+21,9,the rainbow,metathesis,False,8
+21,4,retrograde,hesitation,False,8
+21,71,metathesis,metathesis,True,8
+21,2,litotes,hesitation,False,8
+21,11,hesitation,hesitation,True,8
+21,10,word game,litotes,False,8
+21,32,alexandrines,alexandrines,True,8
+22,80,for ze Frrensh,for ze Frrensh,True,8
+22,23,blurb,blurb,True,8
+22,14,another subjectivity,another subjectivity,True,8
+22,57,auditory,auditory,True,8
+22,1,double entry,double entry,True,8
+22,34,apheresis,another subjectivity,False,8
+22,31,passive,passive,True,8
+22,35,apocope,double entry,False,8
+23,85,gastronomical,gastronomical,True,8
+23,21,omeoptotes,synchysis,False,8
+23,20,distinguo,synchysis,False,8
+23,68,epenthesis,distinguo,False,8
+23,8,synchysis,synchysis,True,8
+23,37,speaking personally,speaking personally,True,8
+23,32,alexandrines,synchysis,False,8
+23,44,asides,asides,True,8
+24,92,west indian,cockney,False,8
+24,41,cockney,cockney,True,8
+24,37,speaking personally,portrait,False,8
+24,90,portrait,portrait,True,8
+24,34,apheresis,telegraphic,False,8
+24,64,free verse,free verse,True,8
+24,58,telegraphic,telegraphic,True,8
+24,83,medical,medical,True,8
+25,61,hellenisms,hellenisms,True,8
+25,24,onomatopoeia,onomatopoeia,True,8
+25,14,another subjectivity,comedy,False,8
+25,53,olfactory,olfactory,True,8
+25,3,metaphorically,metaphorically,True,8
+25,43,comedy,comedy,True,8
+25,39,you know,you know,True,8
+25,49,awkward,another subjectivity,False,8
+26,94,precious,gallicisms,False,8
+26,32,alexandrines,alexandrines,True,8
+26,26,insistence,insistence,True,8
+26,78,more or less,alexandrines,False,8
+26,13,the subjective side,gallicisms,False,8
+26,55,tactile,tactile,True,8
+26,33,polyptotes,gallicisms,False,8
+26,66,gallicisms,gallicisms,True,8
+27,93,interjections,interjections,True,8
+27,18,minimism,distinguo,False,8
+27,4,retrograde,casual,False,8
+27,57,auditory,auditory,True,8
+27,2,litotes,casual,False,8
+27,28,past,casual,False,8
+27,20,distinguo,litotes,False,8
+27,50,casual,casual,True,8
+28,91,mathematical,mathematical,True,8
+28,65,feminine,feminine,True,8
+28,54,gustatory,gustatory,True,8
+28,89,probabilist,past,False,8
+28,28,past,past,True,8
+28,81,spoonerisms,spoonerisms,True,8
+28,70,parts of speech,parts of speech,True,8
+28,87,futile,past,False,8
+29,87,futile,metaphorically,False,8
+29,50,casual,casual,True,8
+29,28,past,casual,False,8
+29,84,abusive,abusive,True,8
+29,3,metaphorically,metaphorically,True,8
+29,67,prosthesis,metaphorically,False,8
+29,57,auditory,metaphorically,False,8
+29,68,epenthesis,epenthesis,True,8
+30,95,unexpected,unexpected,True,8
+30,41,cockney,cockney,True,8
+30,38,exclamations,unexpected,False,8
+30,85,gastronomical,gastronomical,True,8
+30,7,prognostication,prognostication,True,8
+30,74,rhyming slang,cockney,False,8
+30,54,gustatory,gustatory,True,8
+30,81,spoonerisms,unexpected,False,8
+31,53,olfactory,olfactory,True,8
+31,16,word-composition,word-composition,True,8
+31,9,the rainbow,word-composition,False,8
+31,39,you know,you know,True,8
+31,6,dream,dream,True,8
+31,27,ignorance,distinguo,False,8
+31,20,distinguo,word-composition,False,8
+31,38,exclamations,exclamations,True,8
+32,76,antiphrasis,retrograde,False,8
+32,16,word-composition,word-composition,True,8
+32,4,retrograde,proper names,False,8
+32,73,proper names,proper names,True,8
+32,1,double entry,word-composition,False,8
+32,32,alexandrines,alexandrines,True,8
+32,27,ignorance,ignorance,True,8
+32,72,consequences,consequences,True,8
+33,91,mathematical,mathematical,True,8
+33,48,apostrophe,apostrophe,True,8
+33,21,omeoptotes,gallicisms,False,8
+33,80,for ze Frrensh,for ze Frrensh,True,8
+33,4,retrograde,for ze Frrensh,False,8
+33,66,gallicisms,for ze Frrensh,False,8
+33,58,telegraphic,telegraphic,True,8
+33,73,proper names,proper names,True,8
+34,87,futile,asides,False,8
+34,26,insistence,asides,False,8
+34,25,logical analysis,precision,False,8
+34,76,antiphrasis,asides,False,8
+34,12,precision,logical analysis,False,8
+34,55,tactile,tactile,True,8
+34,44,asides,asides,True,8
+34,74,rhyming slang,rhyming slang,True,8
+35,86,zoological,zoological,True,8
+35,24,onomatopoeia,onomatopoeia,True,8
+35,13,the subjective side,litotes,False,8
+35,65,feminine,the subjective side,False,8
+35,2,litotes,the subjective side,False,8
+35,49,awkward,free verse,False,8
+35,37,speaking personally,the subjective side,False,8
+35,64,free verse,free verse,True,8
+36,79,opera English,opera English,True,8
+36,25,logical analysis,logical analysis,True,8
+36,20,distinguo,distinguo,True,8
+36,73,proper names,proper names,True,8
+36,2,litotes,distinguo,False,8
+36,41,cockney,cockney,True,8
+36,36,syncope,syncope,True,8
+36,51,biased,distinguo,False,8
+37,87,futile,comedy,False,8
+37,27,ignorance,ignorance,True,8
+37,17,negativities,apheresis,False,8
+37,54,gustatory,gustatory,True,8
+37,12,precision,precision,True,8
+37,43,comedy,comedy,True,8
+37,34,apheresis,apostrophe,False,8
+37,48,apostrophe,apostrophe,True,8
+38,93,interjections,interjections,True,8
+38,44,asides,interjections,False,8
+38,30,reported speech,reported speech,True,8
+38,88,modern style,reported speech,False,8
+38,8,synchysis,reported speech,False,8
+38,69,paragoge,metathesis,False,8
+38,63,haiku,haiku,True,8
+38,71,metathesis,metathesis,True,8
+39,69,paragoge,omeoptotes,False,8
+39,17,negativities,omeoptotes,False,8
+39,10,word game,word game,True,8
+39,42,cross-examination,cross-examination,True,8
+39,5,surprises,surprises,True,8
+39,27,ignorance,cross-examination,False,8
+39,21,omeoptotes,word game,False,8
+39,34,apheresis,word game,False,8
+40,77,dog latin,reported speech,False,8
+40,32,alexandrines,comedy,False,8
+40,30,reported speech,reported speech,True,8
+40,65,feminine,comedy,False,8
+40,14,another subjectivity,comedy,False,8
+40,43,comedy,comedy,True,8
+40,37,speaking personally,speaking personally,True,8
+40,47,philosophic,philosophic,True,8
+41,92,west indian,west indian,True,8
+41,41,cockney,cockney,True,8
+41,17,negativities,the subjective side,False,8
+41,78,more or less,metathesis,False,8
+41,13,the subjective side,the subjective side,True,8
+41,71,metathesis,metathesis,True,8
+41,63,haiku,haiku,True,8
+41,75,back slang,back slang,True,8
+42,52,sonnet,comedy,False,8
+42,14,another subjectivity,comedy,False,8
+42,9,the rainbow,minimism,False,8
+42,48,apostrophe,apostrophe,True,8
+42,5,surprises,comedy,False,8
+42,18,minimism,minimism,True,8
+42,16,word-composition,word-composition,True,8
+42,43,comedy,comedy,True,8
+43,79,opera English,opera English,True,8
+43,48,apostrophe,apostrophe,True,8
+43,28,past,past,True,8
+43,76,antiphrasis,past,False,8
+43,9,the rainbow,past,False,8
+43,73,proper names,proper names,True,8
+43,71,metathesis,metathesis,True,8
+43,74,rhyming slang,rhyming slang,True,8
+44,73,proper names,proper names,True,8
+44,34,apheresis,telegraphic,False,8
+44,14,another subjectivity,speaking personally,False,8
+44,69,paragoge,telegraphic,False,8
+44,10,word game,telegraphic,False,8
+44,46,spectral,proper names,False,8
+44,37,speaking personally,speaking personally,True,8
+44,58,telegraphic,telegraphic,True,8
+45,86,zoological,zoological,True,8
+45,11,hesitation,hesitation,True,8
+45,5,surprises,the subjective side,False,8
+45,79,opera English,opera English,True,8
+45,1,double entry,double entry,True,8
+45,35,apocope,apocope,True,8
+45,13,the subjective side,double entry,False,8
+45,37,speaking personally,the subjective side,False,8
+46,76,antiphrasis,reported speech,False,8
+46,20,distinguo,antiphrasis,False,8
+46,14,another subjectivity,reported speech,False,8
+46,53,olfactory,olfactory,True,8
+46,5,surprises,reported speech,False,8
+46,30,reported speech,reported speech,True,8
+46,24,onomatopoeia,onomatopoeia,True,8
+46,52,sonnet,distinguo,False,8
+47,88,modern style,reported speech,False,8
+47,20,distinguo,reported speech,False,8
+47,14,another subjectivity,the subjective side,False,8
+47,57,auditory,modern style,False,8
+47,13,the subjective side,reported speech,False,8
+47,30,reported speech,reported speech,True,8
+47,21,omeoptotes,modern style,False,8
+47,55,tactile,tactile,True,8
+48,92,west indian,parts of speech,False,8
+48,40,noble,parts of speech,False,8
+48,37,speaking personally,speaking personally,True,8
+48,71,metathesis,metathesis,True,8
+48,32,alexandrines,alexandrines,True,8
+48,62,reactionary,reactionary,True,8
+48,48,apostrophe,apostrophe,True,8
+48,70,parts of speech,parts of speech,True,8
+49,84,abusive,abusive,True,8
+49,5,surprises,surprises,True,8
+49,3,metaphorically,metaphorically,True,8
+49,40,noble,metaphorically,False,8
+49,1,double entry,precision,False,8
+49,26,insistence,precision,False,8
+49,12,precision,precision,True,8
+49,37,speaking personally,speaking personally,True,8
+50,93,interjections,interjections,True,8
+50,50,casual,casual,True,8
+50,40,noble,synchysis,False,8
+50,77,dog latin,telegraphic,False,8
+50,8,synchysis,synchysis,True,8
+50,57,auditory,synchysis,False,8
+50,51,biased,casual,False,8
+50,58,telegraphic,telegraphic,True,8

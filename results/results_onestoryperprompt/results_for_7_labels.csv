@@ -1,0 +1,351 @@
+Experiment,Story Index,True Label,Predicted Label,Correct,Label Space Size
+1,73,proper names,synchysis,False,7
+1,17,negativities,synchysis,False,7
+1,15,narrative,narrative,True,7
+1,8,synchysis,narrative,False,7
+1,57,auditory,synchysis,False,7
+1,32,alexandrines,synchysis,False,7
+1,64,free verse,free verse,True,7
+2,84,abusive,hellenisms,False,7
+2,26,insistence,precision,False,7
+2,12,precision,precision,True,7
+2,3,metaphorically,metaphorically,True,7
+2,61,hellenisms,precision,False,7
+2,48,apostrophe,apostrophe,True,7
+2,63,haiku,haiku,True,7
+3,90,portrait,portrait,True,7
+3,49,awkward,more or less,False,7
+3,34,apheresis,apheresis,True,7
+3,0,notation,portrait,False,7
+3,57,auditory,notation,False,7
+3,55,tactile,tactile,True,7
+3,78,more or less,apheresis,False,7
+4,93,interjections,interjections,True,7
+4,13,the subjective side,litotes,False,7
+4,3,metaphorically,metaphorically,True,7
+4,2,litotes,the subjective side,False,7
+4,40,noble,metaphorically,False,7
+4,29,present,metaphorically,False,7
+4,76,antiphrasis,metaphorically,False,7
+5,88,modern style,modern style,True,7
+5,27,ignorance,ignorance,True,7
+5,3,metaphorically,metaphorically,True,7
+5,1,double entry,modern style,False,7
+5,70,parts of speech,parts of speech,True,7
+5,48,apostrophe,modern style,False,7
+5,84,abusive,modern style,False,7
+6,93,interjections,interjections,True,7
+6,54,gustatory,gustatory,True,7
+6,28,past,past,True,7
+6,3,metaphorically,metaphorically,True,7
+6,64,free verse,metaphorically,False,7
+6,56,visual,metaphorically,False,7
+6,68,epenthesis,epenthesis,True,7
+7,87,futile,asides,False,7
+7,37,speaking personally,speaking personally,True,7
+7,29,present,asides,False,7
+7,28,past,past,True,7
+7,58,telegraphic,telegraphic,True,7
+7,44,asides,asides,True,7
+7,71,metathesis,metathesis,True,7
+8,83,medical,medical,True,7
+8,23,blurb,blurb,True,7
+8,12,precision,precision,True,7
+8,2,litotes,precision,False,7
+8,72,consequences,precision,False,7
+8,53,olfactory,olfactory,True,7
+8,81,spoonerisms,spoonerisms,True,7
+9,93,interjections,interjections,True,7
+9,42,cross-examination,narrative,False,7
+9,37,speaking personally,speaking personally,True,7
+9,15,narrative,narrative,True,7
+9,65,feminine,narrative,False,7
+9,54,gustatory,gustatory,True,7
+9,92,west indian,west indian,True,7
+10,86,zoological,antiphrasis,False,7
+10,38,exclamations,exclamations,True,7
+10,36,syncope,syncope,True,7
+10,24,onomatopoeia,onomatopoeia,True,7
+10,65,feminine,syncope,False,7
+10,64,free verse,free verse,True,7
+10,76,antiphrasis,free verse,False,7
+11,76,antiphrasis,retrograde,False,7
+11,50,casual,casual,True,7
+11,31,passive,retrograde,False,7
+11,4,retrograde,casual,False,7
+11,62,reactionary,reactionary,True,7
+11,51,biased,reactionary,False,7
+11,65,feminine,retrograde,False,7
+12,90,portrait,zoological,False,7
+12,53,olfactory,olfactory,True,7
+12,46,spectral,spectral,True,7
+12,22,official letter,official letter,True,7
+12,86,zoological,zoological,True,7
+12,71,metathesis,metathesis,True,7
+12,87,futile,portrait,False,7
+13,95,unexpected,gallicisms,False,7
+13,47,philosophic,philosophic,True,7
+13,13,the subjective side,the subjective side,True,7
+13,11,hesitation,the subjective side,False,7
+13,66,gallicisms,gallicisms,True,7
+13,56,visual,visual,True,7
+13,85,gastronomical,gallicisms,False,7
+14,94,precious,philosophic,False,7
+14,47,philosophic,philosophic,True,7
+14,20,distinguo,distinguo,True,7
+14,3,metaphorically,metaphorically,True,7
+14,63,haiku,haiku,True,7
+14,50,casual,casual,True,7
+14,67,prosthesis,casual,False,7
+15,91,mathematical,mathematical,True,7
+15,61,hellenisms,hellenisms,True,7
+15,39,you know,you know,True,7
+15,5,surprises,hellenisms,False,7
+15,76,antiphrasis,hellenisms,False,7
+15,75,back slang,back slang,True,7
+15,79,opera English,opera English,True,7
+16,83,medical,logical analysis,False,7
+16,25,logical analysis,logical analysis,True,7
+16,21,omeoptotes,omeoptotes,True,7
+16,1,double entry,double entry,True,7
+16,50,casual,casual,True,7
+16,29,present,casual,False,7
+16,65,feminine,feminine,True,7
+17,74,rhyming slang,rhyming slang,True,7
+17,51,biased,asides,False,7
+17,44,asides,asides,True,7
+17,29,present,asides,False,7
+17,70,parts of speech,parts of speech,True,7
+17,66,gallicisms,gallicisms,True,7
+17,71,metathesis,gallicisms,False,7
+18,94,precious,precious,True,7
+18,58,telegraphic,telegraphic,True,7
+18,45,parechesis,parechesis,True,7
+18,34,apheresis,telegraphic,False,7
+18,78,more or less,metathesis,False,7
+18,71,metathesis,metathesis,True,7
+18,85,gastronomical,gastronomical,True,7
+19,95,unexpected,gallicisms,False,7
+19,49,awkward,gallicisms,False,7
+19,16,word-composition,gallicisms,False,7
+19,0,notation,gallicisms,False,7
+19,67,prosthesis,gallicisms,False,7
+19,66,gallicisms,gallicisms,True,7
+19,72,consequences,gallicisms,False,7
+20,73,proper names,proper names,True,7
+20,46,spectral,proper names,False,7
+20,26,insistence,proper names,False,7
+20,7,prognostication,prognostication,True,7
+20,62,reactionary,reactionary,True,7
+20,54,gustatory,gustatory,True,7
+20,71,metathesis,metathesis,True,7
+21,65,feminine,feminine,True,7
+21,45,parechesis,parechesis,True,7
+21,44,asides,asides,True,7
+21,25,logical analysis,logical analysis,True,7
+21,53,olfactory,olfactory,True,7
+21,52,sonnet,logical analysis,False,7
+21,63,haiku,haiku,True,7
+22,80,for ze Frrensh,for ze Frrensh,True,7
+22,58,telegraphic,telegraphic,True,7
+22,42,cross-examination,cross-examination,True,7
+22,0,notation,telegraphic,False,7
+22,70,parts of speech,parts of speech,True,7
+22,69,paragoge,telegraphic,False,7
+22,79,opera English,opera English,True,7
+23,82,botanical,botanical,True,7
+23,29,present,metaphorically,False,7
+23,22,official letter,official letter,True,7
+23,3,metaphorically,metaphorically,True,7
+23,75,back slang,back slang,True,7
+23,71,metathesis,metathesis,True,7
+23,77,dog latin,metaphorically,False,7
+24,87,futile,blurb,False,7
+24,11,hesitation,hesitation,True,7
+24,9,the rainbow,metathesis,False,7
+24,4,retrograde,blurb,False,7
+24,32,alexandrines,alexandrines,True,7
+24,23,blurb,blurb,True,7
+24,71,metathesis,metathesis,True,7
+25,57,auditory,auditory,True,7
+25,10,word game,double entry,False,7
+25,2,litotes,double entry,False,7
+25,1,double entry,double entry,True,7
+25,34,apheresis,double entry,False,7
+25,31,passive,passive,True,7
+25,35,apocope,apheresis,False,7
+26,80,for ze Frrensh,for ze Frrensh,True,7
+26,21,omeoptotes,synchysis,False,7
+26,14,another subjectivity,asides,False,7
+26,8,synchysis,synchysis,True,7
+26,37,speaking personally,speaking personally,True,7
+26,23,blurb,blurb,True,7
+26,44,asides,synchysis,False,7
+27,85,gastronomical,gastronomical,True,7
+27,32,alexandrines,alexandrines,True,7
+27,21,omeoptotes,distinguo,False,7
+27,20,distinguo,distinguo,True,7
+27,68,epenthesis,distinguo,False,7
+27,34,apheresis,distinguo,False,7
+27,83,medical,medical,True,7
+28,92,west indian,cockney,False,7
+28,58,telegraphic,telegraphic,True,7
+28,41,cockney,cockney,True,7
+28,37,speaking personally,portrait,False,7
+28,64,free verse,free verse,True,7
+28,61,hellenisms,hellenisms,True,7
+28,90,portrait,portrait,True,7
+29,53,olfactory,olfactory,True,7
+29,24,onomatopoeia,onomatopoeia,True,7
+29,14,another subjectivity,comedy,False,7
+29,3,metaphorically,metaphorically,True,7
+29,43,comedy,comedy,True,7
+29,39,you know,you know,True,7
+29,49,awkward,comedy,False,7
+30,94,precious,gallicisms,False,7
+30,32,alexandrines,alexandrines,True,7
+30,26,insistence,polyptotes,False,7
+30,13,the subjective side,gallicisms,False,7
+30,66,gallicisms,gallicisms,True,7
+30,33,polyptotes,gallicisms,False,7
+30,78,more or less,alexandrines,False,7
+31,93,interjections,interjections,True,7
+31,18,minimism,minimism,True,7
+31,4,retrograde,casual,False,7
+31,2,litotes,past,False,7
+31,50,casual,casual,True,7
+31,28,past,casual,False,7
+31,55,tactile,tactile,True,7
+32,91,mathematical,mathematical,True,7
+32,57,auditory,parts of speech,False,7
+32,54,gustatory,gustatory,True,7
+32,20,distinguo,parts of speech,False,7
+32,70,parts of speech,parts of speech,True,7
+32,65,feminine,parts of speech,False,7
+32,87,futile,distinguo,False,7
+33,89,probabilist,probabilist,True,7
+33,67,prosthesis,spoonerisms,False,7
+33,57,auditory,spoonerisms,False,7
+33,28,past,auditory,False,7
+33,81,spoonerisms,spoonerisms,True,7
+33,68,epenthesis,spoonerisms,False,7
+33,84,abusive,spoonerisms,False,7
+34,87,futile,casual,False,7
+34,50,casual,casual,True,7
+34,41,cockney,cockney,True,7
+34,3,metaphorically,metaphorically,True,7
+34,81,spoonerisms,casual,False,7
+34,74,rhyming slang,cockney,False,7
+34,85,gastronomical,metaphorically,False,7
+35,95,unexpected,unexpected,True,7
+35,16,word-composition,word-composition,True,7
+35,7,prognostication,prognostication,True,7
+35,6,dream,dream,True,7
+35,38,exclamations,exclamations,True,7
+35,27,ignorance,ignorance,True,7
+35,54,gustatory,gustatory,True,7
+36,73,proper names,proper names,True,7
+36,32,alexandrines,alexandrines,True,7
+36,20,distinguo,proper names,False,7
+36,9,the rainbow,proper names,False,7
+36,39,you know,you know,True,7
+36,38,exclamations,exclamations,True,7
+36,53,olfactory,olfactory,True,7
+37,76,antiphrasis,proper names,False,7
+37,16,word-composition,word-composition,True,7
+37,4,retrograde,proper names,False,7
+37,1,double entry,word-composition,False,7
+37,72,consequences,antiphrasis,False,7
+37,27,ignorance,ignorance,True,7
+37,73,proper names,proper names,True,7
+38,91,mathematical,mathematical,True,7
+38,48,apostrophe,for ze Frrensh,False,7
+38,21,omeoptotes,for ze Frrensh,False,7
+38,4,retrograde,telegraphic,False,7
+38,66,gallicisms,for ze Frrensh,False,7
+38,58,telegraphic,telegraphic,True,7
+38,80,for ze Frrensh,for ze Frrensh,True,7
+39,87,futile,tactile,False,7
+39,26,insistence,asides,False,7
+39,25,logical analysis,logical analysis,True,7
+39,12,precision,logical analysis,False,7
+39,55,tactile,tactile,True,7
+39,44,asides,asides,True,7
+39,74,rhyming slang,rhyming slang,True,7
+40,86,zoological,zoological,True,7
+40,37,speaking personally,the subjective side,False,7
+40,24,onomatopoeia,onomatopoeia,True,7
+40,13,the subjective side,the subjective side,True,7
+40,64,free verse,free verse,True,7
+40,49,awkward,free verse,False,7
+40,76,antiphrasis,the subjective side,False,7
+41,79,opera English,opera English,True,7
+41,41,cockney,cockney,True,7
+41,36,syncope,syncope,True,7
+41,2,litotes,litotes,True,7
+41,64,free verse,free verse,True,7
+41,51,biased,biased,True,7
+41,65,feminine,biased,False,7
+42,73,proper names,proper names,True,7
+42,20,distinguo,distinguo,True,7
+42,17,negativities,litotes,False,7
+42,2,litotes,litotes,True,7
+42,41,cockney,cockney,True,7
+42,25,logical analysis,logical analysis,True,7
+42,43,comedy,comedy,True,7
+43,87,futile,apostrophe,False,7
+43,34,apheresis,metathesis,False,7
+43,27,ignorance,ignorance,True,7
+43,12,precision,precision,True,7
+43,54,gustatory,gustatory,True,7
+43,48,apostrophe,apostrophe,True,7
+43,71,metathesis,metathesis,True,7
+44,93,interjections,interjections,True,7
+44,44,asides,interjections,False,7
+44,30,reported speech,reported speech,True,7
+44,8,synchysis,synchysis,True,7
+44,69,paragoge,synchysis,False,7
+44,63,haiku,haiku,True,7
+44,88,modern style,modern style,True,7
+45,69,paragoge,apheresis,False,7
+45,17,negativities,omeoptotes,False,7
+45,10,word game,word game,True,7
+45,5,surprises,surprises,True,7
+45,27,ignorance,ignorance,True,7
+45,21,omeoptotes,word game,False,7
+45,34,apheresis,word game,False,7
+46,77,dog latin,comedy,False,7
+46,42,cross-examination,comedy,False,7
+46,32,alexandrines,comedy,False,7
+46,14,another subjectivity,comedy,False,7
+46,47,philosophic,philosophic,True,7
+46,43,comedy,comedy,True,7
+46,65,feminine,comedy,False,7
+47,92,west indian,west indian,True,7
+47,37,speaking personally,speaking personally,True,7
+47,30,reported speech,reported speech,True,7
+47,17,negativities,more or less,False,7
+47,75,back slang,back slang,True,7
+47,63,haiku,haiku,True,7
+47,78,more or less,back slang,False,7
+48,71,metathesis,metathesis,True,7
+48,13,the subjective side,the subjective side,True,7
+48,9,the rainbow,the rainbow,True,7
+48,5,surprises,cockney,False,7
+48,48,apostrophe,apostrophe,True,7
+48,41,cockney,cockney,True,7
+48,52,sonnet,sonnet,True,7
+49,79,opera English,opera English,True,7
+49,18,minimism,minimism,True,7
+49,16,word-composition,word-composition,True,7
+49,14,another subjectivity,antiphrasis,False,7
+49,48,apostrophe,apostrophe,True,7
+49,43,comedy,comedy,True,7
+49,76,antiphrasis,minimism,False,7
+50,74,rhyming slang,rhyming slang,True,7
+50,28,past,proper names,False,7
+50,10,word game,proper names,False,7
+50,9,the rainbow,metathesis,False,7
+50,71,metathesis,metathesis,True,7
+50,34,apheresis,metathesis,False,7
+50,73,proper names,proper names,True,7
