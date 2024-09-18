@@ -1,0 +1,172 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,27,Metaphorically,Metaphorically,True,3,eng,4. Métaphoriquement
+1,1,24,Notation,Notation,True,3,eng,1. Notations
+1,1,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+1,2,24,Notation,Notation,True,3,eng,1. Notations
+1,2,27,Metaphorically,Metaphorically,True,3,eng,4. Métaphoriquement
+1,2,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+1,3,24,Notation,Notation,True,3,eng,1. Notations
+1,3,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+1,3,27,Metaphorically,Metaphorically,True,3,eng,4. Métaphoriquement
+2,1,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+2,1,45,Homeoptotes,Homeoptotes,True,3,eng,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,1,41,Negativities,Negativities,True,3,eng,18. Négativités
+2,2,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+2,2,41,Negativities,Negativities,True,3,eng,18. Négativités
+2,2,45,Homeoptotes,Homeoptotes,True,3,eng,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,41,Negativities,Negativities,True,3,eng,18. Négativités
+2,3,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+2,3,45,Homeoptotes,Homeoptotes,True,3,eng,22. Homéoptotes (1947) / Homéotéleutes (1976)
+3,1,40,Word-composition,Word-composition,True,3,eng,17. Composition de mots
+3,1,43,Anagrams,Word-composition,False,3,eng,20. Anagrammes
+3,1,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+3,2,43,Anagrams,Word-composition,False,3,eng,20. Anagrammes
+3,2,40,Word-composition,Word-composition,True,3,eng,17. Composition de mots
+3,2,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+3,3,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+3,3,40,Word-composition,Word-composition,True,3,eng,17. Composition de mots
+3,3,43,Anagrams,Word-composition,False,3,eng,20. Anagrammes
+4,1,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+4,1,37,The subjective side,The subjective side,True,3,eng,14. Le côté subjectif
+4,1,38,Another subjectivity,The subjective side,False,3,eng,15. Autre subjectivité
+4,2,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+4,2,38,Another subjectivity,The subjective side,False,3,eng,15. Autre subjectivité
+4,2,37,The subjective side,The subjective side,True,3,eng,14. Le côté subjectif
+4,3,38,Another subjectivity,The subjective side,False,3,eng,15. Autre subjectivité
+4,3,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+4,3,37,The subjective side,The subjective side,True,3,eng,14. Le côté subjectif
+5,1,30,Dream,Dream,True,3,eng,7. Rêve
+5,1,28,Retrograde,Retrograde,True,3,eng,5. Rétrograde
+5,1,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+5,2,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+5,2,28,Retrograde,Retrograde,True,3,eng,5. Rétrograde
+5,2,30,Dream,Dream,True,3,eng,7. Rêve
+5,3,30,Dream,Dream,True,3,eng,7. Rêve
+5,3,28,Retrograde,Synchysis,False,3,eng,5. Rétrograde
+5,3,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+6,1,43,Anagrams,Synchysis,False,3,eng,20. Anagrammes
+6,1,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+6,1,25,Double entry,Synchysis,False,3,eng,2. En partie double
+6,2,43,Anagrams,Synchysis,False,3,eng,20. Anagrammes
+6,2,25,Double entry,Synchysis,False,3,eng,2. En partie double
+6,2,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+6,3,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+6,3,43,Anagrams,Synchysis,False,3,eng,20. Anagrammes
+6,3,25,Double entry,Synchysis,False,3,eng,2. En partie double
+7,1,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+7,1,33,The rainbow,The rainbow,True,3,eng,10. L'arc-en-ciel
+7,1,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+7,2,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+7,2,33,The rainbow,The rainbow,True,3,eng,10. L'arc-en-ciel
+7,2,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+7,3,33,The rainbow,The rainbow,True,3,eng,10. L'arc-en-ciel
+7,3,44,Distinguo,Anagrams,False,3,eng,21. Distinguo
+7,3,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+8,1,26,Litotes,Litotes,True,3,eng,3. Litotes
+8,1,33,The rainbow,The rainbow,True,3,eng,10. L'arc-en-ciel
+8,1,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+8,2,26,Litotes,Litotes,True,3,eng,3. Litotes
+8,2,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+8,2,33,The rainbow,Litotes,False,3,eng,10. L'arc-en-ciel
+8,3,33,The rainbow,Litotes,False,3,eng,10. L'arc-en-ciel
+8,3,31,Prognostication,Prognostication,True,3,eng,8. Pronostications
+8,3,26,Litotes,Litotes,True,3,eng,3. Litotes
+9,1,35,Hesitation,Hesitation,True,3,eng,12. Hésitations
+9,1,29,Surprises,Surprises,True,3,eng,6. Surprises
+9,2,35,Hesitation,Hesitation,True,3,eng,12. Hésitations
+9,2,29,Surprises,Surprises,True,3,eng,6. Surprises
+9,3,35,Hesitation,Hesitation,True,3,eng,12. Hésitations
+9,3,29,Surprises,Surprises,True,3,eng,6. Surprises
+10,1,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+10,1,29,Surprises,Surprises,True,3,eng,6. Surprises
+10,1,44,Distinguo,Anagrams,False,3,eng,21. Distinguo
+10,2,29,Surprises,Surprises,True,3,eng,6. Surprises
+10,2,44,Distinguo,Anagrams,False,3,eng,21. Distinguo
+10,2,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+10,3,29,Surprises,Surprises,True,3,eng,6. Surprises
+10,3,44,Distinguo,Anagrams,False,3,eng,21. Distinguo
+10,3,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+11,1,41,Negativities,Distinguo,False,3,eng,18. Négativités
+11,1,46,Official letter,Official letter,True,3,eng,23. Lettre officielle
+11,1,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+11,2,41,Negativities,Distinguo,False,3,eng,18. Négativités
+11,2,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+11,2,46,Official letter,Official letter,True,3,eng,23. Lettre officielle
+11,3,41,Negativities,Distinguo,False,3,eng,18. Négativités
+11,3,46,Official letter,Official letter,True,3,eng,23. Lettre officielle
+11,3,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+12,1,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+12,1,26,Litotes,Litotes,True,3,eng,3. Litotes
+12,1,36,Precision,Precision,True,3,eng,13. Précisions
+12,2,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+12,2,36,Precision,Precision,True,3,eng,13. Précisions
+12,2,26,Litotes,Litotes,True,3,eng,3. Litotes
+12,3,36,Precision,Precision,True,3,eng,13. Précisions
+12,3,26,Litotes,Synchysis,False,3,eng,3. Litotes
+12,3,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+13,1,44,Distinguo,Precision,False,3,eng,21. Distinguo
+13,1,38,Another subjectivity,Another subjectivity,True,3,eng,15. Autre subjectivité
+13,1,36,Precision,Precision,True,3,eng,13. Précisions
+13,2,36,Precision,Precision,True,3,eng,13. Précisions
+13,2,38,Another subjectivity,Another subjectivity,True,3,eng,15. Autre subjectivité
+13,2,44,Distinguo,Precision,False,3,eng,21. Distinguo
+13,3,36,Precision,Precision,True,3,eng,13. Précisions
+13,3,44,Distinguo,Precision,False,3,eng,21. Distinguo
+13,3,38,Another subjectivity,Another subjectivity,True,3,eng,15. Autre subjectivité
+14,1,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+14,1,42,Animism,Animism,True,3,eng,19. Animiste
+14,1,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+14,2,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+14,2,42,Animism,Animism,True,3,eng,19. Animiste
+14,2,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+14,3,32,Synchysis,Synchysis,True,3,eng,9. Synchyses
+14,3,42,Animism,Animism,True,3,eng,19. Animiste
+14,3,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+15,1,25,Double entry,Double entry,True,3,eng,2. En partie double
+15,1,39,Narrative,Double entry,False,3,eng,16. Récit
+15,1,26,Litotes,Double entry,False,3,eng,3. Litotes
+15,2,25,Double entry,Double entry,True,3,eng,2. En partie double
+15,2,26,Litotes,Double entry,False,3,eng,3. Litotes
+15,2,39,Narrative,Double entry,False,3,eng,16. Récit
+15,3,26,Litotes,Double entry,False,3,eng,3. Litotes
+15,3,25,Double entry,Double entry,True,3,eng,2. En partie double
+15,3,39,Narrative,Double entry,False,3,eng,16. Récit
+16,1,36,Precision,Precision,True,3,eng,13. Précisions
+16,1,26,Litotes,Litotes,True,3,eng,3. Litotes
+16,2,36,Precision,Precision,True,3,eng,13. Précisions
+16,2,26,Litotes,Litotes,True,3,eng,3. Litotes
+16,3,36,Precision,Precision,True,3,eng,13. Précisions
+16,3,26,Litotes,Litotes,True,3,eng,3. Litotes
+17,1,27,Metaphorically,Homeoptotes,False,3,eng,4. Métaphoriquement
+17,1,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+17,1,45,Homeoptotes,Homeoptotes,True,3,eng,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,2,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+17,2,45,Homeoptotes,Homeoptotes,True,3,eng,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,2,27,Metaphorically,Homeoptotes,False,3,eng,4. Métaphoriquement
+17,3,47,Blurb,Blurb,True,3,eng,24. Prière d'insérer
+17,3,27,Metaphorically,Metaphorically,True,3,eng,4. Métaphoriquement
+17,3,45,Homeoptotes,Homeoptotes,True,3,eng,22. Homéoptotes (1947) / Homéotéleutes (1976)
+18,1,29,Surprises,Surprises,True,3,eng,6. Surprises
+18,1,24,Notation,Another subjectivity,False,3,eng,1. Notations
+18,1,38,Another subjectivity,Surprises,False,3,eng,15. Autre subjectivité
+18,2,29,Surprises,Surprises,True,3,eng,6. Surprises
+18,2,38,Another subjectivity,Surprises,False,3,eng,15. Autre subjectivité
+18,2,24,Notation,Another subjectivity,False,3,eng,1. Notations
+18,3,38,Another subjectivity,Surprises,False,3,eng,15. Autre subjectivité
+18,3,24,Notation,Another subjectivity,False,3,eng,1. Notations
+18,3,29,Surprises,Surprises,True,3,eng,6. Surprises
+19,1,33,The rainbow,Distinguo,False,3,eng,10. L'arc-en-ciel
+19,1,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+19,2,33,The rainbow,Distinguo,False,3,eng,10. L'arc-en-ciel
+19,2,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+19,3,44,Distinguo,Distinguo,True,3,eng,21. Distinguo
+19,3,33,The rainbow,Distinguo,False,3,eng,10. L'arc-en-ciel
+20,1,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+20,1,40,Word-composition,Word-composition,True,3,eng,17. Composition de mots
+20,1,24,Notation,Notation,True,3,eng,1. Notations
+20,2,40,Word-composition,Word-composition,True,3,eng,17. Composition de mots
+20,2,24,Notation,Notation,True,3,eng,1. Notations
+20,2,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes
+20,3,24,Notation,Notation,True,3,eng,1. Notations
+20,3,40,Word-composition,Word-composition,True,3,eng,17. Composition de mots
+20,3,43,Anagrams,Anagrams,True,3,eng,20. Anagrammes

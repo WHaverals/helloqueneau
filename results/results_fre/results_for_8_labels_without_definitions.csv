@@ -1,0 +1,433 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,20,Distinguo,Notations,False,8,fre,21. Distinguo
+1,1,0,Notations,Notations,True,8,fre,1. Notations
+1,1,7,Pronostications,Notations,False,8,fre,8. Pronostications
+1,1,8,Synchyses,Notations,False,8,fre,9. Synchyses
+1,1,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+1,1,23,Prière dinsérer,Notations,False,8,fre,24. Prière d'insérer
+1,1,4,Rétrograde,Notations,False,8,fre,5. Rétrograde
+1,2,7,Pronostications,Notations,False,8,fre,8. Pronostications
+1,2,23,Prière dinsérer,Notations,False,8,fre,24. Prière d'insérer
+1,2,4,Rétrograde,Notations,False,8,fre,5. Rétrograde
+1,2,20,Distinguo,Notations,False,8,fre,21. Distinguo
+1,2,0,Notations,Notations,True,8,fre,1. Notations
+1,2,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+1,2,8,Synchyses,Notations,False,8,fre,9. Synchyses
+1,3,4,Rétrograde,Notations,False,8,fre,5. Rétrograde
+1,3,23,Prière dinsérer,Notations,False,8,fre,24. Prière d'insérer
+1,3,8,Synchyses,Notations,False,8,fre,9. Synchyses
+1,3,20,Distinguo,Notations,False,8,fre,21. Distinguo
+1,3,0,Notations,Notations,True,8,fre,1. Notations
+1,3,7,Pronostications,Notations,False,8,fre,8. Pronostications
+1,3,3,Métaphoriquement,Notations,False,8,fre,4. Métaphoriquement
+2,1,0,Notations,Notations,True,8,fre,1. Notations
+2,1,18,Animiste,Notations,False,8,fre,19. Animiste
+2,1,17,Négativités,En partie double,False,8,fre,18. Négativités
+2,1,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,1,2,Litotes,En partie double,False,8,fre,3. Litotes
+2,1,13,Le côté subjectif,Le côté subjectif,True,8,fre,14. Le côté subjectif
+2,1,23,Prière dinsérer,Prière d'insérer,False,8,fre,24. Prière d'insérer
+2,1,1,En partie double,Notations,False,8,fre,2. En partie double
+2,2,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,17,Négativités,En partie double,False,8,fre,18. Négativités
+2,2,13,Le côté subjectif,Litotes,False,8,fre,14. Le côté subjectif
+2,2,18,Animiste,Notations,False,8,fre,19. Animiste
+2,2,23,Prière dinsérer,Prière d'insérer,False,8,fre,24. Prière d'insérer
+2,2,2,Litotes,En partie double,False,8,fre,3. Litotes
+2,2,1,En partie double,Notations,False,8,fre,2. En partie double
+2,2,0,Notations,Notations,True,8,fre,1. Notations
+2,3,1,En partie double,Notations,False,8,fre,2. En partie double
+2,3,21,Homéotéleutes,En partie double,False,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,2,Litotes,En partie double,False,8,fre,3. Litotes
+2,3,17,Négativités,En partie double,False,8,fre,18. Négativités
+2,3,18,Animiste,Notations,False,8,fre,19. Animiste
+2,3,13,Le côté subjectif,Litotes,False,8,fre,14. Le côté subjectif
+2,3,23,Prière dinsérer,Prière d'insérer,False,8,fre,24. Prière d'insérer
+2,3,0,Notations,Notations,True,8,fre,1. Notations
+3,1,20,Distinguo,Composition de mots,False,8,fre,21. Distinguo
+3,1,0,Notations,Composition de mots,False,8,fre,1. Notations
+3,1,7,Pronostications,Rêve,False,8,fre,8. Pronostications
+3,1,19,Anagrammes,Rêve,False,8,fre,20. Anagrammes
+3,1,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+3,1,6,Rêve,Rêve,True,8,fre,7. Rêve
+3,1,16,Composition de mots,Rêve,False,8,fre,17. Composition de mots
+3,1,17,Négativités,Notations,False,8,fre,18. Négativités
+3,2,6,Rêve,Rêve,True,8,fre,7. Rêve
+3,2,16,Composition de mots,Rêve,False,8,fre,17. Composition de mots
+3,2,0,Notations,Distinguo,False,8,fre,1. Notations
+3,2,19,Anagrammes,Rêve,False,8,fre,20. Anagrammes
+3,2,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+3,2,20,Distinguo,Composition de mots,False,8,fre,21. Distinguo
+3,2,17,Négativités,Notations,False,8,fre,18. Négativités
+3,2,7,Pronostications,Rêve,False,8,fre,8. Pronostications
+3,3,17,Négativités,Notations,False,8,fre,18. Négativités
+3,3,6,Rêve,Rêve,True,8,fre,7. Rêve
+3,3,20,Distinguo,Composition de mots,False,8,fre,21. Distinguo
+3,3,0,Notations,Composition de mots,False,8,fre,1. Notations
+3,3,19,Anagrammes,Rêve,False,8,fre,20. Anagrammes
+3,3,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+3,3,16,Composition de mots,Rêve,False,8,fre,17. Composition de mots
+3,3,7,Pronostications,Rêve,False,8,fre,8. Pronostications
+4,1,0,Notations,Notations,True,8,fre,1. Notations
+4,1,5,Surprises,Le côté subjectif,False,8,fre,6. Surprises
+4,1,14,Autre subjectivité,Le côté subjectif,False,8,fre,15. Autre subjectivité
+4,1,18,Animiste,Animiste,True,8,fre,19. Animiste
+4,1,8,Synchyses,Notations,False,8,fre,9. Synchyses
+4,1,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+4,1,7,Pronostications,Notations,False,8,fre,8. Pronostications
+4,1,13,Le côté subjectif,Le côté subjectif,True,8,fre,14. Le côté subjectif
+4,2,18,Animiste,Animiste,True,8,fre,19. Animiste
+4,2,5,Surprises,Le côté subjectif,False,8,fre,6. Surprises
+4,2,13,Le côté subjectif,Le côté subjectif,True,8,fre,14. Le côté subjectif
+4,2,0,Notations,Notations,True,8,fre,1. Notations
+4,2,8,Synchyses,Notations,False,8,fre,9. Synchyses
+4,2,7,Pronostications,Le côté subjectif,False,8,fre,8. Pronostications
+4,2,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+4,2,14,Autre subjectivité,Le côté subjectif,False,8,fre,15. Autre subjectivité
+4,3,14,Autre subjectivité,Le côté subjectif,False,8,fre,15. Autre subjectivité
+4,3,18,Animiste,Animiste,True,8,fre,19. Animiste
+4,3,0,Notations,Notations,True,8,fre,1. Notations
+4,3,13,Le côté subjectif,Le côté subjectif,True,8,fre,14. Le côté subjectif
+4,3,8,Synchyses,Notations,False,8,fre,9. Synchyses
+4,3,7,Pronostications,Le côté subjectif,False,8,fre,8. Pronostications
+4,3,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+4,3,5,Surprises,Le côté subjectif,False,8,fre,6. Surprises
+5,1,10,Logo-rallye,Précisions,False,8,fre,11. Logo-rallye
+5,1,12,Précisions,Précisions,True,8,fre,13. Précisions
+5,1,4,Rétrograde,Métaphoriquement,False,8,fre,5. Rétrograde
+5,1,2,Litotes,Rétrograde,False,8,fre,3. Litotes
+5,1,8,Synchyses,Métaphoriquement,False,8,fre,9. Synchyses
+5,1,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+5,1,6,Rêve,Rêve,True,8,fre,7. Rêve
+5,2,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+5,2,10,Logo-rallye,Métaphoriquement,False,8,fre,11. Logo-rallye
+5,2,6,Rêve,Rêve,True,8,fre,7. Rêve
+5,2,12,Précisions,Précisions,True,8,fre,13. Précisions
+5,2,8,Synchyses,Métaphoriquement,False,8,fre,9. Synchyses
+5,2,4,Rétrograde,Métaphoriquement,False,8,fre,5. Rétrograde
+5,2,2,Litotes,Rétrograde,False,8,fre,3. Litotes
+5,3,6,Rêve,Rêve,True,8,fre,7. Rêve
+5,3,8,Synchyses,Métaphoriquement,False,8,fre,9. Synchyses
+5,3,2,Litotes,Rétrograde,False,8,fre,3. Litotes
+5,3,12,Précisions,Précisions,True,8,fre,13. Précisions
+5,3,10,Logo-rallye,Métaphoriquement,False,8,fre,11. Logo-rallye
+5,3,4,Rétrograde,Métaphoriquement,False,8,fre,5. Rétrograde
+5,3,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+6,1,3,Métaphoriquement,Autre subjectivité,False,8,fre,4. Métaphoriquement
+6,1,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+6,1,1,En partie double,Précisions,False,8,fre,2. En partie double
+6,1,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+6,1,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+6,1,17,Négativités,En partie double,False,8,fre,18. Négativités
+6,1,12,Précisions,Précisions,True,8,fre,13. Précisions
+6,1,19,Anagrammes,Autre subjectivité,False,8,fre,20. Anagrammes
+6,2,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+6,2,1,En partie double,En partie double,True,8,fre,2. En partie double
+6,2,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+6,2,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+6,2,12,Précisions,Précisions,True,8,fre,13. Précisions
+6,2,19,Anagrammes,Anagrammes,True,8,fre,20. Anagrammes
+6,2,17,Négativités,En partie double,False,8,fre,18. Négativités
+6,2,3,Métaphoriquement,Autre subjectivité,False,8,fre,4. Métaphoriquement
+6,3,19,Anagrammes,Anagrammes,True,8,fre,20. Anagrammes
+6,3,8,Synchyses,Anagrammes,False,8,fre,9. Synchyses
+6,3,17,Négativités,En partie double,False,8,fre,18. Négativités
+6,3,23,Prière dinsérer,En partie double,False,8,fre,24. Prière d'insérer
+6,3,3,Métaphoriquement,Autre subjectivité,False,8,fre,4. Métaphoriquement
+6,3,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+6,3,1,En partie double,En partie double,True,8,fre,2. En partie double
+6,3,12,Précisions,Précisions,True,8,fre,13. Précisions
+7,1,19,Anagrammes,Rêve,False,8,fre,20. Anagrammes
+7,1,6,Rêve,Rêve,True,8,fre,7. Rêve
+7,1,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+7,1,9,Larc-en-ciel,Anagrammes,False,8,fre,10. L'arc-en-ciel
+7,1,18,Animiste,Rêve,False,8,fre,19. Animiste
+7,1,2,Litotes,Litotes,True,8,fre,3. Litotes
+7,1,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+7,1,20,Distinguo,Anagrammes,False,8,fre,21. Distinguo
+7,2,19,Anagrammes,Rêve,False,8,fre,20. Anagrammes
+7,2,20,Distinguo,Anagrammes,False,8,fre,21. Distinguo
+7,2,2,Litotes,Distinguo,False,8,fre,3. Litotes
+7,2,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+7,2,6,Rêve,Rêve,True,8,fre,7. Rêve
+7,2,9,Larc-en-ciel,Anagrammes,False,8,fre,10. L'arc-en-ciel
+7,2,18,Animiste,Litotes,False,8,fre,19. Animiste
+7,2,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+7,3,6,Rêve,Rêve,True,8,fre,7. Rêve
+7,3,18,Animiste,Hésitations,False,8,fre,19. Animiste
+7,3,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+7,3,9,Larc-en-ciel,Anagrammes,False,8,fre,10. L'arc-en-ciel
+7,3,20,Distinguo,Anagrammes,False,8,fre,21. Distinguo
+7,3,2,Litotes,Litotes,True,8,fre,3. Litotes
+7,3,19,Anagrammes,Rêve,False,8,fre,20. Anagrammes
+7,3,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+8,1,12,Précisions,Précisions,True,8,fre,13. Précisions
+8,1,7,Pronostications,Autre subjectivité,False,8,fre,8. Pronostications
+8,1,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+8,1,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+8,1,9,Larc-en-ciel,Synchyses,False,8,fre,10. L'arc-en-ciel
+8,1,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+8,1,2,Litotes,Synchyses,False,8,fre,3. Litotes
+8,2,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+8,2,9,Larc-en-ciel,Synchyses,False,8,fre,10. L'arc-en-ciel
+8,2,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+8,2,2,Litotes,Synchyses,False,8,fre,3. Litotes
+8,2,7,Pronostications,Autre subjectivité,False,8,fre,8. Pronostications
+8,2,12,Précisions,Précisions,True,8,fre,13. Précisions
+8,2,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+8,3,7,Pronostications,Autre subjectivité,False,8,fre,8. Pronostications
+8,3,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+8,3,12,Précisions,Précisions,True,8,fre,13. Précisions
+8,3,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+8,3,2,Litotes,Synchyses,False,8,fre,3. Litotes
+8,3,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+8,3,9,Larc-en-ciel,Synchyses,False,8,fre,10. L'arc-en-ciel
+9,1,6,Rêve,Rêve,True,8,fre,7. Rêve
+9,1,8,Synchyses,Hésitations,False,8,fre,9. Synchyses
+9,1,5,Surprises,Surprises,True,8,fre,6. Surprises
+9,1,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+9,1,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,1,11,Hésitations,Rêve,False,8,fre,12. Hésitations
+9,2,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,2,6,Rêve,Rêve,True,8,fre,7. Rêve
+9,2,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+9,2,11,Hésitations,Rêve,False,8,fre,12. Hésitations
+9,2,8,Synchyses,Homéotéleutes,False,8,fre,9. Synchyses
+9,2,5,Surprises,Surprises,True,8,fre,6. Surprises
+9,3,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,3,11,Hésitations,Rêve,False,8,fre,12. Hésitations
+9,3,6,Rêve,Rêve,True,8,fre,7. Rêve
+9,3,5,Surprises,Surprises,True,8,fre,6. Surprises
+9,3,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+9,3,8,Synchyses,Hésitations,False,8,fre,9. Synchyses
+10,1,17,Négativités,Anagrammes,False,8,fre,18. Négativités
+10,1,20,Distinguo,Anagrammes,False,8,fre,21. Distinguo
+10,1,5,Surprises,Surprises,True,8,fre,6. Surprises
+10,1,19,Anagrammes,Anagrammes,True,8,fre,20. Anagrammes
+10,1,7,Pronostications,Surprises,False,8,fre,8. Pronostications
+10,1,23,Prière dinsérer,Surprises,False,8,fre,24. Prière d'insérer
+10,1,14,Autre subjectivité,Négativités,False,8,fre,15. Autre subjectivité
+10,2,7,Pronostications,Surprises,False,8,fre,8. Pronostications
+10,2,14,Autre subjectivité,Surprises,False,8,fre,15. Autre subjectivité
+10,2,5,Surprises,Surprises,True,8,fre,6. Surprises
+10,2,19,Anagrammes,Anagrammes,True,8,fre,20. Anagrammes
+10,2,20,Distinguo,Anagrammes,False,8,fre,21. Distinguo
+10,2,23,Prière dinsérer,Surprises,False,8,fre,24. Prière d'insérer
+10,2,17,Négativités,Anagrammes,False,8,fre,18. Négativités
+10,3,17,Négativités,Anagrammes,False,8,fre,18. Négativités
+10,3,19,Anagrammes,Anagrammes,True,8,fre,20. Anagrammes
+10,3,14,Autre subjectivité,Négativités,False,8,fre,15. Autre subjectivité
+10,3,5,Surprises,Surprises,True,8,fre,6. Surprises
+10,3,20,Distinguo,Anagrammes,False,8,fre,21. Distinguo
+10,3,7,Pronostications,Surprises,False,8,fre,8. Pronostications
+10,3,23,Prière dinsérer,Surprises,False,8,fre,24. Prière d'insérer
+11,1,1,En partie double,Distinguo,False,8,fre,2. En partie double
+11,1,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+11,1,7,Pronostications,Distinguo,False,8,fre,8. Pronostications
+11,1,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,1,17,Négativités,Distinguo,False,8,fre,18. Négativités
+11,1,20,Distinguo,Homéotéleutes,False,8,fre,21. Distinguo
+11,1,10,Logo-rallye,Distinguo,False,8,fre,11. Logo-rallye
+11,2,1,En partie double,Distinguo,False,8,fre,2. En partie double
+11,2,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,2,20,Distinguo,Homéotéleutes,False,8,fre,21. Distinguo
+11,2,17,Négativités,Distinguo,False,8,fre,18. Négativités
+11,2,7,Pronostications,Distinguo,False,8,fre,8. Pronostications
+11,2,10,Logo-rallye,En partie double,False,8,fre,11. Logo-rallye
+11,2,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+11,3,10,Logo-rallye,Distinguo,False,8,fre,11. Logo-rallye
+11,3,7,Pronostications,Distinguo,False,8,fre,8. Pronostications
+11,3,20,Distinguo,Homéotéleutes,False,8,fre,21. Distinguo
+11,3,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+11,3,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,3,1,En partie double,Distinguo,False,8,fre,2. En partie double
+11,3,17,Négativités,Distinguo,False,8,fre,18. Négativités
+12,1,12,Précisions,Précisions,True,8,fre,13. Précisions
+12,1,6,Rêve,Rêve,True,8,fre,7. Rêve
+12,1,2,Litotes,Synchyses,False,8,fre,3. Litotes
+12,1,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+12,1,10,Logo-rallye,Précisions,False,8,fre,11. Logo-rallye
+12,1,8,Synchyses,Précisions,False,8,fre,9. Synchyses
+12,1,18,Animiste,Animiste,True,8,fre,19. Animiste
+12,2,12,Précisions,Précisions,True,8,fre,13. Précisions
+12,2,2,Litotes,Synchyses,False,8,fre,3. Litotes
+12,2,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+12,2,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+12,2,18,Animiste,Animiste,True,8,fre,19. Animiste
+12,2,10,Logo-rallye,Précisions,False,8,fre,11. Logo-rallye
+12,2,6,Rêve,Rêve,True,8,fre,7. Rêve
+12,3,10,Logo-rallye,Précisions,False,8,fre,11. Logo-rallye
+12,3,12,Précisions,Précisions,True,8,fre,13. Précisions
+12,3,2,Litotes,Synchyses,False,8,fre,3. Litotes
+12,3,6,Rêve,Rêve,True,8,fre,7. Rêve
+12,3,22,Lettre officielle,Lettre officielle,True,8,fre,23. Lettre officielle
+12,3,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+12,3,18,Animiste,Animiste,True,8,fre,19. Animiste
+13,1,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+13,1,4,Rétrograde,Autre subjectivité,False,8,fre,5. Rétrograde
+13,1,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+13,1,20,Distinguo,Précisions,False,8,fre,21. Distinguo
+13,1,7,Pronostications,Précisions,False,8,fre,8. Pronostications
+13,1,12,Précisions,Précisions,True,8,fre,13. Précisions
+13,1,8,Synchyses,Autre subjectivité,False,8,fre,9. Synchyses
+13,2,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+13,2,4,Rétrograde,Autre subjectivité,False,8,fre,5. Rétrograde
+13,2,12,Précisions,Précisions,True,8,fre,13. Précisions
+13,2,7,Pronostications,Précisions,False,8,fre,8. Pronostications
+13,2,20,Distinguo,Précisions,False,8,fre,21. Distinguo
+13,2,8,Synchyses,Autre subjectivité,False,8,fre,9. Synchyses
+13,2,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+13,3,20,Distinguo,Précisions,False,8,fre,21. Distinguo
+13,3,12,Précisions,Précisions,True,8,fre,13. Précisions
+13,3,4,Rétrograde,Autre subjectivité,False,8,fre,5. Rétrograde
+13,3,7,Pronostications,Précisions,False,8,fre,8. Pronostications
+13,3,14,Autre subjectivité,Autre subjectivité,True,8,fre,15. Autre subjectivité
+13,3,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+13,3,8,Synchyses,Autre subjectivité,False,8,fre,9. Synchyses
+14,1,12,Précisions,Précisions,True,8,fre,13. Précisions
+14,1,18,Animiste,Le côté subjectif,False,8,fre,19. Animiste
+14,1,7,Pronostications,Le côté subjectif,False,8,fre,8. Pronostications
+14,1,13,Le côté subjectif,Le côté subjectif,True,8,fre,14. Le côté subjectif
+14,1,8,Synchyses,Le côté subjectif,False,8,fre,9. Synchyses
+14,1,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+14,1,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+14,2,7,Pronostications,Le côté subjectif,False,8,fre,8. Pronostications
+14,2,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+14,2,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+14,2,18,Animiste,Le côté subjectif,False,8,fre,19. Animiste
+14,2,12,Précisions,Précisions,True,8,fre,13. Précisions
+14,2,13,Le côté subjectif,Le côté subjectif,True,8,fre,14. Le côté subjectif
+14,2,8,Synchyses,Le côté subjectif,False,8,fre,9. Synchyses
+14,3,18,Animiste,Le côté subjectif,False,8,fre,19. Animiste
+14,3,12,Précisions,Précisions,True,8,fre,13. Précisions
+14,3,7,Pronostications,Le côté subjectif,False,8,fre,8. Pronostications
+14,3,23,Prière dinsérer,Précisions,False,8,fre,24. Prière d'insérer
+14,3,13,Le côté subjectif,Le côté subjectif,True,8,fre,14. Le côté subjectif
+14,3,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+14,3,8,Synchyses,Le côté subjectif,False,8,fre,9. Synchyses
+15,1,4,Rétrograde,Rétrograde,True,8,fre,5. Rétrograde
+15,1,2,Litotes,Récit,False,8,fre,3. Litotes
+15,1,1,En partie double,Distinguo,False,8,fre,2. En partie double
+15,1,20,Distinguo,Distinguo,True,8,fre,21. Distinguo
+15,1,21,Homéotéleutes,Métaphoriquement,False,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,1,5,Surprises,Rétrograde,False,8,fre,6. Surprises
+15,1,15,Récit,Récit,True,8,fre,16. Récit
+15,1,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+15,2,5,Surprises,Rétrograde,False,8,fre,6. Surprises
+15,2,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+15,2,4,Rétrograde,Rétrograde,True,8,fre,5. Rétrograde
+15,2,2,Litotes,Récit,False,8,fre,3. Litotes
+15,2,1,En partie double,Distinguo,False,8,fre,2. En partie double
+15,2,21,Homéotéleutes,Métaphoriquement,False,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,2,15,Récit,Récit,True,8,fre,16. Récit
+15,2,20,Distinguo,Distinguo,True,8,fre,21. Distinguo
+15,3,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+15,3,1,En partie double,Distinguo,False,8,fre,2. En partie double
+15,3,21,Homéotéleutes,Métaphoriquement,False,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,3,2,Litotes,Récit,False,8,fre,3. Litotes
+15,3,5,Surprises,Rétrograde,False,8,fre,6. Surprises
+15,3,4,Rétrograde,Distinguo,False,8,fre,5. Rétrograde
+15,3,20,Distinguo,Distinguo,True,8,fre,21. Distinguo
+15,3,15,Récit,Récit,True,8,fre,16. Récit
+16,1,2,Litotes,Litotes,True,8,fre,3. Litotes
+16,1,8,Synchyses,Précisions,False,8,fre,9. Synchyses
+16,1,14,Autre subjectivité,Négativités,False,8,fre,15. Autre subjectivité
+16,1,19,Anagrammes,Précisions,False,8,fre,20. Anagrammes
+16,1,12,Précisions,Précisions,True,8,fre,13. Précisions
+16,1,17,Négativités,Litotes,False,8,fre,18. Négativités
+16,1,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+16,2,12,Précisions,Précisions,True,8,fre,13. Précisions
+16,2,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+16,2,17,Négativités,Litotes,False,8,fre,18. Négativités
+16,2,2,Litotes,Litotes,True,8,fre,3. Litotes
+16,2,8,Synchyses,Précisions,False,8,fre,9. Synchyses
+16,2,19,Anagrammes,Composition de mots,False,8,fre,20. Anagrammes
+16,2,14,Autre subjectivité,Négativités,False,8,fre,15. Autre subjectivité
+16,3,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+16,3,2,Litotes,Litotes,True,8,fre,3. Litotes
+16,3,14,Autre subjectivité,Négativités,False,8,fre,15. Autre subjectivité
+16,3,8,Synchyses,Précisions,False,8,fre,9. Synchyses
+16,3,19,Anagrammes,Composition de mots,False,8,fre,20. Anagrammes
+16,3,12,Précisions,Précisions,True,8,fre,13. Précisions
+16,3,17,Négativités,Litotes,False,8,fre,18. Négativités
+17,1,20,Distinguo,Homéotéleutes,False,8,fre,21. Distinguo
+17,1,10,Logo-rallye,Distinguo,False,8,fre,11. Logo-rallye
+17,1,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,1,17,Négativités,Distinguo,False,8,fre,18. Négativités
+17,1,23,Prière dinsérer,Distinguo,False,8,fre,24. Prière d'insérer
+17,1,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+17,1,8,Synchyses,Homéotéleutes,False,8,fre,9. Synchyses
+17,2,10,Logo-rallye,Distinguo,False,8,fre,11. Logo-rallye
+17,2,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+17,2,23,Prière dinsérer,Distinguo,False,8,fre,24. Prière d'insérer
+17,2,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,2,20,Distinguo,Homéotéleutes,False,8,fre,21. Distinguo
+17,2,8,Synchyses,Homéotéleutes,False,8,fre,9. Synchyses
+17,2,17,Négativités,Distinguo,False,8,fre,18. Négativités
+17,3,3,Métaphoriquement,Métaphoriquement,True,8,fre,4. Métaphoriquement
+17,3,17,Négativités,Distinguo,False,8,fre,18. Négativités
+17,3,20,Distinguo,Homéotéleutes,False,8,fre,21. Distinguo
+17,3,21,Homéotéleutes,Homéotéleutes,True,8,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,3,23,Prière dinsérer,Distinguo,False,8,fre,24. Prière d'insérer
+17,3,8,Synchyses,Synchyses,True,8,fre,9. Synchyses
+17,3,10,Logo-rallye,Distinguo,False,8,fre,11. Logo-rallye
+18,1,14,Autre subjectivité,Surprises,False,8,fre,15. Autre subjectivité
+18,1,8,Synchyses,Composition de mots,False,8,fre,9. Synchyses
+18,1,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+18,1,23,Prière dinsérer,Surprises,False,8,fre,24. Prière d'insérer
+18,1,0,Notations,Notations,True,8,fre,1. Notations
+18,1,5,Surprises,Surprises,True,8,fre,6. Surprises
+18,2,0,Notations,Notations,True,8,fre,1. Notations
+18,2,8,Synchyses,Composition de mots,False,8,fre,9. Synchyses
+18,2,14,Autre subjectivité,Surprises,False,8,fre,15. Autre subjectivité
+18,2,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+18,2,23,Prière dinsérer,Surprises,False,8,fre,24. Prière d'insérer
+18,2,5,Surprises,Surprises,True,8,fre,6. Surprises
+18,3,5,Surprises,Surprises,True,8,fre,6. Surprises
+18,3,14,Autre subjectivité,Surprises,False,8,fre,15. Autre subjectivité
+18,3,8,Synchyses,Composition de mots,False,8,fre,9. Synchyses
+18,3,0,Notations,Notations,True,8,fre,1. Notations
+18,3,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+18,3,23,Prière dinsérer,Surprises,False,8,fre,24. Prière d'insérer
+19,1,6,Rêve,Rêve,True,8,fre,7. Rêve
+19,1,4,Rétrograde,Composition de mots,False,8,fre,5. Rétrograde
+19,1,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+19,1,9,Larc-en-ciel,Composition de mots,False,8,fre,10. L'arc-en-ciel
+19,1,20,Distinguo,Composition de mots,False,8,fre,21. Distinguo
+19,1,11,Hésitations,Rêve,False,8,fre,12. Hésitations
+19,1,19,Anagrammes,Composition de mots,False,8,fre,20. Anagrammes
+19,2,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+19,2,6,Rêve,Rêve,True,8,fre,7. Rêve
+19,2,19,Anagrammes,Composition de mots,False,8,fre,20. Anagrammes
+19,2,4,Rétrograde,Composition de mots,False,8,fre,5. Rétrograde
+19,2,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+19,2,9,Larc-en-ciel,Composition de mots,False,8,fre,10. L'arc-en-ciel
+19,2,20,Distinguo,Composition de mots,False,8,fre,21. Distinguo
+19,3,6,Rêve,Rêve,True,8,fre,7. Rêve
+19,3,11,Hésitations,Hésitations,True,8,fre,12. Hésitations
+19,3,19,Anagrammes,Composition de mots,False,8,fre,20. Anagrammes
+19,3,4,Rétrograde,Composition de mots,False,8,fre,5. Rétrograde
+19,3,9,Larc-en-ciel,Composition de mots,False,8,fre,10. L'arc-en-ciel
+19,3,20,Distinguo,Composition de mots,False,8,fre,21. Distinguo
+19,3,16,Composition de mots,Composition de mots,True,8,fre,17. Composition de mots
+20,1,16,Composition de mots,Récit,False,8,fre,17. Composition de mots
+20,1,0,Notations,Récit,False,8,fre,1. Notations
+20,1,3,Métaphoriquement,Récit,False,8,fre,4. Métaphoriquement
+20,1,11,Hésitations,Récit,False,8,fre,12. Hésitations
+20,1,19,Anagrammes,Récit,False,8,fre,20. Anagrammes
+20,1,10,Logo-rallye,Récit,False,8,fre,11. Logo-rallye
+20,1,15,Récit,Récit,True,8,fre,16. Récit
+20,2,11,Hésitations,Récit,False,8,fre,12. Hésitations
+20,2,3,Métaphoriquement,Récit,False,8,fre,4. Métaphoriquement
+20,2,19,Anagrammes,Récit,False,8,fre,20. Anagrammes
+20,2,10,Logo-rallye,Récit,False,8,fre,11. Logo-rallye
+20,2,15,Récit,Récit,True,8,fre,16. Récit
+20,2,0,Notations,Récit,False,8,fre,1. Notations
+20,2,16,Composition de mots,Récit,False,8,fre,17. Composition de mots
+20,3,16,Composition de mots,Récit,False,8,fre,17. Composition de mots
+20,3,11,Hésitations,Récit,False,8,fre,12. Hésitations
+20,3,15,Récit,Récit,True,8,fre,16. Récit
+20,3,0,Notations,Récit,False,8,fre,1. Notations
+20,3,10,Logo-rallye,Récit,False,8,fre,11. Logo-rallye
+20,3,3,Métaphoriquement,Récit,False,8,fre,4. Métaphoriquement
+20,3,19,Anagrammes,Récit,False,8,fre,20. Anagrammes

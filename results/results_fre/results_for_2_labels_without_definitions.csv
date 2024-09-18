@@ -1,0 +1,121 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,3,Métaphoriquement,Métaphoriquement,True,2,fre,4. Métaphoriquement
+1,1,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+1,2,3,Métaphoriquement,Distinguo,False,2,fre,4. Métaphoriquement
+1,2,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+1,3,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+1,3,3,Métaphoriquement,Distinguo,False,2,fre,4. Métaphoriquement
+2,1,23,Prière dinsérer,Prière d'insérer,False,2,fre,24. Prière d'insérer
+2,1,21,Homéotéleutes,Homéotéleutes,True,2,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,21,Homéotéleutes,Homéotéleutes,True,2,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,23,Prière dinsérer,Prière d'insérer,False,2,fre,24. Prière d'insérer
+2,3,21,Homéotéleutes,Homéotéleutes,True,2,fre,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,23,Prière dinsérer,Prière d'insérer,False,2,fre,24. Prière d'insérer
+3,1,16,Composition de mots,Composition de mots,True,2,fre,17. Composition de mots
+3,1,7,Pronostications,Pronostications,True,2,fre,8. Pronostications
+3,2,16,Composition de mots,Composition de mots,True,2,fre,17. Composition de mots
+3,2,7,Pronostications,Pronostications,True,2,fre,8. Pronostications
+3,3,7,Pronostications,Pronostications,True,2,fre,8. Pronostications
+3,3,16,Composition de mots,Composition de mots,True,2,fre,17. Composition de mots
+4,1,13,Le côté subjectif,Le côté subjectif,True,2,fre,14. Le côté subjectif
+4,1,7,Pronostications,Le côté subjectif,False,2,fre,8. Pronostications
+4,2,7,Pronostications,Le côté subjectif,False,2,fre,8. Pronostications
+4,2,13,Le côté subjectif,Le côté subjectif,True,2,fre,14. Le côté subjectif
+4,3,7,Pronostications,Le côté subjectif,False,2,fre,8. Pronostications
+4,3,13,Le côté subjectif,Le côté subjectif,True,2,fre,14. Le côté subjectif
+5,1,8,Synchyses,Rétrograde,False,2,fre,9. Synchyses
+5,1,4,Rétrograde,Rétrograde,True,2,fre,5. Rétrograde
+5,2,8,Synchyses,Rétrograde,False,2,fre,9. Synchyses
+5,2,4,Rétrograde,Rétrograde,True,2,fre,5. Rétrograde
+5,3,8,Synchyses,Rétrograde,False,2,fre,9. Synchyses
+5,3,4,Rétrograde,Rétrograde,True,2,fre,5. Rétrograde
+6,1,19,Anagrammes,Anagrammes,True,2,fre,20. Anagrammes
+6,1,8,Synchyses,Anagrammes,False,2,fre,9. Synchyses
+6,2,8,Synchyses,Anagrammes,False,2,fre,9. Synchyses
+6,2,19,Anagrammes,Anagrammes,True,2,fre,20. Anagrammes
+6,3,8,Synchyses,Anagrammes,False,2,fre,9. Synchyses
+6,3,19,Anagrammes,Anagrammes,True,2,fre,20. Anagrammes
+7,1,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+7,1,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+7,2,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+7,2,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+7,3,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+7,3,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+8,1,7,Pronostications,Pronostications,True,2,fre,8. Pronostications
+8,1,9,Larc-en-ciel,Pronostications,False,2,fre,10. L'arc-en-ciel
+8,2,7,Pronostications,Pronostications,True,2,fre,8. Pronostications
+8,2,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+8,3,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+8,3,7,Pronostications,Pronostications,True,2,fre,8. Pronostications
+9,1,5,Surprises,Hésitations,False,2,fre,6. Surprises
+9,1,11,Hésitations,Hésitations,True,2,fre,12. Hésitations
+9,2,11,Hésitations,Hésitations,True,2,fre,12. Hésitations
+9,2,5,Surprises,Hésitations,False,2,fre,6. Surprises
+9,3,5,Surprises,Hésitations,False,2,fre,6. Surprises
+9,3,11,Hésitations,Hésitations,True,2,fre,12. Hésitations
+10,1,19,Anagrammes,Anagrammes,True,2,fre,20. Anagrammes
+10,1,20,Distinguo,Anagrammes,False,2,fre,21. Distinguo
+10,2,19,Anagrammes,Anagrammes,True,2,fre,20. Anagrammes
+10,2,20,Distinguo,Anagrammes,False,2,fre,21. Distinguo
+10,3,20,Distinguo,Anagrammes,False,2,fre,21. Distinguo
+10,3,19,Anagrammes,Anagrammes,True,2,fre,20. Anagrammes
+11,1,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+11,1,22,Lettre officielle,Lettre officielle,True,2,fre,23. Lettre officielle
+11,2,22,Lettre officielle,Lettre officielle,True,2,fre,23. Lettre officielle
+11,2,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+11,3,22,Lettre officielle,Lettre officielle,True,2,fre,23. Lettre officielle
+11,3,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+12,1,8,Synchyses,Synchyses,True,2,fre,9. Synchyses
+12,1,12,Précisions,Précisions,True,2,fre,13. Précisions
+12,2,8,Synchyses,Synchyses,True,2,fre,9. Synchyses
+12,2,12,Précisions,Précisions,True,2,fre,13. Précisions
+12,3,8,Synchyses,Synchyses,True,2,fre,9. Synchyses
+12,3,12,Précisions,Précisions,True,2,fre,13. Précisions
+13,1,12,Précisions,Distinguo,False,2,fre,13. Précisions
+13,1,20,Distinguo,Précisions,False,2,fre,21. Distinguo
+13,2,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+13,2,12,Précisions,Précisions,True,2,fre,13. Précisions
+13,3,20,Distinguo,Précisions,False,2,fre,21. Distinguo
+13,3,12,Précisions,Précisions,True,2,fre,13. Précisions
+14,1,8,Synchyses,Synchyses,True,2,fre,9. Synchyses
+14,1,23,Prière dinsérer,Prière d'insérer,False,2,fre,24. Prière d'insérer
+14,2,8,Synchyses,Synchyses,True,2,fre,9. Synchyses
+14,2,23,Prière dinsérer,Prière d'insérer,False,2,fre,24. Prière d'insérer
+14,3,23,Prière dinsérer,Prière d'insérer,False,2,fre,24. Prière d'insérer
+14,3,8,Synchyses,Prière d'insérer,False,2,fre,9. Synchyses
+15,1,2,Litotes,Récit,False,2,fre,3. Litotes
+15,1,15,Récit,Récit,True,2,fre,16. Récit
+15,2,2,Litotes,Récit,False,2,fre,3. Litotes
+15,2,15,Récit,Récit,True,2,fre,16. Récit
+15,3,15,Récit,Récit,True,2,fre,16. Récit
+15,3,2,Litotes,Récit,False,2,fre,3. Litotes
+16,1,12,Précisions,Précisions,True,2,fre,13. Précisions
+16,1,2,Litotes,Litotes,True,2,fre,3. Litotes
+16,2,2,Litotes,Litotes,True,2,fre,3. Litotes
+16,2,12,Précisions,Précisions,True,2,fre,13. Précisions
+16,3,12,Précisions,Précisions,True,2,fre,13. Précisions
+16,3,2,Litotes,Litotes,True,2,fre,3. Litotes
+17,1,23,Prière dinsérer,Métaphoriquement,False,2,fre,24. Prière d'insérer
+17,1,3,Métaphoriquement,Métaphoriquement,True,2,fre,4. Métaphoriquement
+17,2,3,Métaphoriquement,Métaphoriquement,True,2,fre,4. Métaphoriquement
+17,2,23,Prière dinsérer,Prière d'insérer,False,2,fre,24. Prière d'insérer
+17,3,23,Prière dinsérer,Métaphoriquement,False,2,fre,24. Prière d'insérer
+17,3,3,Métaphoriquement,Métaphoriquement,True,2,fre,4. Métaphoriquement
+18,1,14,Autre subjectivité,Autre subjectivité,True,2,fre,15. Autre subjectivité
+18,1,5,Surprises,Surprises,True,2,fre,6. Surprises
+18,2,5,Surprises,Autre subjectivité,False,2,fre,6. Surprises
+18,2,14,Autre subjectivité,Autre subjectivité,True,2,fre,15. Autre subjectivité
+18,3,5,Surprises,Surprises,True,2,fre,6. Surprises
+18,3,14,Autre subjectivité,Autre subjectivité,True,2,fre,15. Autre subjectivité
+19,1,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+19,1,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+19,2,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+19,2,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+19,3,9,Larc-en-ciel,Larc-en-ciel,True,2,fre,10. L'arc-en-ciel
+19,3,20,Distinguo,Distinguo,True,2,fre,21. Distinguo
+20,1,16,Composition de mots,Composition de mots,True,2,fre,17. Composition de mots
+20,1,0,Notations,Notations,True,2,fre,1. Notations
+20,2,16,Composition de mots,Composition de mots,True,2,fre,17. Composition de mots
+20,2,0,Notations,Notations,True,2,fre,1. Notations
+20,3,16,Composition de mots,Composition de mots,True,2,fre,17. Composition de mots
+20,3,0,Notations,Notations,True,2,fre,1. Notations

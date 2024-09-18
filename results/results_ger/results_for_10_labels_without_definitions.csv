@@ -1,0 +1,517 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+1,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+1,1,55,Vorhersage,Angaben,False,10,ger,8. Pronostications
+1,1,48,Angaben,Angaben,True,10,ger,1. Notations
+1,1,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+1,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+1,1,52,Rückwärts,Angaben,False,10,ger,5. Rétrograde
+1,2,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+1,2,55,Vorhersage,Angaben,False,10,ger,8. Pronostications
+1,2,48,Angaben,Angaben,True,10,ger,1. Notations
+1,2,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+1,2,52,Rückwärts,Angaben,False,10,ger,5. Rétrograde
+1,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+1,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+1,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+1,3,52,Rückwärts,Angaben,False,10,ger,5. Rétrograde
+1,3,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+1,3,55,Vorhersage,Angaben,False,10,ger,8. Pronostications
+1,3,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+1,3,48,Angaben,Angaben,True,10,ger,1. Notations
+1,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+2,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+2,1,48,Angaben,Die subjektive Seite,False,10,ger,1. Notations
+2,1,65,Negativitäten,Litotes,False,10,ger,18. Négativités
+2,1,66,Animismus,Die subjektive Seite,False,10,ger,19. Animiste
+2,1,69,Homöoteleuton,Verdopplung,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,1,54,Traum,Traum,True,10,ger,7. Rêve
+2,1,49,Verdopplung,Die subjektive Seite,False,10,ger,2. En partie double
+2,1,50,Litotes,Verdopplung,False,10,ger,3. Litotes
+2,1,61,Die subjektive Seite,Klappentext,False,10,ger,14. Le côté subjectif
+2,2,69,Homöoteleuton,Homöoteleuton,True,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,48,Angaben,Die subjektive Seite,False,10,ger,1. Notations
+2,2,49,Verdopplung,Die subjektive Seite,False,10,ger,2. En partie double
+2,2,54,Traum,Traum,True,10,ger,7. Rêve
+2,2,66,Animismus,Die subjektive Seite,False,10,ger,19. Animiste
+2,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+2,2,61,Die subjektive Seite,Klappentext,False,10,ger,14. Le côté subjectif
+2,2,50,Litotes,Verdopplung,False,10,ger,3. Litotes
+2,2,65,Negativitäten,Litotes,False,10,ger,18. Négativités
+2,3,49,Verdopplung,Die subjektive Seite,False,10,ger,2. En partie double
+2,3,69,Homöoteleuton,Verdopplung,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,65,Negativitäten,Litotes,False,10,ger,18. Négativités
+2,3,50,Litotes,Verdopplung,False,10,ger,3. Litotes
+2,3,66,Animismus,Die subjektive Seite,False,10,ger,19. Animiste
+2,3,48,Angaben,Die subjektive Seite,False,10,ger,1. Notations
+2,3,54,Traum,Traum,True,10,ger,7. Rêve
+2,3,61,Die subjektive Seite,Klappentext,False,10,ger,14. Le côté subjectif
+2,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+3,1,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+3,1,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+3,1,64,Wortkomposition,Wortkomposition,True,10,ger,17. Composition de mots
+3,1,54,Traum,Traum,True,10,ger,7. Rêve
+3,1,67,Anagramme,Wortkomposition,False,10,ger,20. Anagrammes
+3,1,48,Angaben,Vorhersage,False,10,ger,1. Notations
+3,1,68,Distinguo,Wortkomposition,False,10,ger,21. Distinguo
+3,1,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+3,2,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+3,2,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+3,2,67,Anagramme,Wortkomposition,False,10,ger,20. Anagrammes
+3,2,48,Angaben,Vorhersage,False,10,ger,1. Notations
+3,2,68,Distinguo,Wortkomposition,False,10,ger,21. Distinguo
+3,2,54,Traum,Traum,True,10,ger,7. Rêve
+3,2,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+3,2,64,Wortkomposition,Wortkomposition,True,10,ger,17. Composition de mots
+3,3,64,Wortkomposition,Wortkomposition,True,10,ger,17. Composition de mots
+3,3,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+3,3,68,Distinguo,Wortkomposition,False,10,ger,21. Distinguo
+3,3,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+3,3,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+3,3,67,Anagramme,Wortkomposition,False,10,ger,20. Anagrammes
+3,3,54,Traum,Traum,True,10,ger,7. Rêve
+3,3,48,Angaben,Vorhersage,False,10,ger,1. Notations
+4,1,55,Vorhersage,Die subjektive Seite,False,10,ger,8. Pronostications
+4,1,61,Die subjektive Seite,Die subjektive Seite,True,10,ger,14. Le côté subjectif
+4,1,48,Angaben,Die subjektive Seite,False,10,ger,1. Notations
+4,1,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+4,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+4,1,53,Überraschungen,Die subjektive Seite,False,10,ger,6. Surprises
+4,1,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+4,1,66,Animismus,Andere Subjektivität,False,10,ger,19. Animiste
+4,1,58,Wortschnitzeljagd,Synchysis,False,10,ger,11. Logo-rallye
+4,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+4,2,61,Die subjektive Seite,Die subjektive Seite,True,10,ger,14. Le côté subjectif
+4,2,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+4,2,53,Überraschungen,Die subjektive Seite,False,10,ger,6. Surprises
+4,2,58,Wortschnitzeljagd,Synchysis,False,10,ger,11. Logo-rallye
+4,2,66,Animismus,Andere Subjektivität,False,10,ger,19. Animiste
+4,2,55,Vorhersage,Die subjektive Seite,False,10,ger,8. Pronostications
+4,2,48,Angaben,Die subjektive Seite,False,10,ger,1. Notations
+4,2,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+4,3,55,Vorhersage,Die subjektive Seite,False,10,ger,8. Pronostications
+4,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+4,3,58,Wortschnitzeljagd,Synchysis,False,10,ger,11. Logo-rallye
+4,3,61,Die subjektive Seite,Synchysis,False,10,ger,14. Le côté subjectif
+4,3,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+4,3,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+4,3,66,Animismus,Animismus,True,10,ger,19. Animiste
+4,3,48,Angaben,Die subjektive Seite,False,10,ger,1. Notations
+4,3,53,Überraschungen,Die subjektive Seite,False,10,ger,6. Surprises
+5,1,58,Wortschnitzeljagd,Metaphorisch,False,10,ger,11. Logo-rallye
+5,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+5,1,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+5,1,54,Traum,Traum,True,10,ger,7. Rêve
+5,1,50,Litotes,Synchysis,False,10,ger,3. Litotes
+5,1,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+5,1,60,Genauigkeiten,Wortschnitzeljagd,False,10,ger,13. Précisions
+5,1,52,Rückwärts,Synchysis,False,10,ger,5. Rétrograde
+5,2,52,Rückwärts,Synchysis,False,10,ger,5. Rétrograde
+5,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+5,2,54,Traum,Traum,True,10,ger,7. Rêve
+5,2,58,Wortschnitzeljagd,Metaphorisch,False,10,ger,11. Logo-rallye
+5,2,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+5,2,50,Litotes,Synchysis,False,10,ger,3. Litotes
+5,2,59,Zögern,Traum,False,10,ger,12. Hésitations
+5,2,60,Genauigkeiten,Wortschnitzeljagd,False,10,ger,13. Précisions
+5,3,50,Litotes,Synchysis,False,10,ger,3. Litotes
+5,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+5,3,52,Rückwärts,Synchysis,False,10,ger,5. Rétrograde
+5,3,58,Wortschnitzeljagd,Metaphorisch,False,10,ger,11. Logo-rallye
+5,3,60,Genauigkeiten,Wortschnitzeljagd,False,10,ger,13. Précisions
+5,3,54,Traum,Traum,True,10,ger,7. Rêve
+5,3,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+5,3,59,Zögern,Traum,False,10,ger,12. Hésitations
+6,1,62,Andere Subjektivität,Andere Subjektivität,True,10,ger,15. Autre subjectivité
+6,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+6,1,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+6,1,50,Litotes,Synchysis,False,10,ger,3. Litotes
+6,1,67,Anagramme,Synchysis,False,10,ger,20. Anagrammes
+6,1,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+6,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+6,1,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+6,1,49,Verdopplung,Synchysis,False,10,ger,2. En partie double
+6,2,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+6,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+6,2,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+6,2,49,Verdopplung,Synchysis,False,10,ger,2. En partie double
+6,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+6,2,62,Andere Subjektivität,Litotes,False,10,ger,15. Autre subjectivité
+6,2,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+6,2,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+6,2,50,Litotes,Synchysis,False,10,ger,3. Litotes
+6,3,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+6,3,62,Andere Subjektivität,Andere Subjektivität,True,10,ger,15. Autre subjectivité
+6,3,49,Verdopplung,Synchysis,False,10,ger,2. En partie double
+6,3,50,Litotes,Synchysis,False,10,ger,3. Litotes
+6,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+6,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+6,3,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+6,3,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+6,3,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+7,1,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+7,1,69,Homöoteleuton,Anagramme,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+7,1,66,Animismus,Homöoteleuton,False,10,ger,19. Animiste
+7,1,57,Regenbogen,Anagramme,False,10,ger,10. L'arc-en-ciel
+7,1,59,Zögern,Traum,False,10,ger,12. Hésitations
+7,1,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+7,1,49,Verdopplung,Distinguo,False,10,ger,2. En partie double
+7,1,68,Distinguo,Anagramme,False,10,ger,21. Distinguo
+7,1,50,Litotes,Distinguo,False,10,ger,3. Litotes
+7,1,54,Traum,Traum,True,10,ger,7. Rêve
+7,2,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+7,2,49,Verdopplung,Distinguo,False,10,ger,2. En partie double
+7,2,66,Animismus,Homöoteleuton,False,10,ger,19. Animiste
+7,2,68,Distinguo,Anagramme,False,10,ger,21. Distinguo
+7,2,54,Traum,Traum,True,10,ger,7. Rêve
+7,2,50,Litotes,Homöoteleuton,False,10,ger,3. Litotes
+7,2,57,Regenbogen,Anagramme,False,10,ger,10. L'arc-en-ciel
+7,2,69,Homöoteleuton,Anagramme,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+7,2,59,Zögern,Traum,False,10,ger,12. Hésitations
+7,2,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+7,3,59,Zögern,Traum,False,10,ger,12. Hésitations
+7,3,66,Animismus,Homöoteleuton,False,10,ger,19. Animiste
+7,3,68,Distinguo,Anagramme,False,10,ger,21. Distinguo
+7,3,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+7,3,50,Litotes,Distinguo,False,10,ger,3. Litotes
+7,3,69,Homöoteleuton,Anagramme,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+7,3,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+7,3,57,Regenbogen,Anagramme,False,10,ger,10. L'arc-en-ciel
+7,3,49,Verdopplung,Distinguo,False,10,ger,2. En partie double
+7,3,54,Traum,Traum,True,10,ger,7. Rêve
+8,1,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+8,1,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+8,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+8,1,57,Regenbogen,Synchysis,False,10,ger,10. L'arc-en-ciel
+8,1,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+8,1,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+8,1,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+8,1,55,Vorhersage,Synchysis,False,10,ger,8. Pronostications
+8,1,50,Litotes,Synchysis,False,10,ger,3. Litotes
+8,2,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+8,2,57,Regenbogen,Synchysis,False,10,ger,10. L'arc-en-ciel
+8,2,50,Litotes,Synchysis,False,10,ger,3. Litotes
+8,2,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+8,2,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+8,2,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+8,2,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+8,2,55,Vorhersage,Synchysis,False,10,ger,8. Pronostications
+8,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+8,3,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+8,3,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+8,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+8,3,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+8,3,50,Litotes,Synchysis,False,10,ger,3. Litotes
+8,3,57,Regenbogen,Synchysis,False,10,ger,10. L'arc-en-ciel
+8,3,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+8,3,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+8,3,55,Vorhersage,Synchysis,False,10,ger,8. Pronostications
+9,1,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+9,1,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,1,70,Amtlicher Brief,Überraschungen,False,10,ger,23. Lettre officielle
+9,1,50,Litotes,Homöoteleuton,False,10,ger,3. Litotes
+9,1,54,Traum,Traum,True,10,ger,7. Rêve
+9,1,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+9,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+9,1,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+9,2,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+9,2,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+9,2,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+9,2,50,Litotes,Synchysis,False,10,ger,3. Litotes
+9,2,54,Traum,Traum,True,10,ger,7. Rêve
+9,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+9,2,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,2,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+9,3,70,Amtlicher Brief,Überraschungen,False,10,ger,23. Lettre officielle
+9,3,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+9,3,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,3,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+9,3,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+9,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+9,3,50,Litotes,Synchysis,False,10,ger,3. Litotes
+9,3,54,Traum,Traum,True,10,ger,7. Rêve
+10,1,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+10,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+10,1,67,Anagramme,Synchysis,False,10,ger,20. Anagrammes
+10,1,55,Vorhersage,Überraschungen,False,10,ger,8. Pronostications
+10,1,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+10,1,68,Distinguo,Anagramme,False,10,ger,21. Distinguo
+10,1,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+10,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+10,1,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+10,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+10,2,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+10,2,68,Distinguo,Anagramme,False,10,ger,21. Distinguo
+10,2,55,Vorhersage,Überraschungen,False,10,ger,8. Pronostications
+10,2,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+10,2,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+10,2,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+10,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+10,2,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+10,3,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+10,3,55,Vorhersage,Überraschungen,False,10,ger,8. Pronostications
+10,3,67,Anagramme,Synchysis,False,10,ger,20. Anagrammes
+10,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+10,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+10,3,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+10,3,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+10,3,68,Distinguo,Anagramme,False,10,ger,21. Distinguo
+10,3,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+11,1,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+11,1,69,Homöoteleuton,Homöoteleuton,True,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,1,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+11,1,68,Distinguo,Distinguo,True,10,ger,21. Distinguo
+11,1,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+11,1,49,Verdopplung,Distinguo,False,10,ger,2. En partie double
+11,1,58,Wortschnitzeljagd,Distinguo,False,10,ger,11. Logo-rallye
+11,2,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+11,2,49,Verdopplung,Distinguo,False,10,ger,2. En partie double
+11,2,69,Homöoteleuton,Homöoteleuton,True,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,2,58,Wortschnitzeljagd,Amtlicher Brief,False,10,ger,11. Logo-rallye
+11,2,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+11,2,68,Distinguo,Distinguo,True,10,ger,21. Distinguo
+11,2,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+11,3,49,Verdopplung,Distinguo,False,10,ger,2. En partie double
+11,3,68,Distinguo,Distinguo,True,10,ger,21. Distinguo
+11,3,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+11,3,69,Homöoteleuton,Homöoteleuton,True,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,3,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+11,3,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+11,3,58,Wortschnitzeljagd,Amtlicher Brief,False,10,ger,11. Logo-rallye
+12,1,66,Animismus,Animismus,True,10,ger,19. Animiste
+12,1,54,Traum,Traum,True,10,ger,7. Rêve
+12,1,60,Genauigkeiten,Wortschnitzeljagd,False,10,ger,13. Précisions
+12,1,50,Litotes,Erzählung,False,10,ger,3. Litotes
+12,1,58,Wortschnitzeljagd,Erzählung,False,10,ger,11. Logo-rallye
+12,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+12,1,70,Amtlicher Brief,Amtlicher Brief,True,10,ger,23. Lettre officielle
+12,1,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+12,1,63,Erzählung,Erzählung,True,10,ger,16. Récit
+12,2,66,Animismus,Erzählung,False,10,ger,19. Animiste
+12,2,60,Genauigkeiten,Wortschnitzeljagd,False,10,ger,13. Précisions
+12,2,58,Wortschnitzeljagd,Erzählung,False,10,ger,11. Logo-rallye
+12,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+12,2,54,Traum,Traum,True,10,ger,7. Rêve
+12,2,70,Amtlicher Brief,Erzählung,False,10,ger,23. Lettre officielle
+12,2,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+12,2,50,Litotes,Erzählung,False,10,ger,3. Litotes
+12,2,63,Erzählung,Erzählung,True,10,ger,16. Récit
+12,3,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+12,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+12,3,54,Traum,Traum,True,10,ger,7. Rêve
+12,3,63,Erzählung,Erzählung,True,10,ger,16. Récit
+12,3,58,Wortschnitzeljagd,Erzählung,False,10,ger,11. Logo-rallye
+12,3,50,Litotes,Erzählung,False,10,ger,3. Litotes
+12,3,66,Animismus,Erzählung,False,10,ger,19. Animiste
+12,3,70,Amtlicher Brief,Erzählung,False,10,ger,23. Lettre officielle
+12,3,60,Genauigkeiten,Wortschnitzeljagd,False,10,ger,13. Précisions
+13,1,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+13,1,62,Andere Subjektivität,Andere Subjektivität,True,10,ger,15. Autre subjectivité
+13,1,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+13,1,52,Rückwärts,Andere Subjektivität,False,10,ger,5. Rétrograde
+13,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+13,1,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+13,1,60,Genauigkeiten,Genauigkeiten,True,10,ger,13. Précisions
+13,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+13,2,52,Rückwärts,Andere Subjektivität,False,10,ger,5. Rétrograde
+13,2,60,Genauigkeiten,Genauigkeiten,True,10,ger,13. Précisions
+13,2,55,Vorhersage,Vorhersage,True,10,ger,8. Pronostications
+13,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+13,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+13,2,62,Andere Subjektivität,Andere Subjektivität,True,10,ger,15. Autre subjectivité
+13,2,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+13,2,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+13,3,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+13,3,55,Vorhersage,Synchysis,False,10,ger,8. Pronostications
+13,3,62,Andere Subjektivität,Andere Subjektivität,True,10,ger,15. Autre subjectivité
+13,3,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+13,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+13,3,60,Genauigkeiten,Genauigkeiten,True,10,ger,13. Précisions
+13,3,52,Rückwärts,Distinguo,False,10,ger,5. Rétrograde
+13,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+14,1,59,Zögern,Die subjektive Seite,False,10,ger,12. Hésitations
+14,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+14,1,66,Animismus,Animismus,True,10,ger,19. Animiste
+14,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+14,1,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+14,1,52,Rückwärts,Synchysis,False,10,ger,5. Rétrograde
+14,1,55,Vorhersage,Klappentext,False,10,ger,8. Pronostications
+14,1,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+14,1,61,Die subjektive Seite,Synchysis,False,10,ger,14. Le côté subjectif
+14,2,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+14,2,61,Die subjektive Seite,Synchysis,False,10,ger,14. Le côté subjectif
+14,2,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+14,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+14,2,55,Vorhersage,Klappentext,False,10,ger,8. Pronostications
+14,2,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+14,2,52,Rückwärts,Synchysis,False,10,ger,5. Rétrograde
+14,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+14,2,66,Animismus,Animismus,True,10,ger,19. Animiste
+14,3,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+14,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+14,3,60,Genauigkeiten,Synchysis,False,10,ger,13. Précisions
+14,3,61,Die subjektive Seite,Synchysis,False,10,ger,14. Le côté subjectif
+14,3,59,Zögern,Synchysis,False,10,ger,12. Hésitations
+14,3,66,Animismus,Animismus,True,10,ger,19. Animiste
+14,3,52,Rückwärts,Synchysis,False,10,ger,5. Rétrograde
+14,3,55,Vorhersage,Klappentext,False,10,ger,8. Pronostications
+14,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+15,1,63,Erzählung,Erzählung,True,10,ger,16. Récit
+15,1,49,Verdopplung,Erzählung,False,10,ger,2. En partie double
+15,1,69,Homöoteleuton,Metaphorisch,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,1,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+15,1,67,Anagramme,Metaphorisch,False,10,ger,20. Anagrammes
+15,1,50,Litotes,Erzählung,False,10,ger,3. Litotes
+15,1,61,Die subjektive Seite,Erzählung,False,10,ger,14. Le côté subjectif
+15,1,68,Distinguo,Metaphorisch,False,10,ger,21. Distinguo
+15,1,52,Rückwärts,Erzählung,False,10,ger,5. Rétrograde
+15,1,51,Metaphorisch,Metaphorisch,True,10,ger,4. Métaphoriquement
+15,2,61,Die subjektive Seite,Erzählung,False,10,ger,14. Le côté subjectif
+15,2,49,Verdopplung,Erzählung,False,10,ger,2. En partie double
+15,2,69,Homöoteleuton,Metaphorisch,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,2,50,Litotes,Erzählung,False,10,ger,3. Litotes
+15,2,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+15,2,67,Anagramme,Metaphorisch,False,10,ger,20. Anagrammes
+15,2,51,Metaphorisch,Metaphorisch,True,10,ger,4. Métaphoriquement
+15,2,68,Distinguo,Metaphorisch,False,10,ger,21. Distinguo
+15,2,63,Erzählung,Erzählung,True,10,ger,16. Récit
+15,2,52,Rückwärts,Erzählung,False,10,ger,5. Rétrograde
+15,3,63,Erzählung,Erzählung,True,10,ger,16. Récit
+15,3,51,Metaphorisch,Metaphorisch,True,10,ger,4. Métaphoriquement
+15,3,69,Homöoteleuton,Metaphorisch,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,3,52,Rückwärts,Erzählung,False,10,ger,5. Rétrograde
+15,3,67,Anagramme,Metaphorisch,False,10,ger,20. Anagrammes
+15,3,68,Distinguo,Metaphorisch,False,10,ger,21. Distinguo
+15,3,50,Litotes,Erzählung,False,10,ger,3. Litotes
+15,3,49,Verdopplung,Erzählung,False,10,ger,2. En partie double
+15,3,61,Die subjektive Seite,Erzählung,False,10,ger,14. Le côté subjectif
+15,3,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+16,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+16,1,50,Litotes,Synchysis,False,10,ger,3. Litotes
+16,1,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+16,1,60,Genauigkeiten,Genauigkeiten,True,10,ger,13. Précisions
+16,1,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+16,1,67,Anagramme,Synchysis,False,10,ger,20. Anagrammes
+16,1,65,Negativitäten,Litotes,False,10,ger,18. Négativités
+16,1,48,Angaben,Genauigkeiten,False,10,ger,1. Notations
+16,1,62,Andere Subjektivität,Genauigkeiten,False,10,ger,15. Autre subjectivité
+16,2,60,Genauigkeiten,Genauigkeiten,True,10,ger,13. Précisions
+16,2,48,Angaben,Genauigkeiten,False,10,ger,1. Notations
+16,2,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+16,2,50,Litotes,Synchysis,False,10,ger,3. Litotes
+16,2,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+16,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+16,2,62,Andere Subjektivität,Litotes,False,10,ger,15. Autre subjectivité
+16,2,65,Negativitäten,Litotes,False,10,ger,18. Négativités
+16,2,67,Anagramme,Synchysis,False,10,ger,20. Anagrammes
+16,3,62,Andere Subjektivität,Litotes,False,10,ger,15. Autre subjectivité
+16,3,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+16,3,65,Negativitäten,Litotes,False,10,ger,18. Négativités
+16,3,67,Anagramme,Synchysis,False,10,ger,20. Anagrammes
+16,3,50,Litotes,Synchysis,False,10,ger,3. Litotes
+16,3,60,Genauigkeiten,Genauigkeiten,True,10,ger,13. Précisions
+16,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+16,3,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+16,3,48,Angaben,Genauigkeiten,False,10,ger,1. Notations
+17,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+17,1,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+17,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+17,1,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+17,1,57,Regenbogen,Synchysis,False,10,ger,10. L'arc-en-ciel
+17,1,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+17,1,61,Die subjektive Seite,Synchysis,False,10,ger,14. Le côté subjectif
+17,1,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,1,58,Wortschnitzeljagd,Klappentext,False,10,ger,11. Logo-rallye
+17,2,57,Regenbogen,Synchysis,False,10,ger,10. L'arc-en-ciel
+17,2,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+17,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+17,2,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,2,58,Wortschnitzeljagd,Distinguo,False,10,ger,11. Logo-rallye
+17,2,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+17,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+17,2,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+17,2,61,Die subjektive Seite,Synchysis,False,10,ger,14. Le côté subjectif
+17,3,61,Die subjektive Seite,Synchysis,False,10,ger,14. Le côté subjectif
+17,3,68,Distinguo,Synchysis,False,10,ger,21. Distinguo
+17,3,57,Regenbogen,Synchysis,False,10,ger,10. L'arc-en-ciel
+17,3,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+17,3,58,Wortschnitzeljagd,Synchysis,False,10,ger,11. Logo-rallye
+17,3,69,Homöoteleuton,Synchysis,False,10,ger,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+17,3,65,Negativitäten,Synchysis,False,10,ger,18. Négativités
+17,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+18,1,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+18,1,48,Angaben,Andere Subjektivität,False,10,ger,1. Notations
+18,1,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+18,1,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+18,1,62,Andere Subjektivität,Andere Subjektivität,True,10,ger,15. Autre subjectivité
+18,1,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+18,1,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+18,2,48,Angaben,Andere Subjektivität,False,10,ger,1. Notations
+18,2,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+18,2,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+18,2,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+18,2,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+18,2,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+18,2,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+18,3,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+18,3,62,Andere Subjektivität,Synchysis,False,10,ger,15. Autre subjectivité
+18,3,51,Metaphorisch,Synchysis,False,10,ger,4. Métaphoriquement
+18,3,64,Wortkomposition,Synchysis,False,10,ger,17. Composition de mots
+18,3,48,Angaben,Andere Subjektivität,False,10,ger,1. Notations
+18,3,56,Synchysis,Synchysis,True,10,ger,9. Synchyses
+18,3,71,Klappentext,Klappentext,True,10,ger,24. Prière d'insérer
+19,1,59,Zögern,Überraschungen,False,10,ger,12. Hésitations
+19,1,52,Rückwärts,Distinguo,False,10,ger,5. Rétrograde
+19,1,54,Traum,Traum,True,10,ger,7. Rêve
+19,1,68,Distinguo,Wortkomposition,False,10,ger,21. Distinguo
+19,1,64,Wortkomposition,Überraschungen,False,10,ger,17. Composition de mots
+19,1,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+19,1,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+19,1,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+19,1,57,Regenbogen,Wortkomposition,False,10,ger,10. L'arc-en-ciel
+19,2,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+19,2,68,Distinguo,Wortkomposition,False,10,ger,21. Distinguo
+19,2,59,Zögern,Überraschungen,False,10,ger,12. Hésitations
+19,2,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+19,2,54,Traum,Traum,True,10,ger,7. Rêve
+19,2,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+19,2,52,Rückwärts,Distinguo,False,10,ger,5. Rétrograde
+19,2,64,Wortkomposition,Überraschungen,False,10,ger,17. Composition de mots
+19,2,57,Regenbogen,Wortkomposition,False,10,ger,10. L'arc-en-ciel
+19,3,65,Negativitäten,Distinguo,False,10,ger,18. Négativités
+19,3,57,Regenbogen,Wortkomposition,False,10,ger,10. L'arc-en-ciel
+19,3,54,Traum,Traum,True,10,ger,7. Rêve
+19,3,52,Rückwärts,Distinguo,False,10,ger,5. Rétrograde
+19,3,67,Anagramme,Anagramme,True,10,ger,20. Anagrammes
+19,3,68,Distinguo,Wortkomposition,False,10,ger,21. Distinguo
+19,3,59,Zögern,Überraschungen,False,10,ger,12. Hésitations
+19,3,53,Überraschungen,Überraschungen,True,10,ger,6. Surprises
+19,3,64,Wortkomposition,Überraschungen,False,10,ger,17. Composition de mots
+20,1,59,Zögern,Erzählung,False,10,ger,12. Hésitations
+20,1,67,Anagramme,Erzählung,False,10,ger,20. Anagrammes
+20,1,63,Erzählung,Erzählung,True,10,ger,16. Récit
+20,1,48,Angaben,Erzählung,False,10,ger,1. Notations
+20,1,51,Metaphorisch,Erzählung,False,10,ger,4. Métaphoriquement
+20,1,64,Wortkomposition,Erzählung,False,10,ger,17. Composition de mots
+20,1,58,Wortschnitzeljagd,Erzählung,False,10,ger,11. Logo-rallye
+20,1,57,Regenbogen,Erzählung,False,10,ger,10. L'arc-en-ciel
+20,1,55,Vorhersage,Erzählung,False,10,ger,8. Pronostications
+20,2,67,Anagramme,Erzählung,False,10,ger,20. Anagrammes
+20,2,58,Wortschnitzeljagd,Erzählung,False,10,ger,11. Logo-rallye
+20,2,63,Erzählung,Erzählung,True,10,ger,16. Récit
+20,2,57,Regenbogen,Erzählung,False,10,ger,10. L'arc-en-ciel
+20,2,48,Angaben,Erzählung,False,10,ger,1. Notations
+20,2,64,Wortkomposition,Erzählung,False,10,ger,17. Composition de mots
+20,2,51,Metaphorisch,Erzählung,False,10,ger,4. Métaphoriquement
+20,2,59,Zögern,Erzählung,False,10,ger,12. Hésitations
+20,2,55,Vorhersage,Erzählung,False,10,ger,8. Pronostications
+20,3,51,Metaphorisch,Erzählung,False,10,ger,4. Métaphoriquement
+20,3,48,Angaben,Erzählung,False,10,ger,1. Notations
+20,3,58,Wortschnitzeljagd,Erzählung,False,10,ger,11. Logo-rallye
+20,3,64,Wortkomposition,Erzählung,False,10,ger,17. Composition de mots
+20,3,59,Zögern,Erzählung,False,10,ger,12. Hésitations
+20,3,55,Vorhersage,Erzählung,False,10,ger,8. Pronostications
+20,3,57,Regenbogen,Erzählung,False,10,ger,10. L'arc-en-ciel
+20,3,67,Anagramme,Erzählung,False,10,ger,20. Anagrammes
+20,3,63,Erzählung,Erzählung,True,10,ger,16. Récit

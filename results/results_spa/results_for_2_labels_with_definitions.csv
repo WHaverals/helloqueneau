@@ -1,0 +1,121 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,147,Metafóricamente,Metafóricamente,True,2,spa,4. Métaphoriquement
+1,1,164,Distingo,Distingo,True,2,spa,21. Distinguo
+1,2,147,Metafóricamente,Metafóricamente,True,2,spa,4. Métaphoriquement
+1,2,164,Distingo,Distingo,True,2,spa,21. Distinguo
+1,3,147,Metafóricamente,Metafóricamente,True,2,spa,4. Métaphoriquement
+1,3,164,Distingo,Distingo,True,2,spa,21. Distinguo
+2,1,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+2,1,165,Homeoteleutones,Homeoteleutones,True,2,spa,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+2,2,165,Homeoteleutones,Homeoteleutones,True,2,spa,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,165,Homeoteleutones,Homeoteleutones,True,2,spa,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+3,1,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+3,1,160,Palabras compuestas,Palabras compuestas,True,2,spa,17. Composition de mots
+3,2,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+3,2,160,Palabras compuestas,Palabras compuestas,True,2,spa,17. Composition de mots
+3,3,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+3,3,160,Palabras compuestas,Palabras compuestas,True,2,spa,17. Composition de mots
+4,1,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+4,1,157,Punto de vista subjetivo,Punto de vista subjetivo,True,2,spa,14. Le côté subjectif
+4,2,157,Punto de vista subjetivo,Punto de vista subjetivo,True,2,spa,14. Le côté subjectif
+4,2,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+4,3,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+4,3,157,Punto de vista subjetivo,Punto de vista subjetivo,True,2,spa,14. Le côté subjectif
+5,1,148,Retrógrado,Retrógrado,False,2,spa,5. Rétrograde
+5,1,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+5,2,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+5,2,148,Retrógrado,Retrógrado,False,2,spa,5. Rétrograde
+5,3,148,Retrógrado,Retrógrado,False,2,spa,5. Rétrograde
+5,3,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+6,1,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+6,1,163,Anagramas,Sínquisis,False,2,spa,20. Anagrammes
+6,2,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+6,2,163,Anagramas,Sínquisis,False,2,spa,20. Anagrammes
+6,3,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+6,3,163,Anagramas,Sínquisis,False,2,spa,20. Anagrammes
+7,1,153,Arco iris,Arco iris,True,2,spa,10. L'arc-en-ciel
+7,1,164,Distingo,Distingo,True,2,spa,21. Distinguo
+7,2,164,Distingo,Distingo,True,2,spa,21. Distinguo
+7,2,153,Arco iris,Arco iris,True,2,spa,10. L'arc-en-ciel
+7,3,153,Arco iris,Arco iris,True,2,spa,10. L'arc-en-ciel
+7,3,164,Distingo,Distingo,True,2,spa,21. Distinguo
+8,1,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+8,1,153,Arco iris,Arco iris,True,2,spa,10. L'arc-en-ciel
+8,2,153,Arco iris,Arco iris,True,2,spa,10. L'arc-en-ciel
+8,2,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+8,3,151,Pronosticaciones,Pronosticaciones,True,2,spa,8. Pronostications
+8,3,153,Arco iris,Arco iris,True,2,spa,10. L'arc-en-ciel
+9,1,155,Vacilaciones,Vacilaciones,True,2,spa,12. Hésitations
+9,1,149,Sorpresas,Sorpresas,True,2,spa,6. Surprises
+9,2,149,Sorpresas,Sorpresas,True,2,spa,6. Surprises
+9,2,155,Vacilaciones,Vacilaciones,True,2,spa,12. Hésitations
+9,3,149,Sorpresas,Sorpresas,True,2,spa,6. Surprises
+9,3,155,Vacilaciones,Vacilaciones,True,2,spa,12. Hésitations
+10,1,164,Distingo,Anagramas,False,2,spa,21. Distinguo
+10,1,163,Anagramas,Anagramas,True,2,spa,20. Anagrammes
+10,2,163,Anagramas,Anagramas,True,2,spa,20. Anagrammes
+10,2,164,Distingo,Anagramas,False,2,spa,21. Distinguo
+10,3,164,Distingo,Anagramas,False,2,spa,21. Distinguo
+10,3,163,Anagramas,Anagramas,True,2,spa,20. Anagrammes
+11,1,164,Distingo,Distingo,True,2,spa,21. Distinguo
+11,1,166,Carta oficial,Carta oficial,True,2,spa,23. Lettre officielle
+11,2,166,Carta oficial,Carta oficial,True,2,spa,23. Lettre officielle
+11,2,164,Distingo,Distingo,True,2,spa,21. Distinguo
+11,3,166,Carta oficial,Carta oficial,True,2,spa,23. Lettre officielle
+11,3,164,Distingo,Distingo,True,2,spa,21. Distinguo
+12,1,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+12,1,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+12,2,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+12,2,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+12,3,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+12,3,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+13,1,164,Distingo,Distingo,True,2,spa,21. Distinguo
+13,1,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+13,2,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+13,2,164,Distingo,Distingo,True,2,spa,21. Distinguo
+13,3,164,Distingo,Distingo,True,2,spa,21. Distinguo
+13,3,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+14,1,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+14,1,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+14,2,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+14,2,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+14,3,152,Sínquisis,Sínquisis,True,2,spa,9. Synchyses
+14,3,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+15,1,159,Relato,Relato,True,2,spa,16. Récit
+15,1,146,Lítotes,Lítotes,True,2,spa,3. Litotes
+15,2,146,Lítotes,Lítotes,True,2,spa,3. Litotes
+15,2,159,Relato,Relato,True,2,spa,16. Récit
+15,3,146,Lítotes,Lítotes,True,2,spa,3. Litotes
+15,3,159,Relato,Relato,True,2,spa,16. Récit
+16,1,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+16,1,146,Lítotes,Lítotes,True,2,spa,3. Litotes
+16,2,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+16,2,146,Lítotes,Lítotes,True,2,spa,3. Litotes
+16,3,146,Lítotes,Lítotes,True,2,spa,3. Litotes
+16,3,156,Precisiones,Precisiones,True,2,spa,13. Précisions
+17,1,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+17,1,147,Metafóricamente,Metafóricamente,True,2,spa,4. Métaphoriquement
+17,2,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+17,2,147,Metafóricamente,Metafóricamente,True,2,spa,4. Métaphoriquement
+17,3,147,Metafóricamente,Metafóricamente,True,2,spa,4. Métaphoriquement
+17,3,167,Propaganda editorial,Propaganda editorial,True,2,spa,24. Prière d'insérer
+18,1,149,Sorpresas,Sorpresas,True,2,spa,6. Surprises
+18,1,158,Otro punto de vista subjetivo,Sorpresas,False,2,spa,15. Autre subjectivité
+18,2,158,Otro punto de vista subjetivo,Sorpresas,False,2,spa,15. Autre subjectivité
+18,2,149,Sorpresas,Sorpresas,True,2,spa,6. Surprises
+18,3,158,Otro punto de vista subjetivo,Sorpresas,False,2,spa,15. Autre subjectivité
+18,3,149,Sorpresas,Sorpresas,True,2,spa,6. Surprises
+19,1,164,Distingo,Distingo,True,2,spa,21. Distinguo
+19,1,153,Arco iris,Distingo,False,2,spa,10. L'arc-en-ciel
+19,2,164,Distingo,Distingo,True,2,spa,21. Distinguo
+19,2,153,Arco iris,Distingo,False,2,spa,10. L'arc-en-ciel
+19,3,153,Arco iris,Distingo,False,2,spa,10. L'arc-en-ciel
+19,3,164,Distingo,Distingo,True,2,spa,21. Distinguo
+20,1,144,Notaciones,Notaciones,True,2,spa,1. Notations
+20,1,160,Palabras compuestas,Palabras compuestas,True,2,spa,17. Composition de mots
+20,2,160,Palabras compuestas,Palabras compuestas,True,2,spa,17. Composition de mots
+20,2,144,Notaciones,Notaciones,True,2,spa,1. Notations
+20,3,160,Palabras compuestas,Palabras compuestas,True,2,spa,17. Composition de mots
+20,3,144,Notaciones,Notaciones,True,2,spa,1. Notations

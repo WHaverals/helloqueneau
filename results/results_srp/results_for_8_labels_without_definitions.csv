@@ -1,0 +1,433 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,140,Distingvo,Metaforično,False,8,srp,21. Distinguo
+1,1,120,Beleška,Beleška,True,8,srp,1. Notations
+1,1,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+1,1,127,Proricanje,Distingvo,False,8,srp,8. Pronostications
+1,1,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+1,1,143,Recenzija izdavača,Beleška,False,8,srp,24. Prière d'insérer
+1,1,124,Retrogradno,Beleška,False,8,srp,5. Rétrograde
+1,2,143,Recenzija izdavača,Metaforično,False,8,srp,24. Prière d'insérer
+1,2,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+1,2,140,Distingvo,Metaforično,False,8,srp,21. Distinguo
+1,2,124,Retrogradno,Beleška,False,8,srp,5. Rétrograde
+1,2,120,Beleška,Beleška,True,8,srp,1. Notations
+1,2,127,Proricanje,Metaforično,False,8,srp,8. Pronostications
+1,2,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+1,3,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+1,3,120,Beleška,Beleška,True,8,srp,1. Notations
+1,3,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+1,3,140,Distingvo,Metaforično,False,8,srp,21. Distinguo
+1,3,143,Recenzija izdavača,Beleška,False,8,srp,24. Prière d'insérer
+1,3,124,Retrogradno,Beleška,False,8,srp,5. Rétrograde
+1,3,127,Proricanje,Metaforično,False,8,srp,8. Pronostications
+2,1,133,Subjektivan stav,Dvostruko,False,8,srp,14. Le côté subjectif
+2,1,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,1,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+2,1,137,Negacije,Negacije,True,8,srp,18. Négativités
+2,1,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+2,1,120,Beleška,Subjektivan stav,False,8,srp,1. Notations
+2,1,122,Litote,Subjektivan stav,False,8,srp,3. Litotes
+2,1,138,Animizam,Animizam,True,8,srp,19. Animiste
+2,2,138,Animizam,Animizam,True,8,srp,19. Animiste
+2,2,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+2,2,120,Beleška,Subjektivan stav,False,8,srp,1. Notations
+2,2,137,Negacije,Litote,False,8,srp,18. Négativités
+2,2,133,Subjektivan stav,Litote,False,8,srp,14. Le côté subjectif
+2,2,122,Litote,Dvostruko,False,8,srp,3. Litotes
+2,2,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+2,3,138,Animizam,Animizam,True,8,srp,19. Animiste
+2,3,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+2,3,122,Litote,Subjektivan stav,False,8,srp,3. Litotes
+2,3,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+2,3,120,Beleška,Subjektivan stav,False,8,srp,1. Notations
+2,3,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,137,Negacije,Litote,False,8,srp,18. Négativités
+2,3,133,Subjektivan stav,Litote,False,8,srp,14. Le côté subjectif
+3,1,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+3,1,126,San,San,True,8,srp,7. Rêve
+3,1,120,Beleška,Beleška,True,8,srp,1. Notations
+3,1,137,Negacije,Negacije,True,8,srp,18. Négativités
+3,1,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+3,1,139,Anagrami,Beleška,False,8,srp,20. Anagrammes
+3,1,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+3,1,127,Proricanje,San,False,8,srp,8. Pronostications
+3,2,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+3,2,120,Beleška,Beleška,True,8,srp,1. Notations
+3,2,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+3,2,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+3,2,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+3,2,127,Proricanje,Beleška,False,8,srp,8. Pronostications
+3,2,137,Negacije,Negacije,True,8,srp,18. Négativités
+3,2,126,San,San,True,8,srp,7. Rêve
+3,3,137,Negacije,Negacije,True,8,srp,18. Négativités
+3,3,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+3,3,120,Beleška,Beleška,True,8,srp,1. Notations
+3,3,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+3,3,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+3,3,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+3,3,126,San,San,True,8,srp,7. Rêve
+3,3,127,Proricanje,Beleška,False,8,srp,8. Pronostications
+4,1,120,Beleška,Subjektivan stav,False,8,srp,1. Notations
+4,1,128,Šizički,Subjektivan stav,False,8,srp,9. Synchyses
+4,1,125,Iznenađenja,Subjektivan stav,False,8,srp,6. Surprises
+4,1,134,Drugi subjektivan stav,Subjektivan stav,False,8,srp,15. Autre subjectivité
+4,1,127,Proricanje,Subjektivan stav,False,8,srp,8. Pronostications
+4,1,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+4,1,133,Subjektivan stav,Subjektivan stav,True,8,srp,14. Le côté subjectif
+4,1,138,Animizam,Subjektivan stav,False,8,srp,19. Animiste
+4,2,125,Iznenađenja,Subjektivan stav,False,8,srp,6. Surprises
+4,2,138,Animizam,Animizam,True,8,srp,19. Animiste
+4,2,120,Beleška,Subjektivan stav,False,8,srp,1. Notations
+4,2,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+4,2,133,Subjektivan stav,Subjektivan stav,True,8,srp,14. Le côté subjectif
+4,2,127,Proricanje,Subjektivan stav,False,8,srp,8. Pronostications
+4,2,128,Šizički,Subjektivan stav,False,8,srp,9. Synchyses
+4,2,134,Drugi subjektivan stav,Subjektivan stav,False,8,srp,15. Autre subjectivité
+4,3,127,Proricanje,Subjektivan stav,False,8,srp,8. Pronostications
+4,3,128,Šizički,Subjektivan stav,False,8,srp,9. Synchyses
+4,3,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+4,3,133,Subjektivan stav,Subjektivan stav,True,8,srp,14. Le côté subjectif
+4,3,138,Animizam,Subjektivan stav,False,8,srp,19. Animiste
+4,3,134,Drugi subjektivan stav,Subjektivan stav,False,8,srp,15. Autre subjectivité
+4,3,120,Beleška,Subjektivan stav,False,8,srp,1. Notations
+4,3,125,Iznenađenja,Subjektivan stav,False,8,srp,6. Surprises
+5,1,130,Reli-reči,Metaforično,False,8,srp,11. Logo-rallye
+5,1,122,Litote,Retrogradno,False,8,srp,3. Litotes
+5,1,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+5,1,126,San,San,True,8,srp,7. Rêve
+5,1,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+5,1,124,Retrogradno,Precizno,False,8,srp,5. Rétrograde
+5,1,132,Precizno,Precizno,True,8,srp,13. Précisions
+5,2,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+5,2,130,Reli-reči,Metaforično,False,8,srp,11. Logo-rallye
+5,2,126,San,San,True,8,srp,7. Rêve
+5,2,122,Litote,Retrogradno,False,8,srp,3. Litotes
+5,2,132,Precizno,Precizno,True,8,srp,13. Précisions
+5,2,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+5,2,124,Retrogradno,Metaforično,False,8,srp,5. Rétrograde
+5,3,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+5,3,132,Precizno,Precizno,True,8,srp,13. Précisions
+5,3,126,San,San,True,8,srp,7. Rêve
+5,3,124,Retrogradno,Precizno,False,8,srp,5. Rétrograde
+5,3,122,Litote,Retrogradno,False,8,srp,3. Litotes
+5,3,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+5,3,130,Reli-reči,Metaforično,False,8,srp,11. Logo-rallye
+6,1,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+6,1,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+6,1,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+6,1,121,Dvostruko,Metaforično,False,8,srp,2. En partie double
+6,1,132,Precizno,Precizno,True,8,srp,13. Précisions
+6,1,137,Negacije,Negacije,True,8,srp,18. Négativités
+6,1,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+6,1,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+6,2,137,Negacije,Negacije,True,8,srp,18. Négativités
+6,2,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+6,2,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+6,2,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+6,2,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+6,2,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+6,2,121,Dvostruko,Metaforično,False,8,srp,2. En partie double
+6,2,132,Precizno,Precizno,True,8,srp,13. Précisions
+6,3,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+6,3,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+6,3,132,Precizno,Precizno,True,8,srp,13. Précisions
+6,3,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+6,3,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+6,3,137,Negacije,Negacije,True,8,srp,18. Négativités
+6,3,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+6,3,121,Dvostruko,Metaforično,False,8,srp,2. En partie double
+7,1,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+7,1,126,San,San,True,8,srp,7. Rêve
+7,1,131,Kolebanje,San,False,8,srp,12. Hésitations
+7,1,138,Animizam,Animizam,True,8,srp,19. Animiste
+7,1,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+7,1,122,Litote,Kolebanje,False,8,srp,3. Litotes
+7,1,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+7,1,129,Duga,Animizam,False,8,srp,10. L'arc-en-ciel
+7,2,138,Animizam,Duga,False,8,srp,19. Animiste
+7,2,126,San,San,True,8,srp,7. Rêve
+7,2,131,Kolebanje,San,False,8,srp,12. Hésitations
+7,2,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+7,2,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+7,2,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+7,2,122,Litote,Kolebanje,False,8,srp,3. Litotes
+7,2,129,Duga,Duga,True,8,srp,10. L'arc-en-ciel
+7,3,131,Kolebanje,San,False,8,srp,12. Hésitations
+7,3,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+7,3,138,Animizam,Animizam,True,8,srp,19. Animiste
+7,3,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+7,3,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+7,3,129,Duga,Animizam,False,8,srp,10. L'arc-en-ciel
+7,3,126,San,San,True,8,srp,7. Rêve
+7,3,122,Litote,Kolebanje,False,8,srp,3. Litotes
+8,1,132,Precizno,Precizno,True,8,srp,13. Précisions
+8,1,128,Šizički,Šizički,True,8,srp,9. Synchyses
+8,1,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+8,1,127,Proricanje,Metaforično,False,8,srp,8. Pronostications
+8,1,129,Duga,Metaforično,False,8,srp,10. L'arc-en-ciel
+8,1,122,Litote,Drugi subjektivan stav,False,8,srp,3. Litotes
+8,1,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+8,2,122,Litote,Precizno,False,8,srp,3. Litotes
+8,2,128,Šizički,Šizički,True,8,srp,9. Synchyses
+8,2,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+8,2,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+8,2,127,Proricanje,Metaforično,False,8,srp,8. Pronostications
+8,2,132,Precizno,Precizno,True,8,srp,13. Précisions
+8,2,129,Duga,Metaforično,False,8,srp,10. L'arc-en-ciel
+8,3,129,Duga,Metaforično,False,8,srp,10. L'arc-en-ciel
+8,3,132,Precizno,Precizno,True,8,srp,13. Précisions
+8,3,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+8,3,128,Šizički,Metaforično,False,8,srp,9. Synchyses
+8,3,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+8,3,122,Litote,Precizno,False,8,srp,3. Litotes
+8,3,127,Proricanje,Metaforično,False,8,srp,8. Pronostications
+9,1,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+9,1,126,San,San,True,8,srp,7. Rêve
+9,1,125,Iznenađenja,Šizički,False,8,srp,6. Surprises
+9,1,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,1,128,Šizički,Šizički,True,8,srp,9. Synchyses
+9,1,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+9,2,128,Šizički,Homeoptote ili Cica-mica,False,8,srp,9. Synchyses
+9,2,126,San,San,True,8,srp,7. Rêve
+9,2,125,Iznenađenja,Šizički,False,8,srp,6. Surprises
+9,2,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+9,2,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+9,2,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,3,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,3,126,San,San,True,8,srp,7. Rêve
+9,3,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+9,3,128,Šizički,Homeoptote ili Cica-mica,False,8,srp,9. Synchyses
+9,3,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+9,3,125,Iznenađenja,Šizički,False,8,srp,6. Surprises
+10,1,137,Negacije,Negacije,True,8,srp,18. Négativités
+10,1,125,Iznenađenja,Iznenađenja,True,8,srp,6. Surprises
+10,1,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+10,1,127,Proricanje,Iznenađenja,False,8,srp,8. Pronostications
+10,1,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+10,1,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+10,1,134,Drugi subjektivan stav,Negacije,False,8,srp,15. Autre subjectivité
+10,2,134,Drugi subjektivan stav,Negacije,False,8,srp,15. Autre subjectivité
+10,2,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+10,2,127,Proricanje,Iznenađenja,False,8,srp,8. Pronostications
+10,2,125,Iznenađenja,Iznenađenja,True,8,srp,6. Surprises
+10,2,137,Negacije,Negacije,True,8,srp,18. Négativités
+10,2,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+10,2,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+10,3,125,Iznenađenja,Iznenađenja,True,8,srp,6. Surprises
+10,3,134,Drugi subjektivan stav,Drugi subjektivan stav,True,8,srp,15. Autre subjectivité
+10,3,137,Negacije,Negacije,True,8,srp,18. Négativités
+10,3,127,Proricanje,Iznenađenja,False,8,srp,8. Pronostications
+10,3,143,Recenzija izdavača,Iznenađenja,False,8,srp,24. Prière d'insérer
+10,3,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+10,3,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+11,1,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+11,1,140,Distingvo,Homeoptote ili Cica-mica,False,8,srp,21. Distinguo
+11,1,127,Proricanje,Dvostruko,False,8,srp,8. Pronostications
+11,1,130,Reli-reči,Dvostruko,False,8,srp,11. Logo-rallye
+11,1,137,Negacije,Homeoptote ili Cica-mica,False,8,srp,18. Négativités
+11,1,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,1,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+11,2,140,Distingvo,Homeoptote ili Cica-mica,False,8,srp,21. Distinguo
+11,2,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,2,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+11,2,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+11,2,137,Negacije,Homeoptote ili Cica-mica,False,8,srp,18. Négativités
+11,2,127,Proricanje,Dvostruko,False,8,srp,8. Pronostications
+11,2,130,Reli-reči,Dvostruko,False,8,srp,11. Logo-rallye
+11,3,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+11,3,127,Proricanje,Dvostruko,False,8,srp,8. Pronostications
+11,3,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+11,3,130,Reli-reči,Dvostruko,False,8,srp,11. Logo-rallye
+11,3,140,Distingvo,Homeoptote ili Cica-mica,False,8,srp,21. Distinguo
+11,3,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,3,137,Negacije,Negacije,True,8,srp,18. Négativités
+12,1,126,San,San,True,8,srp,7. Rêve
+12,1,138,Animizam,San,False,8,srp,19. Animiste
+12,1,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+12,1,132,Precizno,Zvaničan izveštaj,False,8,srp,13. Précisions
+12,1,122,Litote,Zvaničan izveštaj,False,8,srp,3. Litotes
+12,1,130,Reli-reči,Litote,False,8,srp,11. Logo-rallye
+12,1,128,Šizički,Reli-reči,False,8,srp,9. Synchyses
+12,2,122,Litote,Zvaničan izveštaj,False,8,srp,3. Litotes
+12,2,130,Reli-reči,Litote,False,8,srp,11. Logo-rallye
+12,2,128,Šizički,Reli-reči,False,8,srp,9. Synchyses
+12,2,138,Animizam,San,False,8,srp,19. Animiste
+12,2,132,Precizno,Zvaničan izveštaj,False,8,srp,13. Précisions
+12,2,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+12,2,126,San,San,True,8,srp,7. Rêve
+12,3,138,Animizam,San,False,8,srp,19. Animiste
+12,3,126,San,San,True,8,srp,7. Rêve
+12,3,128,Šizički,Reli-reči,False,8,srp,9. Synchyses
+12,3,130,Reli-reči,Litote,False,8,srp,11. Logo-rallye
+12,3,122,Litote,Zvaničan izveštaj,False,8,srp,3. Litotes
+12,3,132,Precizno,Zvaničan izveštaj,False,8,srp,13. Précisions
+12,3,142,Zvaničan izveštaj,Zvaničan izveštaj,True,8,srp,23. Lettre officielle
+13,1,132,Precizno,Šizički,False,8,srp,13. Précisions
+13,1,140,Distingvo,Precizno,False,8,srp,21. Distinguo
+13,1,124,Retrogradno,Distingvo,False,8,srp,5. Rétrograde
+13,1,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+13,1,143,Recenzija izdavača,Distingvo,False,8,srp,24. Prière d'insérer
+13,1,128,Šizički,Distingvo,False,8,srp,9. Synchyses
+13,1,127,Proricanje,Distingvo,False,8,srp,8. Pronostications
+13,2,143,Recenzija izdavača,Distingvo,False,8,srp,24. Prière d'insérer
+13,2,124,Retrogradno,Drugi subjektivan stav,False,8,srp,5. Rétrograde
+13,2,128,Šizički,Drugi subjektivan stav,False,8,srp,9. Synchyses
+13,2,127,Proricanje,Distingvo,False,8,srp,8. Pronostications
+13,2,132,Precizno,Šizički,False,8,srp,13. Précisions
+13,2,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+13,2,140,Distingvo,Precizno,False,8,srp,21. Distinguo
+13,3,124,Retrogradno,Drugi subjektivan stav,False,8,srp,5. Rétrograde
+13,3,128,Šizički,Distingvo,False,8,srp,9. Synchyses
+13,3,143,Recenzija izdavača,Distingvo,False,8,srp,24. Prière d'insérer
+13,3,127,Proricanje,Distingvo,False,8,srp,8. Pronostications
+13,3,140,Distingvo,Precizno,False,8,srp,21. Distinguo
+13,3,132,Precizno,Šizički,False,8,srp,13. Précisions
+13,3,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+14,1,128,Šizički,Kolebanje,False,8,srp,9. Synchyses
+14,1,143,Recenzija izdavača,Animizam,False,8,srp,24. Prière d'insérer
+14,1,132,Precizno,Precizno,True,8,srp,13. Précisions
+14,1,138,Animizam,Animizam,True,8,srp,19. Animiste
+14,1,133,Subjektivan stav,Šizički,False,8,srp,14. Le côté subjectif
+14,1,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+14,1,127,Proricanje,Kolebanje,False,8,srp,8. Pronostications
+14,2,132,Precizno,Kolebanje,False,8,srp,13. Précisions
+14,2,143,Recenzija izdavača,Animizam,False,8,srp,24. Prière d'insérer
+14,2,133,Subjektivan stav,Šizički,False,8,srp,14. Le côté subjectif
+14,2,138,Animizam,Animizam,True,8,srp,19. Animiste
+14,2,128,Šizički,Šizički,True,8,srp,9. Synchyses
+14,2,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+14,2,127,Proricanje,Kolebanje,False,8,srp,8. Pronostications
+14,3,143,Recenzija izdavača,Kolebanje,False,8,srp,24. Prière d'insérer
+14,3,128,Šizički,Šizički,True,8,srp,9. Synchyses
+14,3,138,Animizam,Animizam,True,8,srp,19. Animiste
+14,3,127,Proricanje,Šizički,False,8,srp,8. Pronostications
+14,3,133,Subjektivan stav,Šizički,False,8,srp,14. Le côté subjectif
+14,3,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+14,3,132,Precizno,Kolebanje,False,8,srp,13. Précisions
+15,1,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+15,1,140,Distingvo,Dvostruko,False,8,srp,21. Distinguo
+15,1,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,1,122,Litote,Dvostruko,False,8,srp,3. Litotes
+15,1,124,Retrogradno,Priča,False,8,srp,5. Rétrograde
+15,1,125,Iznenađenja,Dvostruko,False,8,srp,6. Surprises
+15,1,135,Priča,Dvostruko,False,8,srp,16. Récit
+15,1,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+15,2,140,Distingvo,Dvostruko,False,8,srp,21. Distinguo
+15,2,122,Litote,Dvostruko,False,8,srp,3. Litotes
+15,2,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+15,2,135,Priča,Priča,True,8,srp,16. Récit
+15,2,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,2,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+15,2,125,Iznenađenja,Distingvo,False,8,srp,6. Surprises
+15,2,124,Retrogradno,Priča,False,8,srp,5. Rétrograde
+15,3,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,3,135,Priča,Priča,True,8,srp,16. Récit
+15,3,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+15,3,140,Distingvo,Homeoptote ili Cica-mica,False,8,srp,21. Distinguo
+15,3,121,Dvostruko,Dvostruko,True,8,srp,2. En partie double
+15,3,125,Iznenađenja,Dvostruko,False,8,srp,6. Surprises
+15,3,122,Litote,Dvostruko,False,8,srp,3. Litotes
+15,3,124,Retrogradno,Priča,False,8,srp,5. Rétrograde
+16,1,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+16,1,122,Litote,Drugi subjektivan stav,False,8,srp,3. Litotes
+16,1,128,Šizički,Anagrami,False,8,srp,9. Synchyses
+16,1,132,Precizno,Precizno,True,8,srp,13. Précisions
+16,1,136,Građenje reči,Anagrami,False,8,srp,17. Composition de mots
+16,1,137,Negacije,Litote,False,8,srp,18. Négativités
+16,1,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+16,2,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+16,2,137,Negacije,Litote,False,8,srp,18. Négativités
+16,2,128,Šizički,Litote,False,8,srp,9. Synchyses
+16,2,132,Precizno,Anagrami,False,8,srp,13. Précisions
+16,2,122,Litote,Drugi subjektivan stav,False,8,srp,3. Litotes
+16,2,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+16,2,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+16,3,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+16,3,122,Litote,Drugi subjektivan stav,False,8,srp,3. Litotes
+16,3,128,Šizički,Anagrami,False,8,srp,9. Synchyses
+16,3,136,Građenje reči,Anagrami,False,8,srp,17. Composition de mots
+16,3,137,Negacije,Litote,False,8,srp,18. Négativités
+16,3,132,Precizno,Precizno,True,8,srp,13. Précisions
+16,3,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+17,1,130,Reli-reči,Metaforično,False,8,srp,11. Logo-rallye
+17,1,137,Negacije,Negacije,True,8,srp,18. Négativités
+17,1,140,Distingvo,Homeoptote ili Cica-mica,False,8,srp,21. Distinguo
+17,1,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+17,1,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,1,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+17,1,128,Šizički,Distingvo,False,8,srp,9. Synchyses
+17,2,140,Distingvo,Homeoptote ili Cica-mica,False,8,srp,21. Distinguo
+17,2,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+17,2,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,2,130,Reli-reči,Metaforično,False,8,srp,11. Logo-rallye
+17,2,128,Šizički,Distingvo,False,8,srp,9. Synchyses
+17,2,137,Negacije,Negacije,True,8,srp,18. Négativités
+17,2,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+17,3,123,Metaforično,Metaforično,True,8,srp,4. Métaphoriquement
+17,3,130,Reli-reči,Metaforično,False,8,srp,11. Logo-rallye
+17,3,141,Homeoptote ili Cica-mica,Homeoptote ili Cica-mica,True,8,srp,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,3,137,Negacije,Negacije,True,8,srp,18. Négativités
+17,3,143,Recenzija izdavača,Recenzija izdavača,True,8,srp,24. Prière d'insérer
+17,3,128,Šizički,Distingvo,False,8,srp,9. Synchyses
+17,3,140,Distingvo,Homeoptote ili Cica-mica,False,8,srp,21. Distinguo
+18,1,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+18,1,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+18,1,143,Recenzija izdavača,Beleška,False,8,srp,24. Prière d'insérer
+18,1,125,Iznenađenja,Iznenađenja,True,8,srp,6. Surprises
+18,1,128,Šizički,Šizički,True,8,srp,9. Synchyses
+18,1,120,Beleška,Beleška,True,8,srp,1. Notations
+18,2,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+18,2,125,Iznenađenja,Iznenađenja,True,8,srp,6. Surprises
+18,2,120,Beleška,Beleška,True,8,srp,1. Notations
+18,2,143,Recenzija izdavača,Beleška,False,8,srp,24. Prière d'insérer
+18,2,128,Šizički,Beleška,False,8,srp,9. Synchyses
+18,2,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+18,3,120,Beleška,Beleška,True,8,srp,1. Notations
+18,3,143,Recenzija izdavača,Beleška,False,8,srp,24. Prière d'insérer
+18,3,134,Drugi subjektivan stav,Šizički,False,8,srp,15. Autre subjectivité
+18,3,125,Iznenađenja,Iznenađenja,True,8,srp,6. Surprises
+18,3,128,Šizički,Beleška,False,8,srp,9. Synchyses
+18,3,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+19,1,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+19,1,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+19,1,126,San,San,True,8,srp,7. Rêve
+19,1,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+19,1,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+19,1,124,Retrogradno,Kolebanje,False,8,srp,5. Rétrograde
+19,1,129,Duga,Kolebanje,False,8,srp,10. L'arc-en-ciel
+19,2,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+19,2,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+19,2,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+19,2,129,Duga,Kolebanje,False,8,srp,10. L'arc-en-ciel
+19,2,126,San,San,True,8,srp,7. Rêve
+19,2,124,Retrogradno,Kolebanje,False,8,srp,5. Rétrograde
+19,2,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+19,3,139,Anagrami,Anagrami,True,8,srp,20. Anagrammes
+19,3,140,Distingvo,Anagrami,False,8,srp,21. Distinguo
+19,3,136,Građenje reči,Građenje reči,True,8,srp,17. Composition de mots
+19,3,124,Retrogradno,Kolebanje,False,8,srp,5. Rétrograde
+19,3,131,Kolebanje,Kolebanje,True,8,srp,12. Hésitations
+19,3,129,Duga,Kolebanje,False,8,srp,10. L'arc-en-ciel
+19,3,126,San,San,True,8,srp,7. Rêve
+20,1,131,Kolebanje,Priča,False,8,srp,12. Hésitations
+20,1,123,Metaforično,Priča,False,8,srp,4. Métaphoriquement
+20,1,130,Reli-reči,Priča,False,8,srp,11. Logo-rallye
+20,1,139,Anagrami,Priča,False,8,srp,20. Anagrammes
+20,1,135,Priča,Priča,True,8,srp,16. Récit
+20,1,136,Građenje reči,Priča,False,8,srp,17. Composition de mots
+20,1,120,Beleška,Priča,False,8,srp,1. Notations
+20,2,131,Kolebanje,Priča,False,8,srp,12. Hésitations
+20,2,135,Priča,Priča,True,8,srp,16. Récit
+20,2,130,Reli-reči,Priča,False,8,srp,11. Logo-rallye
+20,2,136,Građenje reči,Priča,False,8,srp,17. Composition de mots
+20,2,139,Anagrami,Priča,False,8,srp,20. Anagrammes
+20,2,123,Metaforično,Priča,False,8,srp,4. Métaphoriquement
+20,2,120,Beleška,Priča,False,8,srp,1. Notations
+20,3,131,Kolebanje,Priča,False,8,srp,12. Hésitations
+20,3,135,Priča,Priča,True,8,srp,16. Récit
+20,3,130,Reli-reči,Priča,False,8,srp,11. Logo-rallye
+20,3,120,Beleška,Priča,False,8,srp,1. Notations
+20,3,139,Anagrami,Priča,False,8,srp,20. Anagrammes
+20,3,123,Metaforično,Priča,False,8,srp,4. Métaphoriquement
+20,3,136,Građenje reči,Priča,False,8,srp,17. Composition de mots

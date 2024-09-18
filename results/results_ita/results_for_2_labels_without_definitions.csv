@@ -1,0 +1,121 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,75,Metaforicamente,Metaforicamente,True,2,ita,4. Métaphoriquement
+1,1,92,Distinguo,Metaforicamente,False,2,ita,21. Distinguo
+1,2,75,Metaforicamente,Metaforicamente,True,2,ita,4. Métaphoriquement
+1,2,92,Distinguo,Metaforicamente,False,2,ita,21. Distinguo
+1,3,75,Metaforicamente,Metaforicamente,True,2,ita,4. Métaphoriquement
+1,3,92,Distinguo,Metaforicamente,False,2,ita,21. Distinguo
+2,1,95,Comunicato stampa,Omoteleuti,False,2,ita,24. Prière d'insérer
+2,1,93,Omoteleuti,Omoteleuti,True,2,ita,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,95,Comunicato stampa,Omoteleuti,False,2,ita,24. Prière d'insérer
+2,2,93,Omoteleuti,Omoteleuti,True,2,ita,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,3,95,Comunicato stampa,Omoteleuti,False,2,ita,24. Prière d'insérer
+2,3,93,Omoteleuti,Omoteleuti,True,2,ita,22. Homéoptotes (1947) / Homéotéleutes (1976)
+3,1,79,Pronostici,Pronostici,True,2,ita,8. Pronostications
+3,1,88,Parole composte,Parole composte,True,2,ita,17. Composition de mots
+3,2,88,Parole composte,Parole composte,True,2,ita,17. Composition de mots
+3,2,79,Pronostici,Parole composte,False,2,ita,8. Pronostications
+3,3,79,Pronostici,Parole composte,False,2,ita,8. Pronostications
+3,3,88,Parole composte,Parole composte,True,2,ita,17. Composition de mots
+4,1,85,Aspetto soggettivo I,Aspetto soggettivo I,True,2,ita,14. Le côté subjectif
+4,1,79,Pronostici,Aspetto soggettivo I,False,2,ita,8. Pronostications
+4,2,85,Aspetto soggettivo I,Aspetto soggettivo I,True,2,ita,14. Le côté subjectif
+4,2,79,Pronostici,Aspetto soggettivo I,False,2,ita,8. Pronostications
+4,3,85,Aspetto soggettivo I,Aspetto soggettivo I,True,2,ita,14. Le côté subjectif
+4,3,79,Pronostici,Aspetto soggettivo I,False,2,ita,8. Pronostications
+5,1,80,Sinchisi,Retrogrado,False,2,ita,9. Synchyses
+5,1,76,Retrogrado,Retrogrado,True,2,ita,5. Rétrograde
+5,2,80,Sinchisi,Retrogrado,False,2,ita,9. Synchyses
+5,2,76,Retrogrado,Retrogrado,True,2,ita,5. Rétrograde
+5,3,76,Retrogrado,Retrogrado,True,2,ita,5. Rétrograde
+5,3,80,Sinchisi,Retrogrado,False,2,ita,9. Synchyses
+6,1,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+6,1,91,Anagrammi,Anagrammi,True,2,ita,20. Anagrammes
+6,2,80,Sinchisi,Anagrammi,False,2,ita,9. Synchyses
+6,2,91,Anagrammi,Anagrammi,True,2,ita,20. Anagrammes
+6,3,91,Anagrammi,Sinchisi,False,2,ita,20. Anagrammes
+6,3,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+7,1,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+7,1,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+7,2,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+7,2,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+7,3,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+7,3,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+8,1,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+8,1,79,Pronostici,Pronostici,True,2,ita,8. Pronostications
+8,2,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+8,2,79,Pronostici,Arcobaleno,False,2,ita,8. Pronostications
+8,3,79,Pronostici,Arcobaleno,False,2,ita,8. Pronostications
+8,3,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+9,1,77,Sorprese,Esitazioni,False,2,ita,6. Surprises
+9,1,83,Esitazioni,Esitazioni,True,2,ita,12. Hésitations
+9,2,83,Esitazioni,Esitazioni,True,2,ita,12. Hésitations
+9,2,77,Sorprese,Esitazioni,False,2,ita,6. Surprises
+9,3,77,Sorprese,Esitazioni,False,2,ita,6. Surprises
+9,3,83,Esitazioni,Esitazioni,True,2,ita,12. Hésitations
+10,1,91,Anagrammi,Anagrammi,True,2,ita,20. Anagrammes
+10,1,92,Distinguo,Anagrammi,False,2,ita,21. Distinguo
+10,2,91,Anagrammi,Anagrammi,True,2,ita,20. Anagrammes
+10,2,92,Distinguo,Anagrammi,False,2,ita,21. Distinguo
+10,3,92,Distinguo,Anagrammi,False,2,ita,21. Distinguo
+10,3,91,Anagrammi,Anagrammi,True,2,ita,20. Anagrammes
+11,1,94,Lettera ufficiale,Lettera ufficiale,True,2,ita,23. Lettre officielle
+11,1,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+11,2,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+11,2,94,Lettera ufficiale,Lettera ufficiale,True,2,ita,23. Lettre officielle
+11,3,94,Lettera ufficiale,Lettera ufficiale,True,2,ita,23. Lettre officielle
+11,3,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+12,1,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+12,1,84,Precisazioni,Sinchisi,False,2,ita,13. Précisions
+12,2,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+12,2,84,Precisazioni,Sinchisi,False,2,ita,13. Précisions
+12,3,84,Precisazioni,Sinchisi,False,2,ita,13. Précisions
+12,3,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+13,1,84,Precisazioni,Precisazioni,True,2,ita,13. Précisions
+13,1,92,Distinguo,Precisazioni,False,2,ita,21. Distinguo
+13,2,84,Precisazioni,Precisazioni,True,2,ita,13. Précisions
+13,2,92,Distinguo,Precisazioni,False,2,ita,21. Distinguo
+13,3,84,Precisazioni,Precisazioni,True,2,ita,13. Précisions
+13,3,92,Distinguo,Precisazioni,False,2,ita,21. Distinguo
+14,1,95,Comunicato stampa,Sinchisi,False,2,ita,24. Prière d'insérer
+14,1,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+14,2,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+14,2,95,Comunicato stampa,Sinchisi,False,2,ita,24. Prière d'insérer
+14,3,80,Sinchisi,Sinchisi,True,2,ita,9. Synchyses
+14,3,95,Comunicato stampa,Sinchisi,False,2,ita,24. Prière d'insérer
+15,1,74,Litoti,Svolgimento,False,2,ita,3. Litotes
+15,1,87,Svolgimento,Svolgimento,True,2,ita,16. Récit
+15,2,74,Litoti,Svolgimento,False,2,ita,3. Litotes
+15,2,87,Svolgimento,Svolgimento,True,2,ita,16. Récit
+15,3,74,Litoti,Svolgimento,False,2,ita,3. Litotes
+15,3,87,Svolgimento,Svolgimento,True,2,ita,16. Récit
+16,1,74,Litoti,Litoti,True,2,ita,3. Litotes
+16,1,84,Precisazioni,Litoti,False,2,ita,13. Précisions
+16,2,84,Precisazioni,Litoti,False,2,ita,13. Précisions
+16,2,74,Litoti,Litoti,True,2,ita,3. Litotes
+16,3,74,Litoti,Litoti,True,2,ita,3. Litotes
+16,3,84,Precisazioni,Litoti,False,2,ita,13. Précisions
+17,1,95,Comunicato stampa,Metaforicamente,False,2,ita,24. Prière d'insérer
+17,1,75,Metaforicamente,Metaforicamente,True,2,ita,4. Métaphoriquement
+17,2,75,Metaforicamente,Metaforicamente,True,2,ita,4. Métaphoriquement
+17,2,95,Comunicato stampa,Metaforicamente,False,2,ita,24. Prière d'insérer
+17,3,95,Comunicato stampa,Metaforicamente,False,2,ita,24. Prière d'insérer
+17,3,75,Metaforicamente,Metaforicamente,True,2,ita,4. Métaphoriquement
+18,1,86,Altro aspetto soggettivo,Sorprese,False,2,ita,15. Autre subjectivité
+18,1,77,Sorprese,Sorprese,True,2,ita,6. Surprises
+18,2,77,Sorprese,Sorprese,True,2,ita,6. Surprises
+18,2,86,Altro aspetto soggettivo,Sorprese,False,2,ita,15. Autre subjectivité
+18,3,86,Altro aspetto soggettivo,Sorprese,False,2,ita,15. Autre subjectivité
+18,3,77,Sorprese,Sorprese,True,2,ita,6. Surprises
+19,1,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+19,1,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+19,2,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+19,2,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+19,3,92,Distinguo,Distinguo,True,2,ita,21. Distinguo
+19,3,81,Arcobaleno,Arcobaleno,True,2,ita,10. L'arc-en-ciel
+20,1,88,Parole composte,Parole composte,True,2,ita,17. Composition de mots
+20,1,72,Notazioni,Notazioni,True,2,ita,1. Notations
+20,2,72,Notazioni,Notazioni,True,2,ita,1. Notations
+20,2,88,Parole composte,Parole composte,True,2,ita,17. Composition de mots
+20,3,88,Parole composte,Parole composte,True,2,ita,17. Composition de mots
+20,3,72,Notazioni,Notazioni,True,2,ita,1. Notations

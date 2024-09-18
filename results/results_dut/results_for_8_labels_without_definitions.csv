@@ -1,0 +1,433 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+1,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+1,1,192,Notaties,Figuurlijk,False,8,dut,1. Notations
+1,1,196,Achterstevoren,Figuurlijk,False,8,dut,5. Rétrograde
+1,1,199,Prognose,Figuurlijk,False,8,dut,8. Pronostications
+1,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+1,1,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+1,2,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+1,2,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+1,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+1,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+1,2,192,Notaties,Figuurlijk,False,8,dut,1. Notations
+1,2,196,Achterstevoren,Figuurlijk,False,8,dut,5. Rétrograde
+1,2,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+1,3,196,Achterstevoren,Figuurlijk,False,8,dut,5. Rétrograde
+1,3,199,Prognose,Figuurlijk,False,8,dut,8. Pronostications
+1,3,192,Notaties,Figuurlijk,False,8,dut,1. Notations
+1,3,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+1,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+1,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+1,3,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+2,1,193,Dubbel op,Flaptekst,False,8,dut,2. En partie double
+2,1,192,Notaties,Subjectief,False,8,dut,1. Notations
+2,1,213,Homeoptoton,Dubbel op,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,1,205,Subjectief,Subjectief,True,8,dut,14. Le côté subjectif
+2,1,210,Animisme,Subjectief,False,8,dut,19. Animiste
+2,1,194,Litotes,Subjectief,False,8,dut,3. Litotes
+2,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+2,1,209,Ontkenningen,Litotes,False,8,dut,18. Négativités
+2,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+2,2,213,Homeoptoton,Dubbel op,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,194,Litotes,Subjectief,False,8,dut,3. Litotes
+2,2,192,Notaties,Subjectief,False,8,dut,1. Notations
+2,2,209,Ontkenningen,Litotes,False,8,dut,18. Négativités
+2,2,205,Subjectief,Subjectief,True,8,dut,14. Le côté subjectif
+2,2,193,Dubbel op,Flaptekst,False,8,dut,2. En partie double
+2,2,210,Animisme,Subjectief,False,8,dut,19. Animiste
+2,3,210,Animisme,Subjectief,False,8,dut,19. Animiste
+2,3,192,Notaties,Subjectief,False,8,dut,1. Notations
+2,3,209,Ontkenningen,Litotes,False,8,dut,18. Négativités
+2,3,193,Dubbel op,Flaptekst,False,8,dut,2. En partie double
+2,3,194,Litotes,Subjectief,False,8,dut,3. Litotes
+2,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+2,3,205,Subjectief,Subjectief,True,8,dut,14. Le côté subjectif
+2,3,213,Homeoptoton,Dubbel op,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+3,1,212,Onderscheid,Woordsamenstellingen,False,8,dut,21. Distinguo
+3,1,208,Woordsamenstellingen,Droom,False,8,dut,17. Composition de mots
+3,1,199,Prognose,Droom,False,8,dut,8. Pronostications
+3,1,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+3,1,198,Droom,Droom,True,8,dut,7. Rêve
+3,1,209,Ontkenningen,Onderscheid,False,8,dut,18. Négativités
+3,1,211,Anagrammen,Droom,False,8,dut,20. Anagrammes
+3,1,192,Notaties,Woordsamenstellingen,False,8,dut,1. Notations
+3,2,212,Onderscheid,Woordsamenstellingen,False,8,dut,21. Distinguo
+3,2,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+3,2,211,Anagrammen,Droom,False,8,dut,20. Anagrammes
+3,2,198,Droom,Droom,True,8,dut,7. Rêve
+3,2,192,Notaties,Woordsamenstellingen,False,8,dut,1. Notations
+3,2,208,Woordsamenstellingen,Droom,False,8,dut,17. Composition de mots
+3,2,199,Prognose,Droom,False,8,dut,8. Pronostications
+3,2,209,Ontkenningen,Onderscheid,False,8,dut,18. Négativités
+3,3,192,Notaties,Woordsamenstellingen,False,8,dut,1. Notations
+3,3,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+3,3,209,Ontkenningen,Onderscheid,False,8,dut,18. Négativités
+3,3,199,Prognose,Droom,False,8,dut,8. Pronostications
+3,3,212,Onderscheid,Woordsamenstellingen,False,8,dut,21. Distinguo
+3,3,198,Droom,Droom,True,8,dut,7. Rêve
+3,3,211,Anagrammen,Droom,False,8,dut,20. Anagrammes
+3,3,208,Woordsamenstellingen,Droom,False,8,dut,17. Composition de mots
+4,1,206,Ook subjectief,Ook subjectief,True,8,dut,15. Autre subjectivité
+4,1,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+4,1,192,Notaties,Subjectief,False,8,dut,1. Notations
+4,1,197,Verassingen,Ook subjectief,False,8,dut,6. Surprises
+4,1,210,Animisme,Synchysis,False,8,dut,19. Animiste
+4,1,205,Subjectief,Synchysis,False,8,dut,14. Le côté subjectif
+4,1,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+4,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+4,2,192,Notaties,Subjectief,False,8,dut,1. Notations
+4,2,206,Ook subjectief,Ook subjectief,True,8,dut,15. Autre subjectivité
+4,2,197,Verassingen,Ook subjectief,False,8,dut,6. Surprises
+4,2,205,Subjectief,Synchysis,False,8,dut,14. Le côté subjectif
+4,2,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+4,2,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+4,2,210,Animisme,Synchysis,False,8,dut,19. Animiste
+4,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+4,3,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+4,3,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+4,3,192,Notaties,Subjectief,False,8,dut,1. Notations
+4,3,197,Verassingen,Ook subjectief,False,8,dut,6. Surprises
+4,3,210,Animisme,Synchysis,False,8,dut,19. Animiste
+4,3,206,Ook subjectief,Ook subjectief,True,8,dut,15. Autre subjectivité
+4,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+4,3,205,Subjectief,Synchysis,False,8,dut,14. Le côté subjectif
+5,1,194,Litotes,Synchysis,False,8,dut,3. Litotes
+5,1,198,Droom,Droom,True,8,dut,7. Rêve
+5,1,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+5,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+5,1,202,Woordenrally,Figuurlijk,False,8,dut,11. Logo-rallye
+5,1,195,Figuurlijk,Synchysis,False,8,dut,4. Métaphoriquement
+5,1,196,Achterstevoren,Synchysis,False,8,dut,5. Rétrograde
+5,2,195,Figuurlijk,Synchysis,False,8,dut,4. Métaphoriquement
+5,2,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+5,2,198,Droom,Droom,True,8,dut,7. Rêve
+5,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+5,2,196,Achterstevoren,Synchysis,False,8,dut,5. Rétrograde
+5,2,202,Woordenrally,Synchysis,False,8,dut,11. Logo-rallye
+5,2,194,Litotes,Synchysis,False,8,dut,3. Litotes
+5,3,195,Figuurlijk,Synchysis,False,8,dut,4. Métaphoriquement
+5,3,194,Litotes,Synchysis,False,8,dut,3. Litotes
+5,3,196,Achterstevoren,Synchysis,False,8,dut,5. Rétrograde
+5,3,198,Droom,Droom,True,8,dut,7. Rêve
+5,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+5,3,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+5,3,202,Woordenrally,Synchysis,False,8,dut,11. Logo-rallye
+6,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+6,1,211,Anagrammen,Figuurlijk,False,8,dut,20. Anagrammes
+6,1,209,Ontkenningen,Synchysis,False,8,dut,18. Négativités
+6,1,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+6,1,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+6,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+6,1,193,Dubbel op,Synchysis,False,8,dut,2. En partie double
+6,1,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+6,2,209,Ontkenningen,Synchysis,False,8,dut,18. Négativités
+6,2,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+6,2,193,Dubbel op,Synchysis,False,8,dut,2. En partie double
+6,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+6,2,204,Bijzonderheden,Figuurlijk,False,8,dut,13. Précisions
+6,2,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+6,2,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+6,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+6,3,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+6,3,200,Synchysis,Figuurlijk,False,8,dut,9. Synchyses
+6,3,204,Bijzonderheden,Figuurlijk,False,8,dut,13. Précisions
+6,3,206,Ook subjectief,Figuurlijk,False,8,dut,15. Autre subjectivité
+6,3,193,Dubbel op,Synchysis,False,8,dut,2. En partie double
+6,3,209,Ontkenningen,Synchysis,False,8,dut,18. Négativités
+6,3,211,Anagrammen,Synchysis,False,8,dut,20. Anagrammes
+6,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+7,1,198,Droom,Droom,True,8,dut,7. Rêve
+7,1,210,Animisme,Droom,False,8,dut,19. Animiste
+7,1,194,Litotes,Droom,False,8,dut,3. Litotes
+7,1,212,Onderscheid,Anagrammen,False,8,dut,21. Distinguo
+7,1,201,Regenboog,Anagrammen,False,8,dut,10. L'arc-en-ciel
+7,1,203,Aarzelingen,Droom,False,8,dut,12. Hésitations
+7,1,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+7,1,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+7,2,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+7,2,203,Aarzelingen,Droom,False,8,dut,12. Hésitations
+7,2,201,Regenboog,Anagrammen,False,8,dut,10. L'arc-en-ciel
+7,2,210,Animisme,Aarzelingen,False,8,dut,19. Animiste
+7,2,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+7,2,198,Droom,Droom,True,8,dut,7. Rêve
+7,2,194,Litotes,Onderscheid,False,8,dut,3. Litotes
+7,2,212,Onderscheid,Anagrammen,False,8,dut,21. Distinguo
+7,3,203,Aarzelingen,Droom,False,8,dut,12. Hésitations
+7,3,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+7,3,194,Litotes,Onderscheid,False,8,dut,3. Litotes
+7,3,210,Animisme,Aarzelingen,False,8,dut,19. Animiste
+7,3,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+7,3,198,Droom,Droom,True,8,dut,7. Rêve
+7,3,201,Regenboog,Anagrammen,False,8,dut,10. L'arc-en-ciel
+7,3,212,Onderscheid,Anagrammen,False,8,dut,21. Distinguo
+8,1,195,Figuurlijk,Synchysis,False,8,dut,4. Métaphoriquement
+8,1,201,Regenboog,Synchysis,False,8,dut,10. L'arc-en-ciel
+8,1,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+8,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+8,1,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+8,1,194,Litotes,Synchysis,False,8,dut,3. Litotes
+8,1,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+8,2,201,Regenboog,Synchysis,False,8,dut,10. L'arc-en-ciel
+8,2,206,Ook subjectief,Litotes,False,8,dut,15. Autre subjectivité
+8,2,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+8,2,194,Litotes,Synchysis,False,8,dut,3. Litotes
+8,2,199,Prognose,Bijzonderheden,False,8,dut,8. Pronostications
+8,2,195,Figuurlijk,Synchysis,False,8,dut,4. Métaphoriquement
+8,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+8,3,195,Figuurlijk,Synchysis,False,8,dut,4. Métaphoriquement
+8,3,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+8,3,206,Ook subjectief,Litotes,False,8,dut,15. Autre subjectivité
+8,3,194,Litotes,Synchysis,False,8,dut,3. Litotes
+8,3,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+8,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+8,3,201,Regenboog,Synchysis,False,8,dut,10. L'arc-en-ciel
+9,1,197,Verassingen,Aarzelingen,False,8,dut,6. Surprises
+9,1,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+9,1,213,Homeoptoton,Synchysis,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+9,1,203,Aarzelingen,Synchysis,False,8,dut,12. Hésitations
+9,1,198,Droom,Droom,True,8,dut,7. Rêve
+9,2,198,Droom,Droom,True,8,dut,7. Rêve
+9,2,197,Verassingen,Aarzelingen,False,8,dut,6. Surprises
+9,2,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+9,2,203,Aarzelingen,Synchysis,False,8,dut,12. Hésitations
+9,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+9,2,213,Homeoptoton,Synchysis,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,3,213,Homeoptoton,Synchysis,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,3,203,Aarzelingen,Synchysis,False,8,dut,12. Hésitations
+9,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+9,3,197,Verassingen,Aarzelingen,False,8,dut,6. Surprises
+9,3,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+9,3,198,Droom,Droom,True,8,dut,7. Rêve
+10,1,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+10,1,206,Ook subjectief,Ook subjectief,True,8,dut,15. Autre subjectivité
+10,1,209,Ontkenningen,Onderscheid,False,8,dut,18. Négativités
+10,1,212,Onderscheid,Anagrammen,False,8,dut,21. Distinguo
+10,1,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+10,1,199,Prognose,Verassingen,False,8,dut,8. Pronostications
+10,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+10,2,209,Ontkenningen,Onderscheid,False,8,dut,18. Négativités
+10,2,212,Onderscheid,Anagrammen,False,8,dut,21. Distinguo
+10,2,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+10,2,206,Ook subjectief,Ook subjectief,True,8,dut,15. Autre subjectivité
+10,2,199,Prognose,Verassingen,False,8,dut,8. Pronostications
+10,2,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+10,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+10,3,199,Prognose,Verassingen,False,8,dut,8. Pronostications
+10,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+10,3,206,Ook subjectief,Ook subjectief,True,8,dut,15. Autre subjectivité
+10,3,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+10,3,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+10,3,209,Ontkenningen,Onderscheid,False,8,dut,18. Négativités
+10,3,212,Onderscheid,Anagrammen,False,8,dut,21. Distinguo
+11,1,212,Onderscheid,Woordenrally,False,8,dut,21. Distinguo
+11,1,202,Woordenrally,Dubbel op,False,8,dut,11. Logo-rallye
+11,1,209,Ontkenningen,Ontkenningen,True,8,dut,18. Négativités
+11,1,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+11,1,199,Prognose,Dubbel op,False,8,dut,8. Pronostications
+11,1,213,Homeoptoton,Homeoptoton,True,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,1,193,Dubbel op,Dubbel op,True,8,dut,2. En partie double
+11,2,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+11,2,193,Dubbel op,Woordenrally,False,8,dut,2. En partie double
+11,2,212,Onderscheid,Woordenrally,False,8,dut,21. Distinguo
+11,2,209,Ontkenningen,Ontkenningen,True,8,dut,18. Négativités
+11,2,202,Woordenrally,Dubbel op,False,8,dut,11. Logo-rallye
+11,2,213,Homeoptoton,Homeoptoton,True,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,2,199,Prognose,Ontkenningen,False,8,dut,8. Pronostications
+11,3,209,Ontkenningen,Ontkenningen,True,8,dut,18. Négativités
+11,3,193,Dubbel op,Dubbel op,True,8,dut,2. En partie double
+11,3,199,Prognose,Onderscheid,False,8,dut,8. Pronostications
+11,3,202,Woordenrally,Dubbel op,False,8,dut,11. Logo-rallye
+11,3,213,Homeoptoton,Homeoptoton,True,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,3,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+11,3,212,Onderscheid,Dubbel op,False,8,dut,21. Distinguo
+12,1,210,Animisme,Synchysis,False,8,dut,19. Animiste
+12,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+12,1,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+12,1,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+12,1,198,Droom,Droom,True,8,dut,7. Rêve
+12,1,202,Woordenrally,Officieel schrijven,False,8,dut,11. Logo-rallye
+12,1,194,Litotes,Synchysis,False,8,dut,3. Litotes
+12,2,210,Animisme,Synchysis,False,8,dut,19. Animiste
+12,2,198,Droom,Droom,True,8,dut,7. Rêve
+12,2,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+12,2,194,Litotes,Synchysis,False,8,dut,3. Litotes
+12,2,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+12,2,202,Woordenrally,Officieel schrijven,False,8,dut,11. Logo-rallye
+12,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+12,3,198,Droom,Droom,True,8,dut,7. Rêve
+12,3,202,Woordenrally,Synchysis,False,8,dut,11. Logo-rallye
+12,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+12,3,214,Officieel schrijven,Officieel schrijven,True,8,dut,23. Lettre officielle
+12,3,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+12,3,210,Animisme,Synchysis,False,8,dut,19. Animiste
+12,3,194,Litotes,Synchysis,False,8,dut,3. Litotes
+13,1,199,Prognose,Bijzonderheden,False,8,dut,8. Pronostications
+13,1,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+13,1,196,Achterstevoren,Bijzonderheden,False,8,dut,5. Rétrograde
+13,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+13,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+13,1,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+13,1,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+13,2,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+13,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+13,2,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+13,2,199,Prognose,Bijzonderheden,False,8,dut,8. Pronostications
+13,2,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+13,2,196,Achterstevoren,Bijzonderheden,False,8,dut,5. Rétrograde
+13,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+13,3,199,Prognose,Bijzonderheden,False,8,dut,8. Pronostications
+13,3,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+13,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+13,3,196,Achterstevoren,Bijzonderheden,False,8,dut,5. Rétrograde
+13,3,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+13,3,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+13,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+14,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+14,1,205,Subjectief,Synchysis,False,8,dut,14. Le côté subjectif
+14,1,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+14,1,210,Animisme,Synchysis,False,8,dut,19. Animiste
+14,1,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+14,1,203,Aarzelingen,Synchysis,False,8,dut,12. Hésitations
+14,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+14,2,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+14,2,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+14,2,205,Subjectief,Subjectief,True,8,dut,14. Le côté subjectif
+14,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+14,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+14,2,203,Aarzelingen,Synchysis,False,8,dut,12. Hésitations
+14,2,210,Animisme,Synchysis,False,8,dut,19. Animiste
+14,3,210,Animisme,Synchysis,False,8,dut,19. Animiste
+14,3,204,Bijzonderheden,Synchysis,False,8,dut,13. Précisions
+14,3,199,Prognose,Synchysis,False,8,dut,8. Pronostications
+14,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+14,3,203,Aarzelingen,Synchysis,False,8,dut,12. Hésitations
+14,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+14,3,205,Subjectief,Synchysis,False,8,dut,14. Le côté subjectif
+15,1,213,Homeoptoton,Figuurlijk,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,1,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+15,1,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+15,1,194,Litotes,Dubbel op,False,8,dut,3. Litotes
+15,1,212,Onderscheid,Figuurlijk,False,8,dut,21. Distinguo
+15,1,207,Relaas,Figuurlijk,False,8,dut,16. Récit
+15,1,196,Achterstevoren,Relaas,False,8,dut,5. Rétrograde
+15,1,193,Dubbel op,Figuurlijk,False,8,dut,2. En partie double
+15,2,193,Dubbel op,Figuurlijk,False,8,dut,2. En partie double
+15,2,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+15,2,213,Homeoptoton,Figuurlijk,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,2,194,Litotes,Relaas,False,8,dut,3. Litotes
+15,2,196,Achterstevoren,Relaas,False,8,dut,5. Rétrograde
+15,2,207,Relaas,Figuurlijk,False,8,dut,16. Récit
+15,2,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+15,2,212,Onderscheid,Figuurlijk,False,8,dut,21. Distinguo
+15,3,207,Relaas,Figuurlijk,False,8,dut,16. Récit
+15,3,213,Homeoptoton,Figuurlijk,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+15,3,194,Litotes,Relaas,False,8,dut,3. Litotes
+15,3,212,Onderscheid,Figuurlijk,False,8,dut,21. Distinguo
+15,3,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+15,3,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+15,3,193,Dubbel op,Figuurlijk,False,8,dut,2. En partie double
+15,3,196,Achterstevoren,Relaas,False,8,dut,5. Rétrograde
+16,1,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+16,1,194,Litotes,Bijzonderheden,False,8,dut,3. Litotes
+16,1,211,Anagrammen,Synchysis,False,8,dut,20. Anagrammes
+16,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+16,1,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+16,1,208,Woordsamenstellingen,Synchysis,False,8,dut,17. Composition de mots
+16,1,209,Ontkenningen,Litotes,False,8,dut,18. Négativités
+16,2,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+16,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+16,2,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+16,2,211,Anagrammen,Synchysis,False,8,dut,20. Anagrammes
+16,2,209,Ontkenningen,Litotes,False,8,dut,18. Négativités
+16,2,208,Woordsamenstellingen,Synchysis,False,8,dut,17. Composition de mots
+16,2,194,Litotes,Synchysis,False,8,dut,3. Litotes
+16,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+16,3,209,Ontkenningen,Litotes,False,8,dut,18. Négativités
+16,3,194,Litotes,Synchysis,False,8,dut,3. Litotes
+16,3,204,Bijzonderheden,Bijzonderheden,True,8,dut,13. Précisions
+16,3,206,Ook subjectief,Bijzonderheden,False,8,dut,15. Autre subjectivité
+16,3,211,Anagrammen,Synchysis,False,8,dut,20. Anagrammes
+16,3,208,Woordsamenstellingen,Synchysis,False,8,dut,17. Composition de mots
+17,1,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+17,1,213,Homeoptoton,Synchysis,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+17,1,202,Woordenrally,Synchysis,False,8,dut,11. Logo-rallye
+17,1,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+17,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+17,1,209,Ontkenningen,Ontkenningen,True,8,dut,18. Négativités
+17,2,213,Homeoptoton,Synchysis,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,2,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+17,2,202,Woordenrally,Onderscheid,False,8,dut,11. Logo-rallye
+17,2,209,Ontkenningen,Ontkenningen,True,8,dut,18. Négativités
+17,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+17,2,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+17,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+17,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+17,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+17,3,209,Ontkenningen,Ontkenningen,True,8,dut,18. Négativités
+17,3,195,Figuurlijk,Figuurlijk,True,8,dut,4. Métaphoriquement
+17,3,212,Onderscheid,Synchysis,False,8,dut,21. Distinguo
+17,3,202,Woordenrally,Onderscheid,False,8,dut,11. Logo-rallye
+17,3,213,Homeoptoton,Synchysis,False,8,dut,22. Homéoptotes (1947) / Homéotéleutes (1976)
+18,1,206,Ook subjectief,Synchysis,False,8,dut,15. Autre subjectivité
+18,1,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+18,1,208,Woordsamenstellingen,Synchysis,False,8,dut,17. Composition de mots
+18,1,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+18,1,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+18,1,192,Notaties,Notaties,True,8,dut,1. Notations
+18,2,192,Notaties,Notaties,True,8,dut,1. Notations
+18,2,208,Woordsamenstellingen,Synchysis,False,8,dut,17. Composition de mots
+18,2,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+18,2,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+18,2,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+18,2,206,Ook subjectief,Synchysis,False,8,dut,15. Autre subjectivité
+18,3,200,Synchysis,Synchysis,True,8,dut,9. Synchyses
+18,3,197,Verassingen,Verassingen,True,8,dut,6. Surprises
+18,3,206,Ook subjectief,Synchysis,False,8,dut,15. Autre subjectivité
+18,3,215,Flaptekst,Flaptekst,True,8,dut,24. Prière d'insérer
+18,3,208,Woordsamenstellingen,Synchysis,False,8,dut,17. Composition de mots
+18,3,192,Notaties,Notaties,True,8,dut,1. Notations
+19,1,201,Regenboog,Onderscheid,False,8,dut,10. L'arc-en-ciel
+19,1,196,Achterstevoren,Onderscheid,False,8,dut,5. Rétrograde
+19,1,212,Onderscheid,Woordsamenstellingen,False,8,dut,21. Distinguo
+19,1,198,Droom,Droom,True,8,dut,7. Rêve
+19,1,203,Aarzelingen,Droom,False,8,dut,12. Hésitations
+19,1,208,Woordsamenstellingen,Woordsamenstellingen,True,8,dut,17. Composition de mots
+19,1,211,Anagrammen,Woordsamenstellingen,False,8,dut,20. Anagrammes
+19,2,208,Woordsamenstellingen,Woordsamenstellingen,True,8,dut,17. Composition de mots
+19,2,198,Droom,Droom,True,8,dut,7. Rêve
+19,2,212,Onderscheid,Woordsamenstellingen,False,8,dut,21. Distinguo
+19,2,203,Aarzelingen,Droom,False,8,dut,12. Hésitations
+19,2,196,Achterstevoren,Onderscheid,False,8,dut,5. Rétrograde
+19,2,201,Regenboog,Onderscheid,False,8,dut,10. L'arc-en-ciel
+19,2,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+19,3,208,Woordsamenstellingen,Woordsamenstellingen,True,8,dut,17. Composition de mots
+19,3,201,Regenboog,Onderscheid,False,8,dut,10. L'arc-en-ciel
+19,3,212,Onderscheid,Woordsamenstellingen,False,8,dut,21. Distinguo
+19,3,196,Achterstevoren,Onderscheid,False,8,dut,5. Rétrograde
+19,3,198,Droom,Droom,True,8,dut,7. Rêve
+19,3,211,Anagrammen,Anagrammen,True,8,dut,20. Anagrammes
+19,3,203,Aarzelingen,Droom,False,8,dut,12. Hésitations
+20,1,207,Relaas,Relaas,True,8,dut,16. Récit
+20,1,211,Anagrammen,Relaas,False,8,dut,20. Anagrammes
+20,1,192,Notaties,Relaas,False,8,dut,1. Notations
+20,1,195,Figuurlijk,Relaas,False,8,dut,4. Métaphoriquement
+20,1,208,Woordsamenstellingen,Relaas,False,8,dut,17. Composition de mots
+20,1,203,Aarzelingen,Relaas,False,8,dut,12. Hésitations
+20,1,202,Woordenrally,Relaas,False,8,dut,11. Logo-rallye
+20,2,202,Woordenrally,Relaas,False,8,dut,11. Logo-rallye
+20,2,203,Aarzelingen,Relaas,False,8,dut,12. Hésitations
+20,2,192,Notaties,Relaas,False,8,dut,1. Notations
+20,2,211,Anagrammen,Relaas,False,8,dut,20. Anagrammes
+20,2,208,Woordsamenstellingen,Relaas,False,8,dut,17. Composition de mots
+20,2,195,Figuurlijk,Relaas,False,8,dut,4. Métaphoriquement
+20,2,207,Relaas,Relaas,True,8,dut,16. Récit
+20,3,202,Woordenrally,Relaas,False,8,dut,11. Logo-rallye
+20,3,211,Anagrammen,Relaas,False,8,dut,20. Anagrammes
+20,3,192,Notaties,Relaas,False,8,dut,1. Notations
+20,3,195,Figuurlijk,Relaas,False,8,dut,4. Métaphoriquement
+20,3,207,Relaas,Relaas,True,8,dut,16. Récit
+20,3,203,Aarzelingen,Relaas,False,8,dut,12. Hésitations
+20,3,208,Woordsamenstellingen,Relaas,False,8,dut,17. Composition de mots

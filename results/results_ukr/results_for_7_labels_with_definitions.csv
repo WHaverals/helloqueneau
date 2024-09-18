@@ -1,0 +1,391 @@
+Experiment,Iteration,Story Index,True Label,Predicted Label,Correct,Label Space Size,Language Code,Universal Label
+1,1,216,Нотатки,Нотатки,True,7,ukr,1. Notations
+1,1,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+1,1,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+1,1,239,Видавнича анотація,Пророкування,False,7,ukr,24. Prière d'insérer
+1,1,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+1,1,224,Синхиза,Певні відмінності,False,7,ukr,9. Synchyses
+1,2,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+1,2,224,Синхиза,Певні відмінності,False,7,ukr,9. Synchyses
+1,2,216,Нотатки,Нотатки,True,7,ukr,1. Notations
+1,2,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+1,2,239,Видавнича анотація,Пророкування,False,7,ukr,24. Prière d'insérer
+1,2,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+1,3,219,Метафорично,Певні відмінності,False,7,ukr,4. Métaphoriquement
+1,3,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+1,3,239,Видавнича анотація,Пророкування,False,7,ukr,24. Prière d'insérer
+1,3,216,Нотатки,Нотатки,True,7,ukr,1. Notations
+1,3,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+1,3,224,Синхиза,Певні відмінності,False,7,ukr,9. Synchyses
+2,1,218,Лаконічно,Оживлення,False,7,ukr,3. Litotes
+2,1,237,Гомеотелота,Гомеотелота,True,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,1,217,З подвоєнням,Оживлення,False,7,ukr,2. En partie double
+2,1,233,Заперечення,Гомеотелота,False,7,ukr,18. Négativités
+2,1,239,Видавнича анотація,Суб’єктивний погляд,False,7,ukr,24. Prière d'insérer
+2,1,229,Суб’єктивний погляд,Оживлення,False,7,ukr,14. Le côté subjectif
+2,1,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+2,2,237,Гомеотелота,Гомеотелота,True,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+2,2,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+2,2,217,З подвоєнням,Оживлення,False,7,ukr,2. En partie double
+2,2,218,Лаконічно,Оживлення,False,7,ukr,3. Litotes
+2,2,239,Видавнича анотація,Оживлення,False,7,ukr,24. Prière d'insérer
+2,2,229,Суб’єктивний погляд,Оживлення,False,7,ukr,14. Le côté subjectif
+2,2,233,Заперечення,Гомеотелота,False,7,ukr,18. Négativités
+2,3,233,Заперечення,Гомеотелота,False,7,ukr,18. Négativités
+2,3,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+2,3,217,З подвоєнням,Оживлення,False,7,ukr,2. En partie double
+2,3,239,Видавнича анотація,Оживлення,False,7,ukr,24. Prière d'insérer
+2,3,218,Лаконічно,Оживлення,False,7,ukr,3. Litotes
+2,3,229,Суб’єктивний погляд,Оживлення,False,7,ukr,14. Le côté subjectif
+2,3,237,Гомеотелота,Гомеотелота,True,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+3,1,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+3,1,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+3,1,233,Заперечення,Словоскладення,False,7,ukr,18. Négativités
+3,1,235,Анаграми,Словоскладення,False,7,ukr,20. Anagrammes
+3,1,216,Нотатки,Нотатки,True,7,ukr,1. Notations
+3,1,222,Сон,Сон,True,7,ukr,7. Rêve
+3,1,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+3,2,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+3,2,222,Сон,Сон,True,7,ukr,7. Rêve
+3,2,216,Нотатки,Нотатки,True,7,ukr,1. Notations
+3,2,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+3,2,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+3,2,235,Анаграми,Словоскладення,False,7,ukr,20. Anagrammes
+3,2,233,Заперечення,Словоскладення,False,7,ukr,18. Négativités
+3,3,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+3,3,216,Нотатки,Нотатки,True,7,ukr,1. Notations
+3,3,233,Заперечення,Словоскладення,False,7,ukr,18. Négativités
+3,3,235,Анаграми,Словоскладення,False,7,ukr,20. Anagrammes
+3,3,222,Сон,Сон,True,7,ukr,7. Rêve
+3,3,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+3,3,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+4,1,230,Інший суб’єктивний погляд,Суб’єктивний погляд,False,7,ukr,15. Autre subjectivité
+4,1,221,Несподіванки,Суб’єктивний погляд,False,7,ukr,6. Surprises
+4,1,216,Нотатки,Суб’єктивний погляд,False,7,ukr,1. Notations
+4,1,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+4,1,223,Пророкування,Суб’єктивний погляд,False,7,ukr,8. Pronostications
+4,1,229,Суб’єктивний погляд,Суб’єктивний погляд,True,7,ukr,14. Le côté subjectif
+4,1,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+4,2,216,Нотатки,Суб’єктивний погляд,False,7,ukr,1. Notations
+4,2,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+4,2,223,Пророкування,Суб’єктивний погляд,False,7,ukr,8. Pronostications
+4,2,230,Інший суб’єктивний погляд,Суб’єктивний погляд,False,7,ukr,15. Autre subjectivité
+4,2,221,Несподіванки,Суб’єктивний погляд,False,7,ukr,6. Surprises
+4,2,229,Суб’єктивний погляд,Суб’єктивний погляд,True,7,ukr,14. Le côté subjectif
+4,2,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+4,3,216,Нотатки,Суб’єктивний погляд,False,7,ukr,1. Notations
+4,3,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+4,3,221,Несподіванки,Суб’єктивний погляд,False,7,ukr,6. Surprises
+4,3,230,Інший суб’єктивний погляд,Суб’єктивний погляд,False,7,ukr,15. Autre subjectivité
+4,3,229,Суб’єктивний погляд,Суб’єктивний погляд,True,7,ukr,14. Le côté subjectif
+4,3,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+4,3,223,Пророкування,Суб’єктивний погляд,False,7,ukr,8. Pronostications
+5,1,226,Лого-ралі,Лаконічно,False,7,ukr,11. Logo-rallye
+5,1,222,Сон,Сон,True,7,ukr,7. Rêve
+5,1,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+5,1,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+5,1,218,Лаконічно,У зворотному порядку,False,7,ukr,3. Litotes
+5,1,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+5,1,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+5,2,226,Лого-ралі,Лаконічно,False,7,ukr,11. Logo-rallye
+5,2,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+5,2,218,Лаконічно,У зворотному порядку,False,7,ukr,3. Litotes
+5,2,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+5,2,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+5,2,222,Сон,Сон,True,7,ukr,7. Rêve
+5,2,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+5,3,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+5,3,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+5,3,218,Лаконічно,У зворотному порядку,False,7,ukr,3. Litotes
+5,3,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+5,3,226,Лого-ралі,Лаконічно,False,7,ukr,11. Logo-rallye
+5,3,222,Сон,Сон,True,7,ukr,7. Rêve
+5,3,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+6,1,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+6,1,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+6,1,233,Заперечення,Анаграми,False,7,ukr,18. Négativités
+6,1,217,З подвоєнням,Синхиза,False,7,ukr,2. En partie double
+6,1,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+6,1,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+6,1,230,Інший суб’єктивний погляд,Інший суб’єктивний погляд,True,7,ukr,15. Autre subjectivité
+6,2,217,З подвоєнням,Синхиза,False,7,ukr,2. En partie double
+6,2,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+6,2,230,Інший суб’єктивний погляд,Інший суб’єктивний погляд,True,7,ukr,15. Autre subjectivité
+6,2,233,Заперечення,Анаграми,False,7,ukr,18. Négativités
+6,2,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+6,2,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+6,2,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+6,3,233,Заперечення,Анаграми,False,7,ukr,18. Négativités
+6,3,230,Інший суб’єктивний погляд,Інший суб’єктивний погляд,True,7,ukr,15. Autre subjectivité
+6,3,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+6,3,217,З подвоєнням,Синхиза,False,7,ukr,2. En partie double
+6,3,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+6,3,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+6,3,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+7,1,222,Сон,Сон,True,7,ukr,7. Rêve
+7,1,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+7,1,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+7,1,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+7,1,225,Райдуга навпаки,Оживлення,False,7,ukr,10. L'arc-en-ciel
+7,1,236,Певні відмінності,Анаграми,False,7,ukr,21. Distinguo
+7,1,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+7,2,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+7,2,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+7,2,225,Райдуга навпаки,Оживлення,False,7,ukr,10. L'arc-en-ciel
+7,2,236,Певні відмінності,Анаграми,False,7,ukr,21. Distinguo
+7,2,222,Сон,Сон,True,7,ukr,7. Rêve
+7,2,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+7,2,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+7,3,236,Певні відмінності,Оживлення,False,7,ukr,21. Distinguo
+7,3,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+7,3,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+7,3,222,Сон,Сон,True,7,ukr,7. Rêve
+7,3,225,Райдуга навпаки,Оживлення,False,7,ukr,10. L'arc-en-ciel
+7,3,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+7,3,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+8,1,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+8,1,225,Райдуга навпаки,Пророкування,False,7,ukr,10. L'arc-en-ciel
+8,1,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+8,1,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+8,1,218,Лаконічно,Пророкування,False,7,ukr,3. Litotes
+8,1,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+8,2,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+8,2,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+8,2,218,Лаконічно,Пророкування,False,7,ukr,3. Litotes
+8,2,225,Райдуга навпаки,Пророкування,False,7,ukr,10. L'arc-en-ciel
+8,2,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+8,2,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+8,3,218,Лаконічно,Лаконічно,True,7,ukr,3. Litotes
+8,3,225,Райдуга навпаки,Пророкування,False,7,ukr,10. L'arc-en-ciel
+8,3,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+8,3,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+8,3,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+8,3,219,Метафорично,Синхиза,False,7,ukr,4. Métaphoriquement
+9,1,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+9,1,222,Сон,Сон,True,7,ukr,7. Rêve
+9,1,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+9,1,224,Синхиза,Несподіванки,False,7,ukr,9. Synchyses
+9,1,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+9,1,237,Гомеотелота,Несподіванки,False,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,2,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+9,2,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+9,2,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+9,2,237,Гомеотелота,Несподіванки,False,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,2,224,Синхиза,Несподіванки,False,7,ukr,9. Synchyses
+9,2,222,Сон,Сон,True,7,ukr,7. Rêve
+9,3,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+9,3,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+9,3,222,Сон,Сон,True,7,ukr,7. Rêve
+9,3,237,Гомеотелота,Несподіванки,False,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+9,3,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+9,3,224,Синхиза,Несподіванки,False,7,ukr,9. Synchyses
+10,1,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+10,1,233,Заперечення,Несподіванки,False,7,ukr,18. Négativités
+10,1,223,Пророкування,Несподіванки,False,7,ukr,8. Pronostications
+10,1,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+10,1,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+10,1,236,Певні відмінності,Анаграми,False,7,ukr,21. Distinguo
+10,2,236,Певні відмінності,Анаграми,False,7,ukr,21. Distinguo
+10,2,223,Пророкування,Несподіванки,False,7,ukr,8. Pronostications
+10,2,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+10,2,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+10,2,233,Заперечення,Несподіванки,False,7,ukr,18. Négativités
+10,2,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+10,3,233,Заперечення,Несподіванки,False,7,ukr,18. Négativités
+10,3,236,Певні відмінності,Анаграми,False,7,ukr,21. Distinguo
+10,3,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+10,3,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+10,3,239,Видавнича анотація,Пророкування,False,7,ukr,24. Prière d'insérer
+10,3,223,Пророкування,Несподіванки,False,7,ukr,8. Pronostications
+11,1,226,Лого-ралі,Певні відмінності,False,7,ukr,11. Logo-rallye
+11,1,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+11,1,237,Гомеотелота,Гомеотелота,True,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,1,236,Певні відмінності,Гомеотелота,False,7,ukr,21. Distinguo
+11,1,233,Заперечення,Гомеотелота,False,7,ukr,18. Négativités
+11,1,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+11,1,217,З подвоєнням,Певні відмінності,False,7,ukr,2. En partie double
+11,2,217,З подвоєнням,Певні відмінності,False,7,ukr,2. En partie double
+11,2,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+11,2,233,Заперечення,Гомеотелота,False,7,ukr,18. Négativités
+11,2,226,Лого-ралі,Певні відмінності,False,7,ukr,11. Logo-rallye
+11,2,237,Гомеотелота,Гомеотелота,True,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,2,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+11,2,236,Певні відмінності,Гомеотелота,False,7,ukr,21. Distinguo
+11,3,236,Певні відмінності,Гомеотелота,False,7,ukr,21. Distinguo
+11,3,226,Лого-ралі,Певні відмінності,False,7,ukr,11. Logo-rallye
+11,3,237,Гомеотелота,Гомеотелота,True,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+11,3,217,З подвоєнням,З подвоєнням,True,7,ukr,2. En partie double
+11,3,233,Заперечення,Гомеотелота,False,7,ukr,18. Négativités
+11,3,223,Пророкування,Пророкування,True,7,ukr,8. Pronostications
+11,3,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+12,1,226,Лого-ралі,Лаконічно,False,7,ukr,11. Logo-rallye
+12,1,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+12,1,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+12,1,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+12,1,222,Сон,Сон,True,7,ukr,7. Rêve
+12,1,218,Лаконічно,Оживлення,False,7,ukr,3. Litotes
+12,1,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+12,2,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+12,2,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+12,2,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+12,2,218,Лаконічно,Оживлення,False,7,ukr,3. Litotes
+12,2,226,Лого-ралі,Лаконічно,False,7,ukr,11. Logo-rallye
+12,2,222,Сон,Сон,True,7,ukr,7. Rêve
+12,2,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+12,3,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+12,3,226,Лого-ралі,Лаконічно,False,7,ukr,11. Logo-rallye
+12,3,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+12,3,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+12,3,222,Сон,Сон,True,7,ukr,7. Rêve
+12,3,238,Офіційний лист,Офіційний лист,True,7,ukr,23. Lettre officielle
+12,3,218,Лаконічно,Оживлення,False,7,ukr,3. Litotes
+13,1,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+13,1,230,Інший суб’єктивний погляд,Інший суб’єктивний погляд,True,7,ukr,15. Autre subjectivité
+13,1,223,Пророкування,У зворотному порядку,False,7,ukr,8. Pronostications
+13,1,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+13,1,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+13,1,224,Синхиза,У зворотному порядку,False,7,ukr,9. Synchyses
+13,2,224,Синхиза,У зворотному порядку,False,7,ukr,9. Synchyses
+13,2,223,Пророкування,У зворотному порядку,False,7,ukr,8. Pronostications
+13,2,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+13,2,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+13,2,230,Інший суб’єктивний погляд,Інший суб’єктивний погляд,True,7,ukr,15. Autre subjectivité
+13,2,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+13,3,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+13,3,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+13,3,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+13,3,224,Синхиза,У зворотному порядку,False,7,ukr,9. Synchyses
+13,3,223,Пророкування,У зворотному порядку,False,7,ukr,8. Pronostications
+13,3,230,Інший суб’єктивний погляд,Інший суб’єктивний погляд,True,7,ukr,15. Autre subjectivité
+14,1,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+14,1,229,Суб’єктивний погляд,Оживлення,False,7,ukr,14. Le côté subjectif
+14,1,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+14,1,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+14,1,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+14,1,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+14,2,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+14,2,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+14,2,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+14,2,229,Суб’єктивний погляд,Суб’єктивний погляд,True,7,ukr,14. Le côté subjectif
+14,2,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+14,2,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+14,3,229,Суб’єктивний погляд,Суб’єктивний погляд,True,7,ukr,14. Le côté subjectif
+14,3,227,Непевність,Непевність,True,7,ukr,12. Hésitations
+14,3,234,Оживлення,Оживлення,True,7,ukr,19. Animiste
+14,3,224,Синхиза,Оживлення,False,7,ukr,9. Synchyses
+14,3,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+14,3,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+15,1,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+15,1,236,Певні відмінності,З подвоєнням,False,7,ukr,21. Distinguo
+15,1,217,З подвоєнням,У зворотному порядку,False,7,ukr,2. En partie double
+15,1,231,Оповідь,Несподіванки,False,7,ukr,16. Récit
+15,1,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+15,1,218,Лаконічно,Оповідь,False,7,ukr,3. Litotes
+15,1,220,У зворотному порядку,Оповідь,False,7,ukr,5. Rétrograde
+15,2,218,Лаконічно,Оповідь,False,7,ukr,3. Litotes
+15,2,231,Оповідь,Несподіванки,False,7,ukr,16. Récit
+15,2,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+15,2,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+15,2,217,З подвоєнням,У зворотному порядку,False,7,ukr,2. En partie double
+15,2,220,У зворотному порядку,Оповідь,False,7,ukr,5. Rétrograde
+15,2,236,Певні відмінності,З подвоєнням,False,7,ukr,21. Distinguo
+15,3,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+15,3,231,Оповідь,Несподіванки,False,7,ukr,16. Récit
+15,3,218,Лаконічно,У зворотному порядку,False,7,ukr,3. Litotes
+15,3,217,З подвоєнням,У зворотному порядку,False,7,ukr,2. En partie double
+15,3,236,Певні відмінності,З подвоєнням,False,7,ukr,21. Distinguo
+15,3,220,У зворотному порядку,Оповідь,False,7,ukr,5. Rétrograde
+15,3,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+16,1,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+16,1,224,Синхиза,Уточнення,False,7,ukr,9. Synchyses
+16,1,230,Інший суб’єктивний погляд,Лаконічно,False,7,ukr,15. Autre subjectivité
+16,1,232,Словоскладення,Синхиза,False,7,ukr,17. Composition de mots
+16,1,218,Лаконічно,Уточнення,False,7,ukr,3. Litotes
+16,1,235,Анаграми,Синхиза,False,7,ukr,20. Anagrammes
+16,2,230,Інший суб’єктивний погляд,Лаконічно,False,7,ukr,15. Autre subjectivité
+16,2,224,Синхиза,Уточнення,False,7,ukr,9. Synchyses
+16,2,218,Лаконічно,Уточнення,False,7,ukr,3. Litotes
+16,2,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+16,2,235,Анаграми,Синхиза,False,7,ukr,20. Anagrammes
+16,2,232,Словоскладення,Синхиза,False,7,ukr,17. Composition de mots
+16,3,230,Інший суб’єктивний погляд,Лаконічно,False,7,ukr,15. Autre subjectivité
+16,3,218,Лаконічно,Уточнення,False,7,ukr,3. Litotes
+16,3,224,Синхиза,Уточнення,False,7,ukr,9. Synchyses
+16,3,235,Анаграми,Синхиза,False,7,ukr,20. Anagrammes
+16,3,232,Словоскладення,Синхиза,False,7,ukr,17. Composition de mots
+16,3,228,Уточнення,Уточнення,True,7,ukr,13. Précisions
+17,1,233,Заперечення,Певні відмінності,False,7,ukr,18. Négativités
+17,1,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+17,1,226,Лого-ралі,Певні відмінності,False,7,ukr,11. Logo-rallye
+17,1,237,Гомеотелота,Синхиза,False,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,1,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+17,1,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+17,1,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+17,2,226,Лого-ралі,Певні відмінності,False,7,ukr,11. Logo-rallye
+17,2,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+17,2,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+17,2,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+17,2,237,Гомеотелота,Синхиза,False,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,2,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+17,2,233,Заперечення,Певні відмінності,False,7,ukr,18. Négativités
+17,3,224,Синхиза,Синхиза,True,7,ukr,9. Synchyses
+17,3,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+17,3,233,Заперечення,Синхиза,False,7,ukr,18. Négativités
+17,3,236,Певні відмінності,Синхиза,False,7,ukr,21. Distinguo
+17,3,237,Гомеотелота,Синхиза,False,7,ukr,22. Homéoptotes (1947) / Homéotéleutes (1976)
+17,3,226,Лого-ралі,Певні відмінності,False,7,ukr,11. Logo-rallye
+17,3,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+18,1,230,Інший суб’єктивний погляд,Несподіванки,False,7,ukr,15. Autre subjectivité
+18,1,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+18,1,224,Синхиза,Несподіванки,False,7,ukr,9. Synchyses
+18,1,216,Нотатки,Несподіванки,False,7,ukr,1. Notations
+18,1,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+18,1,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+18,2,230,Інший суб’єктивний погляд,Несподіванки,False,7,ukr,15. Autre subjectivité
+18,2,216,Нотатки,Несподіванки,False,7,ukr,1. Notations
+18,2,224,Синхиза,Несподіванки,False,7,ukr,9. Synchyses
+18,2,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+18,2,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+18,2,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+18,3,221,Несподіванки,Несподіванки,True,7,ukr,6. Surprises
+18,3,216,Нотатки,Несподіванки,False,7,ukr,1. Notations
+18,3,224,Синхиза,Несподіванки,False,7,ukr,9. Synchyses
+18,3,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+18,3,230,Інший суб’єктивний погляд,Несподіванки,False,7,ukr,15. Autre subjectivité
+18,3,239,Видавнича анотація,Видавнича анотація,True,7,ukr,24. Prière d'insérer
+19,1,232,Словоскладення,У зворотному порядку,False,7,ukr,17. Composition de mots
+19,1,236,Певні відмінності,Словоскладення,False,7,ukr,21. Distinguo
+19,1,222,Сон,Сон,True,7,ukr,7. Rêve
+19,1,225,Райдуга навпаки,У зворотному порядку,False,7,ukr,10. L'arc-en-ciel
+19,1,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+19,1,235,Анаграми,Словоскладення,False,7,ukr,20. Anagrammes
+19,2,225,Райдуга навпаки,У зворотному порядку,False,7,ukr,10. L'arc-en-ciel
+19,2,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+19,2,235,Анаграми,Словоскладення,False,7,ukr,20. Anagrammes
+19,2,236,Певні відмінності,Словоскладення,False,7,ukr,21. Distinguo
+19,2,222,Сон,Сон,True,7,ukr,7. Rêve
+19,2,232,Словоскладення,У зворотному порядку,False,7,ukr,17. Composition de mots
+19,3,235,Анаграми,Словоскладення,False,7,ukr,20. Anagrammes
+19,3,222,Сон,Сон,True,7,ukr,7. Rêve
+19,3,225,Райдуга навпаки,У зворотному порядку,False,7,ukr,10. L'arc-en-ciel
+19,3,236,Певні відмінності,Словоскладення,False,7,ukr,21. Distinguo
+19,3,220,У зворотному порядку,У зворотному порядку,True,7,ukr,5. Rétrograde
+19,3,232,Словоскладення,У зворотному порядку,False,7,ukr,17. Composition de mots
+20,1,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+20,1,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+20,1,231,Оповідь,Оповідь,True,7,ukr,16. Récit
+20,1,226,Лого-ралі,Оповідь,False,7,ukr,11. Logo-rallye
+20,1,216,Нотатки,Оповідь,False,7,ukr,1. Notations
+20,1,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+20,2,219,Метафорично,Метафорично,True,7,ukr,4. Métaphoriquement
+20,2,216,Нотатки,Оповідь,False,7,ukr,1. Notations
+20,2,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+20,2,231,Оповідь,Оповідь,True,7,ukr,16. Récit
+20,2,226,Лого-ралі,Оповідь,False,7,ukr,11. Logo-rallye
+20,2,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+20,3,216,Нотатки,Оповідь,False,7,ukr,1. Notations
+20,3,232,Словоскладення,Словоскладення,True,7,ukr,17. Composition de mots
+20,3,231,Оповідь,Оповідь,True,7,ukr,16. Récit
+20,3,235,Анаграми,Анаграми,True,7,ukr,20. Anagrammes
+20,3,219,Метафорично,Оповідь,False,7,ukr,4. Métaphoriquement
+20,3,226,Лого-ралі,Оповідь,False,7,ukr,11. Logo-rallye
