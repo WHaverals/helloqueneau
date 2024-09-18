@@ -25,4 +25,4 @@ Things we are exploring:
 - We have built a **multilingual dataset** from various translations of *Exercices de Style*, which includes **annotations** on stylistic elements, narrative structure, and rhetorical devices.
 - We are also testing the ability of LLMs to recognize style consistently across multiple languages, which has proven to be one of the major limitations so far!
 
-Early experiments show that LLMs can indeed differentiate between styles; they perfomr well when in terms of recognizing 'genre' and 'register', but they struggle when confronted with more intricate features like focatlisation or linguistic play.
+Early experiments show that LLMs can indeed differentiate between styles; they perform well in terms of recognizing 'genre' and 'register', but they struggle when confronted with more intricate features like focatlisation or linguistic play.
